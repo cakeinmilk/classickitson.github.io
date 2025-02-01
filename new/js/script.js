@@ -289,8 +289,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // Load Header and Footer on DOMContentLoaded
 document.addEventListener("DOMContentLoaded", async () => {
-  await loadComponent('../components/header.html', 'header');
-  await loadComponent('../components/footer.html', 'footer');
+  await loadComponent('/new/components/header.html', 'header');
+  await loadComponent('/new/components/footer.html', 'footer');
 
   // Initialize Material Components (if any)
   if (window.mdc) {
