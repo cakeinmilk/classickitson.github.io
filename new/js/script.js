@@ -190,18 +190,18 @@ function renderTimeline(shows, isAscending = true) {
         
 		// Handle exceptions based on show title
         if (show.title === "A Show for Christmas") {
-          iconImg.src = '/images/icons/santa.png';
+          iconImg.src = '../images/icons/santa.png';
           iconImg.alt = 'Santa Icon';
         } else if (show.title === "Maybe a Ghost Story") {
-          iconImg.src = '/images/icons/ghost.png';
+          iconImg.src = '../images/icons/ghost.png';
           iconImg.alt = 'Ghost Icon';
         } else {
           // Standard solo/collaboration icons
           if (iconType === 'solo') {
-            iconImg.src = '/images/icons/solo.png';
+            iconImg.src = '../images/icons/solo.png';
             iconImg.alt = 'Solo Performance';
           } else if (iconType === 'collaboration') {
-            iconImg.src = '/images/icons/collaboration.png';
+            iconImg.src = '../images/icons/collaboration.png';
             iconImg.alt = 'Collaboration';
           } else {
             console.warn(`Unknown icon type: ${iconType} for show: ${show.title}`);

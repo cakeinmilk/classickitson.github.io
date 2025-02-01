@@ -5,11 +5,11 @@ const showsData = [
     year: 2001,
     type: "standup",
     title: "Love, Innocence and the Word Cock",
-    imageSrc: ["/images/titles/liwc.svg"],
+    imageSrc: ["../images/titles/liwc.svg"],
     layout: "single-line",
     icons: ["solo"],
 	availability: [""],
-	poster: "/images/posters/poster-loveinnocence.png",
+	poster: "../images/posters/poster-loveinnocence.png",
     blurbs: [
       {
         text: "His first show at the Pleasance",
@@ -34,16 +34,16 @@ const showsData = [
     ],
     notes: "This show marked Daniel Kitson's return to theatre after a brief hiatus.",
     gallery: [
-      "/images/gallery/66a_church_road/1.png",
-      "/images/gallery/66a_church_road/2.jpg",
-      "/images/gallery/66a_church_road/3.jpg"
+      "../images/gallery/66a_church_road/1.png",
+      "../images/gallery/66a_church_road/2.jpg",
+      "../images/gallery/66a_church_road/3.jpg"
     ]
   },
   {
     year: 2006,
     type: "standup",
     title: "Weltanschauung",   
-    imageSrc: ["/images/titles/weltanschauung.svg"],
+    imageSrc: ["../images/titles/weltanschauung.svg"],
     layout: "single-line",
     icons: ["solo"],
 	availability: [""],
@@ -84,20 +84,20 @@ const showsData = [
     ],
     notes: "This show marked Daniel Kitson's return to theatre after a brief hiatus.",
     gallery: [
-      "/images/gallery/66a_church_road/1.png",
-      "/images/gallery/66a_church_road/2.jpg",
-      "/images/gallery/66a_church_road/3.jpg"
+      "../images/gallery/66a_church_road/1.png",
+      "../images/gallery/66a_church_road/2.jpg",
+      "../images/gallery/66a_church_road/3.jpg"
     ]
   },
   {
     year: 2009,
     type: "theatre",
     title: "Stories for the Starlit Sky",   
-    imageSrc: ["/images/titles/starlit.svg"],
+    imageSrc: ["../images/titles/starlit.svg"],
     layout: "single-line",
     icons: ["solo"],
 	availability: [""],
-    poster: "/images/posters/poster-storiesforthestarlitsky.png",
+    poster: "../images/posters/poster-storiesforthestarlitsky.png",
     blurbs: [
 	  {text: "Sneak through late night London; all around, people letting themselves down or heading home, done with the day, thinking of bed and of breakfast, oblivious to you, to us, hiding in a park at midnight, hurling tales of love and hope and courage at the sky. Voices soaring from between trees to paint tears on the face of the moon; words, like fire in the night, laughter exploding through the dark. The day not done, not yet, the air thick with magic on the cusp of tomorrow.<br />Daniel Kitson and Gavin Osborn return to Regent’s Park Open Air Theatre for this ridiculously exciting notion. Born three years ago in giddy post show euphoria, resurrected last year in a similar state of wonder and pushed through a wintery gloop of logistical troubles to this rather wonderful folly.<br />The Idea: To conceive, write and perform three separate stories for three separate summer shows, all starting at midnight and lasting a little over an hour. A twinkling thought is about to become a magical reality. All conceivable obstacles to success have been moved, avoided or obliterated save for one trifling concern. Will anybody actually come to a park at midnight to listen to a story?",
 	  date: "2009"},
@@ -138,21 +138,21 @@ const showsData = [
     ],
     notes: "This show marked Daniel Kitson's return to theatre after a brief hiatus.",
     gallery: [
-      "/images/gallery/66a_church_road/1.png",
-      "/images/gallery/66a_church_road/2.jpg",
-      "/images/gallery/66a_church_road/3.jpg"
+      "../images/gallery/66a_church_road/1.png",
+      "../images/gallery/66a_church_road/2.jpg",
+      "../images/gallery/66a_church_road/3.jpg"
     ]
   },
   
     {
 	year: 2005,		  
 	type: "theatre",
-    imageSrc: ["/images/titles/sftwh.svg"],
+    imageSrc: ["../images/titles/sftwh.svg"],
 	title: "Stories For the Wobbly Hearted",
 	layout: "single-line",
 	icons: ["solo"],
 	availability: [""],
-    poster: "/images/posters/poster-wobblyhearted.png",
+    poster: "../images/posters/poster-wobblyhearted.png",
     blurbs: [
       {text: "Stories of heroic loneliness, optimistic sadness and broken love. told by lamp light."}
     ],
@@ -170,20 +170,20 @@ const showsData = [
     ],
     notes: "This show marked Daniel Kitson's return to theatre after a brief hiatus.",
     gallery: [
-      "/images/gallery/66a_church_road/1.png",
-      "/images/gallery/66a_church_road/2.jpg",
-      "/images/gallery/66a_church_road/3.jpg"
+      "../images/gallery/66a_church_road/1.png",
+      "../images/gallery/66a_church_road/2.jpg",
+      "../images/gallery/66a_church_road/3.jpg"
     ]
 	},
 	{
 	year: 2008,		  
 	type: "theatre",
-    imageSrc: ["/images/titles/66a.svg"],
+    imageSrc: ["../images/titles/66a.svg"],
 	title: "66A Church Road",
 	layout: "single-line",
 	icons: ["solo"],
 	availability: [""],
-	poster: "/images/posters/poster-66a.png",
+	poster: "../images/posters/poster-66a.png",
     blurbs: [
       {text: "Astonishing images emerge from weather-beaten suitcases. Telling a funny, sad and nostalgic story of a forsaken flat. A broken heart. And the ache for home."},
       {text: "Exploring the depths of personal narratives and storytelling."}
@@ -236,20 +236,20 @@ const showsData = [
     ],
     notes: "This show marked Daniel Kitson's return to theatre after a brief hiatus.",
     gallery: [
-      "/images/gallery/66a_church_road/1.png",
-      "/images/gallery/66a_church_road/2.jpg",
-      "/images/gallery/66a_church_road/3.jpg"
+      "../images/gallery/66a_church_road/1.png",
+      "../images/gallery/66a_church_road/2.jpg",
+      "../images/gallery/66a_church_road/3.jpg"
     ]
 	},
 	{
     year: 2014,
     type: "theatre",
     title: "A Variety of Things in a Room",
-    imageSrc: ["/images/titles/polyphony.svg"],
+    imageSrc: ["../images/titles/polyphony.svg"],
     layout: "single-line",
     icons: ["solo"],
 	availability: [""],
-	poster: "/images/posters/poster-polyphony.png",
+	poster: "../images/posters/poster-polyphony.png",
     blurbs: [
       {text: "In 2015 I wrote a play – a real humdinger. It has a pretty epic scope, a relatively staggering vision and somewhere in the region of twenty characters. Each of which has been performed and recorded in isolation, producing a litany of individual voices – each of them perfect, captured as a single track that will, when played back in precise unison, form a glorious theatrical polyphony. The play is perfect. The recordings are perfect. I just need enough people to hit play. That's all."}
     ],
@@ -267,20 +267,20 @@ const showsData = [
     ],
     notes: "After a song by Gavin Osborn, Daniel Kitson introduced the evening, outlining its structure: the show would unfold in segments, performed in various spots around the room. Audience members were handed torches to spotlight the action as it happened. The night featured a blend of elements, including songs by Gavin, a list of things that make Daniel happy, Gavin reading cassette sleeve notes penned by John Oliver for a compilation tape he once gifted, and Kitson engaging with a pre-recorded Isy Suttie. Among Gavin’s songs, three had been released commercially, while the rest remained unreleased.<br />The pre-recorded segments, styled as phone calls, showcased Daniel Kitson performing live alongside Isy Suttie’s pre-recorded responses. These interactions followed Keith (Kitson) as he initially reached out for companionship through a classified ad, speaking with Linda (Suttie), an employee at the local newspaper. In later recordings, Keith revised his ad and lodged a noise complaint with Linda, who had since taken a job at the local police station. The final segment brought the story full circle, with Keith placing another classified ad—this time directed at Linda herself, who was once again working at the newspaper.<br />Running order:<br />Gavin Osborn - <em>That's How I Know</em><br />Daniel Kitson - Introduction<br />Daniel - Mates with Keith #1<br />Gavin - Last Tape from John #1<br />Daniel - Happiness List 1-6<br />Gavin - <em>Not Going Anywhere</em><br />Daniel - Mates with Keith #2<br />Gavin - Last Tape from John #2<br />Daniel - Happiness List 7-11<br />Gavin - Last Tape from John #3<br />Daniel - Mates with Keith #3<br />Gavin - <em>Extra Large</em> - unreleased<br />Interval<br />Daniel - Mates with Keith #4<br />Gavin - Last Tape from John #4<br />Daniel - Happiness List 12-15<br />Gavin - <em>In Another Lifetime</em><br />Daniel - Happiness List 16-21<br />Gavin - Last Tape from John #5<br />Daniel - Mates with Keith #5<br />Gavin - <em>Glow in the Park</em> - unreleased<br />Daniel - Happiness List 22-25<br />Gavin - Last Tape from John #6<br />Daniel - Mates with Keith #6<br />Gavin - <em>Last Tape from John</em>",
     gallery: [
-      "/images/gallery/66a_church_road/1.png",
-      "/images/gallery/66a_church_road/2.jpg",
-      "/images/gallery/66a_church_road/3.jpg"
+      "../images/gallery/66a_church_road/1.png",
+      "../images/gallery/66a_church_road/2.jpg",
+      "../images/gallery/66a_church_road/3.jpg"
     ]
   },
 	{
     year: 2015,
     type: "theatre",
     title: "Polyphony",
-    imageSrc: ["/images/titles/polyphony.svg"],
+    imageSrc: ["../images/titles/polyphony.svg"],
     layout: "single-line",
     icons: ["solo"],
 	availability: [""],
-	poster: "/images/posters/poster-polyphony.png",
+	poster: "../images/posters/poster-polyphony.png",
     blurbs: [
       {text: "In 2015 I wrote a play – a real humdinger. It has a pretty epic scope, a relatively staggering vision and somewhere in the region of twenty characters. Each of which has been performed and recorded in isolation, producing a litany of individual voices – each of them perfect, captured as a single track that will, when played back in precise unison, form a glorious theatrical polyphony. The play is perfect. The recordings are perfect. I just need enough people to hit play. That's all."}
     ],
@@ -298,16 +298,16 @@ const showsData = [
     ],
     notes: "This show marked Daniel Kitson's return to theatre after a brief hiatus.",
     gallery: [
-      "/images/gallery/66a_church_road/1.png",
-      "/images/gallery/66a_church_road/2.jpg",
-      "/images/gallery/66a_church_road/3.jpg"
+      "../images/gallery/66a_church_road/1.png",
+      "../images/gallery/66a_church_road/2.jpg",
+      "../images/gallery/66a_church_road/3.jpg"
     ]
   },
   {
     year: 2019,
     type: "theatre",
     title: "Outside. Again.",
-    imageSrc: ["/images/titles/outsideagain.svg"],
+    imageSrc: ["../images/titles/outsideagain.svg"],
     layout: "single-line",
     icons: ["solo"],
 	availability: [""],
@@ -359,13 +359,13 @@ const showsData = [
     ],
     notes: "Lit by lamplight, a dungaree-clad Daniel Kitson introduced the evening; Gavin Osborn would perform five songs, he would read out a list of 25 items. And these would be interspersed with four recordings featuring Tim Key and Isy Suttie.<br /><br />Kitson's list is prefaced by an announcement that he’s lost faith in the pursuit of love and no longer sees himself as the romantic purist searching for a great love, Kitson describes himself instead as someone who destroys people whilst checking within them for magic. His list comprises 25 worthwhile things he could be doing.<br /><br />Two of Gavin's songs would later appear on his April 2022 album <em>Scrolling Home</em>.<br /><br />The recordings capture Duncan Thwaite (Key), who has set up a complex IVR system in his home, linked to 47 phones, with the help of a confused engineer he dubs Keith. Two later recordings capture someone silently navigating Duncan's intricate menu. In the final recording the caller is revealed to be Lucy, a customer service rep (Suttie). Questioning the need for such a system and whether the contract should be renewed, she finally reaches Duncan.<br /><br />Running order:<br />Daniel - Introduction<br />Recording #1<br />Gavin - <em>I Guess I Drifted</em> - early version<br />Daniel - Worthwhile things 1-5<br />Gavin - <em>John's Not Got a TV</em> - unreleased<br />Recording #2<br />Daniel - Worthwhile things 6-11<br />Gavin - <em>A Couple of Days</em> - unreleased<br />Daniel - Worthwhile things 12-15<br />Recording #3<br />Gavin - <em>Dear Gavin</em> - unreleased<br />Daniel - Worthwhile things 16-20<br />Recording #4<br />Gavin - <em>Just a Little Space</em><br />Daniel - Worthwhile things 21-25",
     gallery: [
-      "/images/gallery/outside.again/1.jpg"
+      "../images/gallery/outside.again/1.jpg"
     ]
   },
 	{	  
 	year: 2019,		  
 	type: "theatre",
-    imageSrc: ["/images/titles/keep.svg"],
+    imageSrc: ["../images/titles/keep.svg"],
 	title: "Keep",
 	layout: "single-line",
 	icons: ["solo"],
@@ -388,16 +388,16 @@ const showsData = [
     ],
     notes: "This show marked Daniel Kitson's return to theatre after a brief hiatus.",
     gallery: [
-      "/images/gallery/66a_church_road/1.png",
-      "/images/gallery/66a_church_road/2.jpg",
-      "/images/gallery/66a_church_road/3.jpg"
+      "../images/gallery/66a_church_road/1.png",
+      "../images/gallery/66a_church_road/2.jpg",
+      "../images/gallery/66a_church_road/3.jpg"
     ]
 	},
 
 	{	  
 	year: 2013,		  
 	type: "theatre",			
-	imageSrc: ["/images/titles/atbbte.svg"],
+	imageSrc: ["../images/titles/atbbte.svg"],
     title: "After the Beginning, Before the End",
 	layout: "single-line",
 	icons: ["solo"],
@@ -420,20 +420,20 @@ const showsData = [
     ],
     notes: "This show marked Daniel Kitson's return to theatre after a brief hiatus.",
     gallery: [
-      "/images/gallery/66a_church_road/1.png",
-      "/images/gallery/66a_church_road/2.jpg",
-      "/images/gallery/66a_church_road/3.jpg"
+      "../images/gallery/66a_church_road/1.png",
+      "../images/gallery/66a_church_road/2.jpg",
+      "../images/gallery/66a_church_road/3.jpg"
     ]
     },
 	{      
 	  year: 2009,	  
 	  type: "theatre",		  
-	  imageSrc: ["/images/titles/church.svg"],
+	  imageSrc: ["../images/titles/church.svg"],
 	  title: "The Interminable Suicide of Gregory Church",
 	  layout: "single-line",
 	  icons: ["solo"],
 	  availability: [""],
-	  poster: "/images/posters/poster-gregorychurch.png",
+	  poster: "../images/posters/poster-gregorychurch.png",
     blurbs: [
       {text: "Gregory had fifty seven letters to write. He'd never written that many letters, not in one go. In fact, he'd never written a single letter and it was taking significantly longer than he'd anticipated. He'd started, full of optimism, curiously enough, at 9am and now here he was 8 hours later half way through letter twenty four. He glanced at his watch and then at the noose hanging over his head. Gregory sighed. Had he known how long suicide letters take, he thought, he wouldn't have cancelled the milk for the morning.<br>A story about a death postponed by life."}
     ],
@@ -565,15 +565,15 @@ const showsData = [
     ],
     notes: "This show marked Daniel Kitson's return to theatre after a brief hiatus.",
     gallery: [
-      "/images/gallery/66a_church_road/1.png",
-      "/images/gallery/66a_church_road/2.jpg",
-      "/images/gallery/66a_church_road/3.jpg"
+      "../images/gallery/66a_church_road/1.png",
+      "../images/gallery/66a_church_road/2.jpg",
+      "../images/gallery/66a_church_road/3.jpg"
     ]
 	},
 	{     
 	year: 2008,
 	type: "standup",
-    imageSrc: ["/images/titles/impotentfury.svg"],
+    imageSrc: ["../images/titles/impotentfury.svg"],
 	title: "The Impotent Fury of the Privileged",
 	layout: "single-line",
     icons: ["solo"],
@@ -596,15 +596,15 @@ const showsData = [
     ],
     notes: "This show marked Daniel Kitson's return to theatre after a brief hiatus.",
     gallery: [
-      "/images/gallery/66a_church_road/1.png",
-      "/images/gallery/66a_church_road/2.jpg",
-      "/images/gallery/66a_church_road/3.jpg"
+      "../images/gallery/66a_church_road/1.png",
+      "../images/gallery/66a_church_road/2.jpg",
+      "../images/gallery/66a_church_road/3.jpg"
     ]
     },
 	{     
 	year: 2002,	  
 	type: "standup",
-    imageSrc: ["/images/titles/something.svg"],
+    imageSrc: ["../images/titles/something.svg"],
     title: "Something",
 	layout: "single-line",
 	icons: ["solo"],
@@ -628,15 +628,15 @@ const showsData = [
     ],
     notes: "This show marked Daniel Kitson's return to theatre after a brief hiatus.",
     gallery: [
-      "/images/gallery/66a_church_road/1.png",
-      "/images/gallery/66a_church_road/2.jpg",
-      "/images/gallery/66a_church_road/3.jpg"
+      "../images/gallery/66a_church_road/1.png",
+      "../images/gallery/66a_church_road/2.jpg",
+      "../images/gallery/66a_church_road/3.jpg"
     ]
     },
 	{
 	year: 2004,	  
 	type: "standup",		 
-	imageSrc: ["/images/titles/loverthinker.svg"],
+	imageSrc: ["../images/titles/loverthinker.svg"],
     title: "Lover, Thinker, Artist and Prophet",
 	layout: "single-line",
 	icons: ["solo"],
@@ -660,20 +660,20 @@ const showsData = [
     ],
     notes: "This show marked Daniel Kitson's return to theatre after a brief hiatus.",
     gallery: [
-      "/images/gallery/66a_church_road/1.png",
-      "/images/gallery/66a_church_road/2.jpg",
-      "/images/gallery/66a_church_road/3.jpg"
+      "../images/gallery/66a_church_road/1.png",
+      "../images/gallery/66a_church_road/2.jpg",
+      "../images/gallery/66a_church_road/3.jpg"
     ]
 	},
 	{	
 	year: 2005,
 	type: "standup",
-    imageSrc: ["/images/titles/atthestand.svg"],
+    imageSrc: ["../images/titles/atthestand.svg"],
     title: "Daniel Kitson 11:30pm at The Stand",
 	layout: "single-line",
 	icons: ["solo"],
 	availability: [""],
-	poster: "/images/posters/poster-atthestand.png",
+	poster: "../images/posters/poster-atthestand.png",
     blurbs: [
       {text: "Wooo-hoooo that’s right Edinburgh, it’s time once more to laugh through your hands and glance at your friends for approval whilst a man stands before you on a well lit plinth and says things. Boom!"}
     ],
@@ -691,15 +691,15 @@ const showsData = [
     ],
     notes: "This show marked Daniel Kitson's return to theatre after a brief hiatus.",
     gallery: [
-      "/images/gallery/66a_church_road/1.png",
-      "/images/gallery/66a_church_road/2.jpg",
-      "/images/gallery/66a_church_road/3.jpg"
+      "../images/gallery/66a_church_road/1.png",
+      "../images/gallery/66a_church_road/2.jpg",
+      "../images/gallery/66a_church_road/3.jpg"
     ]
     },
 	{     
 	year: 2003,
 	type: "theatre",
-    imageSrc: ["/images/titles/amadeupstory.svg"],
+    imageSrc: ["../images/titles/amadeupstory.svg"],
     title: "A Made Up Story",
 	layout: "single-line",
     icons: ["solo"],
@@ -723,15 +723,15 @@ const showsData = [
     ],
     notes: "This show marked Daniel Kitson's return to theatre after a brief hiatus.",
     gallery: [
-      "/images/gallery/66a_church_road/1.png",
-      "/images/gallery/66a_church_road/2.jpg",
-      "/images/gallery/66a_church_road/3.jpg"
+      "../images/gallery/66a_church_road/1.png",
+      "../images/gallery/66a_church_road/2.jpg",
+      "../images/gallery/66a_church_road/3.jpg"
     ]
     },
 	{     
 	year: 2012,	  
 	type: "theatre",		  
-	imageSrc: ["/images/titles/asof152pm.svg"],
+	imageSrc: ["../images/titles/asof152pm.svg"],
     title: "As Of 1.52GMT On Friday 27th April 2012, This Show Has No Title",
 	layout: "single-line",
 	icons: ["solo"],
@@ -754,15 +754,15 @@ const showsData = [
     ],
     notes: "This show marked Daniel Kitson's return to theatre after a brief hiatus.",
     gallery: [
-      "/images/gallery/66a_church_road/1.png",
-      "/images/gallery/66a_church_road/2.jpg",
-      "/images/gallery/66a_church_road/3.jpg"
+      "../images/gallery/66a_church_road/1.png",
+      "../images/gallery/66a_church_road/2.jpg",
+      "../images/gallery/66a_church_road/3.jpg"
     ]
     },
 	{      
 	year: 2017,	  
 	type: "theatre",		  
-	imageSrc: ["/images/titles/shortseries.svg"],
+	imageSrc: ["../images/titles/shortseries.svg"],
     title: "A Short Series of Disagreements Presented Here in Chronological Order",
 	layout: "single-line",	
     icons: ["solo"],
@@ -785,20 +785,20 @@ const showsData = [
     ],
     notes: "This show marked Daniel Kitson's return to theatre after a brief hiatus.",
     gallery: [
-      "/images/gallery/66a_church_road/1.png",
-      "/images/gallery/66a_church_road/2.jpg",
-      "/images/gallery/66a_church_road/3.jpg"
+      "../images/gallery/66a_church_road/1.png",
+      "../images/gallery/66a_church_road/2.jpg",
+      "../images/gallery/66a_church_road/3.jpg"
     ]
     },
 	{      
 	year: 2013,	  
 	type: "theatre",		  
-	imageSrc: ["/images/titles/tree.svg"],			
+	imageSrc: ["../images/titles/tree.svg"],			
 	title: "Tree",
 	layout: "single-line",
 	icons: ["collaboration"],
 	availability: [""],
-	poster: "/images/posters/poster-tree.jpg",
+	poster: "../images/posters/poster-tree.jpg",
     blurbs: [
       {text: "It's early evening. it's mid autumn. It's starting to get dark. And on a quiet residential street somewhere in England, a man with a picnic basket, arrives at a tree."}
     ],
@@ -816,15 +816,15 @@ const showsData = [
     ],
     notes: "This show marked Daniel Kitson's return to theatre after a brief hiatus.",
     gallery: [
-      "/images/gallery/66a_church_road/1.png",
-      "/images/gallery/66a_church_road/2.jpg",
-      "/images/gallery/66a_church_road/3.jpg"
+      "../images/gallery/66a_church_road/1.png",
+      "../images/gallery/66a_church_road/2.jpg",
+      "../images/gallery/66a_church_road/3.jpg"
     ]
 	},
 	{
 	year: 2016,
 	type: "theatre",
-    imageSrc: ["/images/titles/mouse.svg"],
+    imageSrc: ["../images/titles/mouse.svg"],
     title: "Mouse: The Persistence of an Unlikely Thought",
 	layout: "single-line",
 	icons: ["solo"],
@@ -847,15 +847,15 @@ const showsData = [
     ],
     notes: "This show marked Daniel Kitson's return to theatre after a brief hiatus.",
     gallery: [
-      "/images/gallery/66a_church_road/1.png",
-      "/images/gallery/66a_church_road/2.jpg",
-      "/images/gallery/66a_church_road/3.jpg"
+      "../images/gallery/66a_church_road/1.png",
+      "../images/gallery/66a_church_road/2.jpg",
+      "../images/gallery/66a_church_road/3.jpg"
     ]
     },
 	{     
 	year: 2013,
 	type: "theatre",
-	imageSrc: ["/images/titles/analogue.svg"],
+	imageSrc: ["../images/titles/analogue.svg"],
     title: "Analog.Ue",   
 	layout: "single-line",
     icons: ["solo"],
@@ -878,20 +878,20 @@ const showsData = [
     ],
     notes: "This show marked Daniel Kitson's return to theatre after a brief hiatus.",
     gallery: [
-      "/images/gallery/66a_church_road/1.png",
-      "/images/gallery/66a_church_road/2.jpg",
-      "/images/gallery/66a_church_road/3.jpg"
+      "../images/gallery/66a_church_road/1.png",
+      "../images/gallery/66a_church_road/2.jpg",
+      "../images/gallery/66a_church_road/3.jpg"
     ]
     },
 	{     
 	year: 2014,
 	type: "theatre",
-	imageSrc: ["/images/titles/christmas.svg"],
+	imageSrc: ["../images/titles/christmas.svg"],
     title: "A Show for Christmas",   
 	layout: "single-line",
     icons: ["solo"],
 	availability: [""],      
-    poster: "/images/posters/poster-showforchristmas.png",
+    poster: "../images/posters/poster-showforchristmas.png",
     blurbs: [
       {text: "It’s 4.52pm on Wednesday the twenty fourth of December when Pollyanna Plunket, briefly distracted by opening a bag of toffees – glances away from the road for no more than a second only to find, upon looking back that an old man, , from nowhere made his way to the middle of the street. She hits the horn, the man turns, she stamps hard on the brakes and whilst the vehicle, a mid sized motorhome – does slow down, it does not stop. Skidding on, over glistening black tarmac, careering into the old man –making no visible attempt to move - rooted to the spot, bent over under the weight of a battered red bag - the inevitable impact flips him up over the bonnet and into the windscreen – his eyes oddly calm as they meet hers for a moment before he slumps down the glass, rolling back off the bonnet and out of sight.<br />A story about Possibility, Magic, Grief, Hope, Tradition and Toffees.<br />Christmas, basically."}
     ],
@@ -909,20 +909,20 @@ const showsData = [
     ],
     notes: "This show marked Daniel Kitson's return to theatre after a brief hiatus.",
     gallery: [
-      "/images/gallery/66a_church_road/1.png",
-      "/images/gallery/66a_church_road/2.jpg",
-      "/images/gallery/66a_church_road/3.jpg"
+      "../images/gallery/66a_church_road/1.png",
+      "../images/gallery/66a_church_road/2.jpg",
+      "../images/gallery/66a_church_road/3.jpg"
     ]
     },
 	{      
 	year: 2009,
 	type: "standup",
-    imageSrc: ["/images/titles/wagh.svg"],
+    imageSrc: ["../images/titles/wagh.svg"],
     title: "We Are Gathered Here",
 	layout: "single-line",
 	icons: ["solo"],
 	availability: [""],
-	poster: "/images/posters/poster-wearegatheredhere.png",
+	poster: "../images/posters/poster-wearegatheredhere.png",
     blurbs: [
       {text: "Everyone you have ever known will die.<br />And so will you.<br />And yet we dance in the looming shadows of mortality, we dance and we talk and we eat and we argue. We read books. We care for people. We buy houses. We plant trees and we start to drive and we learn how to make milk frothy. Because something, somewhere in the middle of it all has to matter. As our seconds and minutes and days slip by, something has to be important. And who are we to giggle and point and sneer at what others have found to care about? Who is to say what is beneath us, what is not worthy of our hearts?<br />Everybody needs something to hold when it gets dark, so who am I, who are any of us, to point at anything and call it facile or redundant or stupid or rubbish?<br />Even when it quite clearly is.<br />A new stand up show about finding something important in an ocean of twaddle."}
     ],
@@ -940,15 +940,15 @@ const showsData = [
     ],
     notes: "This show marked Daniel Kitson's return to theatre after a brief hiatus.",
     gallery: [
-      "/images/gallery/66a_church_road/1.png",
-      "/images/gallery/66a_church_road/2.jpg",
-      "/images/gallery/66a_church_road/3.jpg"
+      "../images/gallery/66a_church_road/1.png",
+      "../images/gallery/66a_church_road/2.jpg",
+      "../images/gallery/66a_church_road/3.jpg"
     ]
     },
 	{      
 	year: 2017,
 	type: "standup",
-    imageSrc: ["/images/titles/sote.svg"],
+    imageSrc: ["../images/titles/sote.svg"],
     title: "Something Other Than Everything",
 	layout: "single-line",
 	icons: ["solo"],
@@ -971,20 +971,20 @@ const showsData = [
     ],
     notes: "This show marked Daniel Kitson's return to theatre after a brief hiatus.",
     gallery: [
-      "/images/gallery/66a_church_road/1.png",
-      "/images/gallery/66a_church_road/2.jpg",
-      "/images/gallery/66a_church_road/3.jpg"
+      "../images/gallery/66a_church_road/1.png",
+      "../images/gallery/66a_church_road/2.jpg",
+      "../images/gallery/66a_church_road/3.jpg"
     ]
     },
 	{      
 	year: 2019,
 	type: "standup",
-    imageSrc: ["/images/titles/orange.svg"],
+    imageSrc: ["../images/titles/orange.svg"],
     title: "Everything Smells Of Orange",
 	layout: "single-line",
 	icons: ["solo"],
 	availability: [""],
-    poster: "/images/posters/poster-everythingsmellsoforange.jpg",
+    poster: "../images/posters/poster-everythingsmellsoforange.jpg",
     blurbs: [
       {text: "Daniel Kitson, having not made anything unequivocally good for years and years and years, now displays a charmless lack of respect for a tolerant if dwindling audience, a supportive venue and, actually, the greatest arts festival in the world, by filling a slot at the last minute, doing very little work, making no discernible progress and charging everyone five pounds to watch."}
     ],
@@ -996,15 +996,15 @@ const showsData = [
     ],
     notes: "This show marked Daniel Kitson's return to theatre after a brief hiatus.",
     gallery: [
-      "/images/gallery/66a_church_road/1.png",
-      "/images/gallery/66a_church_road/2.jpg",
-      "/images/gallery/66a_church_road/3.jpg"
+      "../images/gallery/66a_church_road/1.png",
+      "../images/gallery/66a_church_road/2.jpg",
+      "../images/gallery/66a_church_road/3.jpg"
     ]
     },
 	{      
 	year: 2023,
 	type: "standup",
-    imageSrc: ["/images/titles/goodthink.svg"],
+    imageSrc: ["../images/titles/goodthink.svg"],
     title: "I Shall Have a Good Think When Everybody’s Gone Home",
 	layout: "single-line",
 	icons: ["solo"],
@@ -1059,20 +1059,20 @@ const showsData = [
     ],
     notes: "This show marked Daniel Kitson's return to theatre after a brief hiatus.",
     gallery: [
-      "/images/gallery/66a_church_road/1.png",
-      "/images/gallery/66a_church_road/2.jpg",
-      "/images/gallery/66a_church_road/3.jpg"
+      "../images/gallery/66a_church_road/1.png",
+      "../images/gallery/66a_church_road/2.jpg",
+      "../images/gallery/66a_church_road/3.jpg"
     ]
     },
 	{      
 	year: 2022,
 	type: "theatre",
-    imageSrc: ["/images/titles/maybeaghoststory.svg"],
+    imageSrc: ["../images/titles/maybeaghoststory.svg"],
     title: "Maybe a Ghost Story",
 	layout: "single-line",
 	icons: ["solo"],
 	availability: [""],
-	poster: "/images/posters/poster-maybeaghoststory.png",
+	poster: "../images/posters/poster-maybeaghoststory.png",
     blurbs: [
       {text: "I don’t believe in Ghosts and I’ve never been comfortable with (or really, any good at) frightening people."}
     ],
@@ -1088,15 +1088,15 @@ const showsData = [
     ],
     notes: "This show marked Daniel Kitson's return to theatre after a brief hiatus.",
     gallery: [
-      "/images/gallery/66a_church_road/1.png",
-      "/images/gallery/66a_church_road/2.jpg",
-      "/images/gallery/66a_church_road/3.jpg"
+      "../images/gallery/66a_church_road/1.png",
+      "../images/gallery/66a_church_road/2.jpg",
+      "../images/gallery/66a_church_road/3.jpg"
     ]
     },
 	{      
 	year: 2020,
 	type: "theatre",
-    imageSrc: ["/images/titles/dotdotdot.svg"],
+    imageSrc: ["../images/titles/dotdotdot.svg"],
     title: "Dot. Dot. Dot.",
 	layout: "single-line",
 	icons: ["solo"],
@@ -1153,20 +1153,20 @@ const showsData = [
     ],
     notes: "This show marked Daniel Kitson's return to theatre after a brief hiatus.",
     gallery: [
-      "/images/gallery/66a_church_road/1.png",
-      "/images/gallery/66a_church_road/2.jpg",
-      "/images/gallery/66a_church_road/3.jpg"
+      "../images/gallery/66a_church_road/1.png",
+      "../images/gallery/66a_church_road/2.jpg",
+      "../images/gallery/66a_church_road/3.jpg"
     ]
     },
 	{
     year: 2024,
     type: "theatre",
     title: "PITH",
-    imageSrc: ["/images/titles/pith.svg"],    
+    imageSrc: ["../images/titles/pith.svg"],    
     layout: "single-line",
     icons: ["solo"],
 	availability: [""],
-	poster: "/images/posters/poster-pith.png",
+	poster: "../images/posters/poster-pith.png",
     blurbs: [
       {text: "<p>There might be music. There might be music and the phrase 'You will one day', and a man in a coffee shop asking if they charge for Babycinos. There might be someone's hand in mine when I wake up and the sound of somewhere else and a notebook full of crossed out names. There might be more trains than usual needing to be repaired at the same time. There might be cake and natural causes and a ladybird walking across the screen of a smartphone. There might be other ideas and a dog with a haircut and my reflection inside a fitting room. There might be gaps in the stories and stories in the gaps and work to be done. There might be a new thought and an old friend and someone else's coat too close to my leg. There might be clues and there might be carpet and there might be a busker in Cardiff singing hallelujah.</p><p>And,</p><p>It's possible,</p><p>There might be jokes.</p>"}
     ],
@@ -1190,9 +1190,9 @@ const showsData = [
     ],
     notes: "<p>In a January newsletter, Kitson mentioned discussions with the Exchange about his hopes to stage something there within the next 18 months. By summer, it was confirmed on BBC London Radio that he was starting to write, planning a premiere in Manchester by October. The show's development was in motion by September when he announced in another newsletter that a new show would indeed debut later that autumn.</p><p>The Royal Exchange confirmed details on their website on September 11, releasing a show name, dates, a poster, and a blurb for the upcoming run. These disappeared a few days later.</p><p>Two work-in-progress performances under the title <em>Standing Start</em> were scheduled at the Bill Murray in London for late September and a few days later <em>PITH</em> returned to the Royal Exchange site. Reviews of the Manchester staging were positive, gaining 3.5/5 stars from Chortle and 4/5 from The Times, both finding it engaging but acknowledging the show's deliberately unfinished quality (Kitson admitting within the show that it became quite clear to him that the show would be in a finished state by Spring 2025).</p><p>On November 3, the Bill Murray announced a 'Super Secret Daniel Kitson Gig'—a staging of <em>PITH</em>—for the following day. This was ostensibly an opportunity for Daniel to record the show, incorporating the additions he'd made during the Manchester run.</p><p>The show has numerous links to elements from previous shows:<ul><li>Cassette tapes – used in <em>C-90</em>, <em>Stories For the Wobbly-Hearted</em>, <em>Analog.Ue</em>, and <em>Polyphony</em></li><li>his recurring daydream of running a coffee shop that doesn't have to operate as a business sounds a lot like his dream from <em>66A Church Road</em>, to run an unprofitable record shop/cinema</li><li>His other recurring daydream, &quot;to have another human being know him entirely&quot; evokes one of his aims from <em>Outside. Again</em> &quot;to be known better by someone than I know myself&quot;</li><li>&quot;Stories are good&quot;– reference to <em>Collaborator</em></li><li>Meredith Winston/Winnie, Robert Pickles/Mr. Pickles/Bob/Pickle – nearly all his stories have at least one character where it's significant to the plot and/or their character development what name they get called (<em>C-90</em>, <em>Stories For the Starlit Sky</em>, <em>Gregory Church</em>, <em>Always Right Now Until It's Later</em>, <em>This Story Has No Title</em>, <em>Tree</em>, <em>Analog.Ue</em>, <em>Mouse</em>, <em>Short Series of Disagreements</em>), and in the narration of <em>Shenaniganagain</em>, he explains that he likes to pick character names that can be shortened to nicknames so he can use this in the story</li><li>Winnie – in <em>Pith</em>: the name of the character who promised in 2004 that she'd meet a guy on a bench in 2024, and in <em>It's Always Right Now Until It's Later</em>: the name of the girlfriend the main character had in his 20s, then after the breakup couldn't find love with anyone else and told his dates that he'd be single forever because he'd missed his &quot;first big swing&quot; at love – both analogous to real-life stories Kitson told, around the time he wrote those stories, about his girlfriend from the early 00s</li><li>Bob trying to &quot;erase his life&quot; by erasing all the stuff on his tapes is reminiscent of the ideas in <em>Keep</em>, about Kitson thinking he'd like to burn down everything he owned so he could start fresh.</li><li>The story about repeating the word &quot;cunt&quot; with his friend as teenagers, saying it to each other to desensitize to the words – that story was in his untitled 2005 Edinburgh show.</li><li>His &quot;last mile of a marathon&quot; analogy is quite similar to the orchard/family analogy from <em>Everything Smells of Orange</em> in 2019. (And that orchard/family analogy came from <em>It's Always Right Now Until It's Later</em> from 2010, and was referenced even earlier as something Kitson's parents did.)</li><li>Bob leaving his tapes in random places for random people to find is very similar to Poppy's story in <em>Stories For the Wobbly Hearted</em>.</li><li>Two main characters meet by chance on public transport and an older man recounts a story to the younger person is a motif from <em>The Ballad of Roger and Grace</em>.</li><li>Kitson mentions the inspiration for one of the characters on the bus is a real life man whose irritating t-shirt slogan read &quot;You Need to Calm Down&quot;. This is likely a shirt inspired by the Taylor Swift song of the same name.</li></ul>",
     gallery: [
-      "/images/gallery/66a_church_road/1.png",
-      "/images/gallery/66a_church_road/2.jpg",
-      "/images/gallery/66a_church_road/3.jpg"
+      "../images/gallery/66a_church_road/1.png",
+      "../images/gallery/66a_church_road/2.jpg",
+      "../images/gallery/66a_church_road/3.jpg"
     ]
   }
 ];

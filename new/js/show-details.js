@@ -17,7 +17,7 @@ let blurbsSwiperInstance;
 let gallerySwiperInstance;
 
 // Define the placeholder image source
-const placeholderImageSrc = '/images/posters/poster-placeholder.png'; // Update the path as needed
+const placeholderImageSrc = '../images/posters/poster-placeholder.png'; // Update the path as needed
 
 
 
