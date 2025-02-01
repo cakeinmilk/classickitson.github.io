@@ -1,0 +1,63 @@
+<!-- /shows/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Shows - Kitson: An Unofficial Archive</title>
+  <!-- Responsive Meta Tag -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- AOS (Animate On Scroll) -->
+  <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+  <!-- Google Fonts -->
+  <link
+    href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&family=Rock+Salt&display=swap"
+    rel="stylesheet"
+  >
+  <!-- Material Icons -->
+  <link
+    href="https://fonts.googleapis.com/icon?family=Material+Icons"
+    rel="stylesheet"
+  >
+  <!-- MDC Web CSS -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css"
+  >
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/styles/styles.css">
+</head>
+<body class="mdc-typography">
+  <!-- Include Header -->
+  <div id="header"></div>
+
+  <!-- Main Content Wrapper -->
+  <div class="mdc-top-app-bar--fixed-adjust main-content-wrapper">
+
+    <!-- Main Content -->
+    <main class="main-content">
+	
+		<!-- Toggle Button Positioned at Top Center -->
+	    <button id="toggle-order-button" class="toggle-order-button" aria-label="Toggle Timeline Order">
+          <span class="material-icons">swap_vert</span>
+        </button>
+	  <!-- Timeline Container -->
+      <div class="timeline-container" id="timeline-container">
+        <!-- Timeline items will be injected here by JavaScript -->
+      </div>
+    </main>
+  </div>
+
+  <!-- Include Footer -->
+  <div id="footer"></div>
+
+  <!-- MDC Web JavaScript -->
+  <script
+    src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"
+  ></script>
+  <!-- AOS (Animate On Scroll) -->
+  <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+  <!-- Custom JavaScript -->
+  <script src="/js/shows.js"></script>
+  <script src="/js/script.js"></script>
+</body>
+</html>

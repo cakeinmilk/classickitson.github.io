@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Kitson: An Unofficial Archive</title>
+  <!-- Responsive Meta Tag -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Google Fonts -->
+  <link
+    href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&family=Rock+Salt&display=swap"
+    rel="stylesheet"
+  >
+  <!-- Material Icons -->
+  <link
+    href="https://fonts.googleapis.com/icon?family=Material+Icons"
+    rel="stylesheet"
+  >
+  <!-- MDC Web CSS -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css"
+  >
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/styles/styles.css">
+</head>
+<body class="mdc-typography">
+  <!-- Include Header -->
+  <div id="header"></div>
+
+  <!-- Main Content Wrapper -->
+  <div class="mdc-top-app-bar--fixed-adjust main-content-wrapper">
+    
+	
+	<!-- Dismissable Latest News Banner -->
+    <div class="mdc-banner" id="latest-news-banner">
+	  <div class="mdc-banner__content" role="status" aria-live="assertive">
+		<div class="mdc-banner__text">
+		  Latest News: Daniel Kitson announces new show dates!
+		</div>
+		<div class="mdc-banner__actions">
+		  <button
+			type="button"
+			class="mdc-icon-button material-icons mdc-banner__icon-button"
+			title="Dismiss"
+			aria-label="Dismiss"
+			id="dismiss-banner-button"
+		  >
+			close
+		  </button>
+		</div>
+	  </div>
+	</div>
+
+    <!-- Main Content -->
+	<main class="main-content">
+	  <div class="selection-cards">
+		<!-- Radio Card -->
+		<div class="mdc-card demo-card post-it radio-card" onclick="location.href='radio/index.html'">
+		  <div class="mdc-card__primary-action">
+			<div class="demo-card__primary">
+			  <span class="material-icons">radio</span>
+			  <h2 class="demo-card__title mdc-typography--headline6">
+				Radio
+			  </h2>
+			  <p class="demo-card__subtitle mdc-typography--subtitle2">
+				Explore Daniel Kitson's radio works.
+			  </p>
+			</div>
+		  </div>
+		</div>
+		<!-- Shows Card -->
+		<div class="mdc-card demo-card post-it shows-card" onclick="location.href='shows/index.html'">
+		  <div class="mdc-card__primary-action">
+			<div class="demo-card__primary">
+			  <span class="material-icons">theaters</span>
+			  <h2 class="demo-card__title mdc-typography--headline6">
+				Shows
+			  </h2>
+			  <p class="demo-card__subtitle mdc-typography--subtitle2">
+				Discover his live performances.
+			  </p>
+			</div>
+		  </div>
+		</div>
+		<!-- Writing Card -->
+		<div class="mdc-card demo-card post-it writing-card" onclick="location.href='writing/index.html'">
+		  <div class="mdc-card__primary-action">
+			<div class="demo-card__primary">
+			  <span class="material-icons">edit_note</span>
+			  <h2 class="demo-card__title mdc-typography--headline6">
+				Writing
+			  </h2>
+			  <p class="demo-card__subtitle mdc-typography--subtitle2">
+				Read his articles and stories.
+			  </p>
+			</div>
+		  </div>
+		</div>
+	  </div>
+	</main>
+	
+  </div>
+
+  <!-- Include Footer -->
+  <div id="footer"></div>
+
+  <!-- MDC Web JavaScript -->
+  <script
+    src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"
+  ></script>
+  <!-- Custom JavaScript -->
+  <script src="/js/script.js"></script>
+</body>
+</html>

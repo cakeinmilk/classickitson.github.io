@@ -1,0 +1,71 @@
+<!-- /shows/show-details.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Shows - Kitson: An Unofficial Archive</title>
+  <!-- Responsive Meta Tag -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- AOS (Animate On Scroll) -->
+  <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+  <!-- Swiper.js CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+
+  <!-- Google Fonts -->
+  <link
+    href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&family=Rock+Salt&display=swap"
+    rel="stylesheet"
+  >
+  <!-- Material Icons -->
+  <link
+    href="https://fonts.googleapis.com/icon?family=Material+Icons"
+    rel="stylesheet"
+  >
+  <!-- MDC Web CSS -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css"
+  >
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/styles/styles.css">
+</head>
+<body class="mdc-typography">
+  <!-- Include Header -->
+  <div id="header"></div>
+
+  
+
+    <!-- Navigation Arrows -->
+    <button id="prev-show-button" class="nav-arrow nav-arrow--left" aria-label="Previous Show">
+      <span class="material-icons">arrow_back</span>
+    </button>
+    <button id="next-show-button" class="nav-arrow nav-arrow--right" aria-label="Next Show">
+      <span class="material-icons">arrow_forward</span>
+    </button>
+
+    <!-- Main Content -->
+    <main class="main-content" role="main">
+      <div id="show-details-container" class="show-details-container"></div>
+    </main>
+
+  <!-- Include Footer -->
+  <div id="footer"></div>
+
+  <!-- MDC Web JavaScript -->
+  <script
+    src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"
+  ></script>
+  <!-- Swiper.js JavaScript -->
+  <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+  <!-- AOS (Animate On Scroll) -->
+  <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+  <!-- Custom JavaScript -->
+  <!-- Show Data -->
+  <script src="/js/shows.js"></script>
+  <!-- Show Details -->
+  <script src="/js/show-details.js"></script>
+  <!-- Other Scripts -->
+  <script src="/js/script.js"></script>
+</body>
+</html>

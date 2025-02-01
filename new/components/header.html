@@ -1,0 +1,58 @@
+<!-- /components/header.html -->
+<header class="mdc-top-app-bar mdc-top-app-bar--fixed">
+  <div class="mdc-top-app-bar__row">
+    <!-- Start Section -->
+    <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-start">
+      <!-- Home Icon -->
+      <button
+        class="mdc-icon-button material-icons"
+        aria-label="Home"
+        onclick="location.href='/index.html'"
+      >
+        home
+      </button>
+      <!-- Title -->
+      <!--<span class="mdc-top-app-bar__title">Kitson: An Unofficial Archive</span>-->
+    </section>
+    <!-- End Section -->
+    <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-end">
+      <!-- Navigation Buttons -->
+      <button
+        class="mdc-button mdc-top-app-bar__action-item"
+        onclick="location.href='/about.html'"
+      >
+        <span class="mdc-button__label">About</span>
+      </button>
+      <button
+        class="mdc-button mdc-top-app-bar__action-item"
+        onclick="location.href='/missing.html'"
+      >
+        <span class="mdc-button__label">Missing</span>
+      </button>
+      <button
+        class="mdc-button mdc-top-app-bar__action-item"
+        onclick="location.href='/contact.html'"
+      >
+        <span class="mdc-button__label">Contact</span>
+      </button>
+      <!-- Dark Mode Toggle -->
+      <button
+        class="mdc-icon-button material-icons"
+        id="theme-toggle"
+        aria-label="Toggle dark mode"
+        title="Toggle dark mode"
+      >
+        brightness_6
+      </button>
+      <!-- Menu Icon for Mobile (Optional) -->
+      <button
+        class="mdc-icon-button material-icons navigation-menu-button"
+        aria-label="Navigation Menu"
+        onclick="toggleNavigationMenu()"
+        style="display: none;"
+      >
+        menu
+      </button>
+    </section>
+  </div>
+</header>
