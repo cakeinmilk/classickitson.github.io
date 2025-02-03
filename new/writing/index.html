@@ -1,0 +1,662 @@
+<!-- /shows/writing.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Shows - Kitson: An Unofficial Archive</title>
+  <!-- Responsive Meta Tag -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- AOS (Animate On Scroll) -->
+  <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+  <!-- Google Fonts -->
+  <link
+    href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&family=Rock+Salt&display=swap"
+    rel="stylesheet"
+  >
+  <!-- Material Icons -->
+  <link
+    href="https://fonts.googleapis.com/icon?family=Material+Icons"
+    rel="stylesheet"
+  >
+  <!-- MDC Web CSS -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css"
+  >
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="../styles/styles.css">
+</head>
+  <body class="mdc-typography">
+    <!-- Include Header -->
+    <div id="header"></div>
+
+    <!-- Main Content Area -->
+    <main class="container">
+      <!-- Fiction Section -->
+      <section id="fiction" class="section">
+        <h2 class="section-title">Fiction</h2>
+        <div class="mdc-card writing-card">
+          <div class="mdc-card__primary-action">
+            <div class="mdc-card__content">
+              <p>
+                A fictionalised version of Daniel Kitson appears in both of Tim Key's lockdown anthologies. In the first, the character of ‘Daniel’ is described simply as "Bald guy. Made for lockdowns. Specs. Bread flour. Sage." and in the second as: "Born to lock down. Inch-thick spectacles. Fogey cords. Checks in regularly. Owns a kiln." The first chapter of 2020's <strong>He Used Thought as a Wife</strong> can be found 
+                <a href="./docs/books/2020-Tim-Key-He-Used-Thought-as-a-Wife-Kitson-cut.pdf" target="_blank">here</a>. The books are available directly from the publisher 
+                <a href="https://www.utterandpress.co.uk/" target="_blank">"Utter" &amp; Press</a>.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Autobiographies Section -->
+      <section id="autobiographies" class="section">
+        <h2 class="section-title">Autobiographies</h2>
+        <div class="mdc-card writing-card">
+          <div class="mdc-card__primary-action">
+            <div class="mdc-card__content">
+              <p>
+                A number of Daniel's peers have referenced him in their books. Here's a non‑exhaustive list of passages of interest.
+              </p>
+              <table class="mdc-data-table">
+                <thead>
+                  <tr>
+                    <th>Date</th>
+                    <th>Author</th>
+                    <th>Title</th>
+                    <th></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>2023-09</td>
+                    <td>Peter Kay</td>
+                    <td>
+                      <a href="./docs/books/09-2023_-_Peter_Kay_T.V._chapter_6.txt" class="fileLink" target="_blank">
+                        T.V.: Big Adventures on the Small Screen
+                      </a>
+                    </td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <td>2021-09</td>
+                    <td>Jimmy Carr</td>
+                    <td>
+                      <a href="./docs/books/09-2021_-_Jimmy_Carr_Before_+_Laughter_chapter_16.txt" class="fileLink" target="_blank">
+                        Before &amp; Laughter
+                      </a>
+                    </td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <td>2019-09</td>
+                    <td>Stewart Lee</td>
+                    <td>
+                      <a href="./docs/books/09-2019_-Stewart_Lee_March_of_the_Lemmings_Part_II_Content_Provider.txt" class="fileLink" target="_blank">
+                        March of the Lemmings: Brexit in Print and Performance 2016–2019
+                      </a>
+                    </td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <td>2012-09</td>
+                    <td>Lee Mack</td>
+                    <td>
+                      <a href="./docs/books/09-2012_-_Lee_Mack_Mack_the_Life_chapter_15.txt" class="fileLink" target="_blank">
+                        Mack The Life
+                      </a>
+                    </td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <td>2010-01</td>
+                    <td>Stewart Lee</td>
+                    <td>
+                      <a href="./docs/books/01-2010_-_Stewart_Lee_How_I_Escaped_My_Certain_Fate.txt" class="fileLink" target="_blank">
+                        How I Escaped My Certain Fate
+                      </a>
+                    </td>
+                    <td></td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Articles Section -->
+      <section id="articles" class="section">
+        <h2 class="section-title">Articles</h2>
+        <div class="mdc-card writing-card">
+          <div class="mdc-card__primary-action">
+            <div class="mdc-card__content">
+              <p>
+                A collection of pieces from newspapers, magazines, and websites (a great deal no longer available on the Internet). PDF links will open in a new window.
+              </p>
+              <table class="mdc-data-table">
+                <thead>
+                  <tr class="art-header-row">
+                    <th class="art-header" onclick="sortTable(0)">
+                      <span class="header-text">Date</span>
+                      <i id="dateIcon" class="fa fa-arrow-up"></i>
+                    </th>
+                    <th class="art-header">Title</th>
+                    <th class="art-header" onclick="toggleDropdown()">
+                      Type <i class="fas fa-filter fa-sm"></i>
+                    </th>
+                    <th class="art-header">Publication</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2022-12-16</td>
+                    <td class="art-cell">
+                      <a href="./docs/20221216_-_can_daniel_kitson_redefine_the_relationship_between_comic_and_audience-_the_new_york_times.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Can Daniel Kitson redefine the relationship between comic and audience?
+                      </a>
+                    </td>
+                    <td class="art-cell">Profile</td>
+                    <td class="art-cell">New York Times</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2021-03-02</td>
+                    <td class="art-cell">
+                      <a href="./docs/20210302_-_radio_times_-_comedy_heroes.jpg" class="fileLink" target="_blank">
+                        <i class="far fa-file-image"></i> Comedy Heroes
+                      </a>
+                    </td>
+                    <td class="art-cell">Profile</td>
+                    <td class="art-cell">Radio Times</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2017-11-03</td>
+                    <td class="art-cell">
+                      <a href="./docs/20171103_-_washington_post_-_media-shy_comic_kitson_has_a_show_in_d.c..pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Media‑shy comic Kitson has a show in D.C., but no one really knows what it’s about
+                      </a>
+                    </td>
+                    <td class="art-cell">Profile</td>
+                    <td class="art-cell">The Washington Post</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2017-03-17</td>
+                    <td class="art-cell">
+                      <a href="./docs/20170317_-_the_age_-_daniel_kitson_returns_to_australia_for_not_yet_but_soon.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Daniel Kitson returns to Australia for 'Not Yet but Soon'
+                      </a>
+                    </td>
+                    <td class="art-cell">Profile</td>
+                    <td class="art-cell">The Age</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2015-08-18</td>
+                    <td class="art-cell">
+                      <a href="./docs/20150818_-_festmag_-_tracking_the_k-dog_a_non-encounter_with_daniel_kitson.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Tracking the K-Dog: A non-encounter with Daniel Kitson
+                      </a>
+                    </td>
+                    <td class="art-cell">Profile</td>
+                    <td class="art-cell">Fest Mag</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2014-05-16</td>
+                    <td class="art-cell">
+                      <a href="./docs/20140516_-_village_voice_-_does_comedian_daniel_kitson_even_exist.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Does Comedian Daniel Kitson Even Exist?
+                      </a>
+                    </td>
+                    <td class="art-cell">Profile</td>
+                    <td class="art-cell">Village Voice</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2014-04-09</td>
+                    <td class="art-cell">
+                      <a href="./docs/20140409_-_beyond_the_joke_-_rare_daniel_kitson_footage_unearthed.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Rare Daniel Kitson Footage Unearthed
+                      </a>
+                    </td>
+                    <td class="art-cell">Review</td>
+                    <td class="art-cell">Beyond the Joke</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2014-03-04</td>
+                    <td class="art-cell">
+                      <a href="./docs/20140304_-_the_guardian_-_standup's_most_restless,_theatrical_polymath.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Daniel Kitson: standup's most restless, theatrical polymath
+                      </a>
+                    </td>
+                    <td class="art-cell">Review</td>
+                    <td class="art-cell">The Guardian</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2014-02-24</td>
+                    <td class="art-cell">
+                      <a href="./docs/20140224_-_daniel_kitson__the_reluctant_hero_of_british_comedy_-_the_telegraph.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Daniel Kitson: the reluctant hero of British comedy
+                      </a>
+                    </td>
+                    <td class="art-cell">Profile</td>
+                    <td class="art-cell">The Telegraph</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2012-08-05</td>
+                    <td class="art-cell">
+                      <a href="./docs/20120805_-_the_guardian_-_daniel_kitson_the_salinger_of_standup.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Daniel Kitson: the Salinger of standup
+                      </a>
+                    </td>
+                    <td class="art-cell">Profile</td>
+                    <td class="art-cell">The Guardian</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2011-01-06</td>
+                    <td class="art-cell">
+                      <a href="./docs/20110106_-_ny_times_-_exploring_that_old_knee-slapper,_suicide.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Exploring That Old Knee-Slapper, Suicide
+                      </a>
+                    </td>
+                    <td class="art-cell">Interview</td>
+                    <td class="art-cell">The New York Times</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2010-02-03</td>
+                    <td class="art-cell">
+                      <a href="./docs/20100203_-_the_age_-_ill-timed_laughter_can_derail_a_show.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Ill-timed laughter can derail a show
+                      </a>
+                    </td>
+                    <td class="art-cell">Review</td>
+                    <td class="art-cell">The Age</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2010-01-27</td>
+                    <td class="art-cell">
+                      <a href="./docs/20100127_-_the_age_-_kitson_unpacks_rental_baggage.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Kitson unpacks rental baggage
+                      </a>
+                    </td>
+                    <td class="art-cell">Interview</td>
+                    <td class="art-cell">The Age</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2008-04-06</td>
+                    <td class="art-cell">
+                      <a href="./docs/20080406_-_the_age_-_be_astonished_by_a_stranger__open_a_window_in_your_mind.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Be astonished by a stranger; open a window in your mind
+                      </a>
+                    </td>
+                    <td class="art-cell">Self-Penned</td>
+                    <td class="art-cell">The Age</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2008-04-01</td>
+                    <td class="art-cell">
+                      <a href="./docs/20080401_-_between_seven_and_nine_hundred_words_about_anything_-_the_trip_(april_2008_triple_r_subscribers_magazine).pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Between seven and nine hundred words about anything
+                      </a>
+                    </td>
+                    <td class="art-cell">Self-Penned</td>
+                    <td class="art-cell">The Trip</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2008-03-26</td>
+                    <td class="art-cell">
+                      <a href="./docs/20080326_-_the_age_-_the_ballad_of_rodger_and_grace.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> The Ballad of Rodger and Grace
+                      </a>
+                    </td>
+                    <td class="art-cell">Review</td>
+                    <td class="art-cell">The Age</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2007-04-30</td>
+                    <td class="art-cell">
+                      <a href="./docs/20070430_-_the_age_-_jokes_aside_kitson_is_the_best.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Jokes aside, Kitson is the best
+                      </a>
+                    </td>
+                    <td class="art-cell">Review</td>
+                    <td class="art-cell">The Age</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2007-04-25</td>
+                    <td class="art-cell">
+                      <a href="./docs/20070425_-_the_age_-_this_tape_will_deconstruct.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> This tape will deconstruct
+                      </a>
+                    </td>
+                    <td class="art-cell">Interview</td>
+                    <td class="art-cell">The Age</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2007-04-03</td>
+                    <td class="art-cell">
+                      <a href="./docs/20070403_-_the_age_-_comedy_without_compromise.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Comedy without compromise
+                      </a>
+                    </td>
+                    <td class="art-cell">Interview</td>
+                    <td class="art-cell">The Age</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2007-02-10</td>
+                    <td class="art-cell">
+                      <a href="./docs/20070210_-_both_barrels_-_an_interview_with_daniel_kitson_-_theskinny.co.uk.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Both barrels - an interview with Daniel Kitson
+                      </a>
+                    </td>
+                    <td class="art-cell">Interview</td>
+                    <td class="art-cell">theskinny.co.uk</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2007-01-20</td>
+                    <td class="art-cell">
+                      <a href="./docs/20070120_-_kitson_s_last_tape_-_interview_-_the_scotsman.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Kitson's Last Tape
+                      </a>
+                    </td>
+                    <td class="art-cell">Interview</td>
+                    <td class="art-cell">The Scotsman</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2007-01-16</td>
+                    <td class="art-cell">
+                      <a href="./docs/20070116_-_interview_by_neil_cooper_-_the_glasgow_herald.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Interview by Neil Cooper
+                      </a>
+                    </td>
+                    <td class="art-cell">Interview</td>
+                    <td class="art-cell">The Glasgow Herald</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2006-08-13</td>
+                    <td class="art-cell">
+                      <a href="./docs/20060813_-_he_s_got_life_taped_-_interview_-_scotland_on_sunday.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> He's got life taped
+                      </a>
+                    </td>
+                    <td class="art-cell">Interview</td>
+                    <td class="art-cell">Scotland on Sunday</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2006-04-29</td>
+                    <td class="art-cell">
+                      <a href="./docs/20060429_-_the_age_-_funny_the_joke_s_on_us.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Funny:the joke's on us
+                      </a>
+                    </td>
+                    <td class="art-cell">Profile</td>
+                    <td class="art-cell">The Age</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2006-04-28</td>
+                    <td class="art-cell">
+                      <a href="./docs/20060428_-_the_age_-_the_iceman_cometh.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> The Iceman cometh
+                      </a>
+                    </td>
+                    <td class="art-cell">Self-Penned</td>
+                    <td class="art-cell">The Age</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2005-08-14</td>
+                    <td class="art-cell">
+                      <a href="./docs/20050814_-_kitson_uncovered_-_interview_-_scotland_on_sunday.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Kitson uncovered
+                      </a>
+                    </td>
+                    <td class="art-cell">Interview</td>
+                    <td class="art-cell">Scotland on Sunday</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2005-04-04</td>
+                    <td class="art-cell">
+                      <a href="./docs/20050404_-_the_age_-_daniel_kitson.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Daniel Kitson
+                      </a>
+                    </td>
+                    <td class="art-cell">Review</td>
+                    <td class="art-cell">The Age</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2005-03-20</td>
+                    <td class="art-cell">
+                      <a href="./docs/20050320_-_the_age_-_dan_is_the_man.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Dan is the man
+                      </a>
+                    </td>
+                    <td class="art-cell">Interview</td>
+                    <td class="art-cell">The Age</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2004-04-17</td>
+                    <td class="art-cell">
+                      <a href="./docs/20040417_-_sydney_morning_herald_-_nothing_funny_going_on.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Nothing funny going on
+                      </a>
+                    </td>
+                    <td class="art-cell">Interview</td>
+                    <td class="art-cell">Sydney Morning Herald</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2004-04-04</td>
+                    <td class="art-cell">
+                      <a href="./docs/20040404_-_the_age_-_if_you_liked_that_you_ll_hate_this.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> If you liked that, you'll hate this
+                      </a>
+                    </td>
+                    <td class="art-cell">Interview</td>
+                    <td class="art-cell">The Age</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2004-01-16</td>
+                    <td class="art-cell">
+                      <a href="./docs/20040116_-_daniel_kitson_-_standing_up_for_sad_people_-_bbc.co.uk.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Daniel Kitson: standing up for sad people
+                      </a>
+                    </td>
+                    <td class="art-cell">Interview</td>
+                    <td class="art-cell">bbc.co.uk</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2003-07-28</td>
+                    <td class="art-cell">
+                      <a href="./docs/20030728_-_i_want_to_tell_you_a_story_-_interview_-_the_observer.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> I want to tell you a story
+                      </a>
+                    </td>
+                    <td class="art-cell">Interview</td>
+                    <td class="art-cell">The Observer</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2003-07-25</td>
+                    <td class="art-cell">
+                      <a href="./docs/20030725_-_times_-_surviving_with_your_wits_intact.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Surviving with your wits intact
+                      </a>
+                    </td>
+                    <td class="art-cell">Self-Penned</td>
+                    <td class="art-cell">The Times</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2003-04-04</td>
+                    <td class="art-cell">
+                      <a href="./docs/20030404_-_reluctant_star_-_interview_-_theage.com.au.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Reluctant star
+                      </a>
+                    </td>
+                    <td class="art-cell">Interview</td>
+                    <td class="art-cell">theage.com.au</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2003-02-XX</td>
+                    <td class="art-cell">
+                      <a href="./docs/200302XX_-_bbc_-_daniel_kitson_watch_this_face.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Daniel Kitson: Watch this face
+                      </a>
+                    </td>
+                    <td class="art-cell">Profile</td>
+                    <td class="art-cell">bbc.co.uk</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2002-12-10</td>
+                    <td class="art-cell">
+                      <a href="./docs/20021210_-_bbc_-_daniel_kitson_at_uea.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Daniel Kitson at UEA
+                      </a>
+                    </td>
+                    <td class="art-cell">Review</td>
+                    <td class="art-cell">bbc.co.uk</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2002-11-03</td>
+                    <td class="art-cell">
+                      <a href="./docs/20021103_-_the_sunday_times_-_comedy_out_on_his_own.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Comedy: Out on his own
+                      </a>
+                    </td>
+                    <td class="art-cell">Interview</td>
+                    <td class="art-cell">The Sunday Times</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2002-10-28</td>
+                    <td class="art-cell">
+                      <a href="./docs/20021028_-_need_to_know_-_interview_by_stephanie_merritt_-_the_observer.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Need to know
+                      </a>
+                    </td>
+                    <td class="art-cell">Interview</td>
+                    <td class="art-cell">The Observer</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2002-08-XX</td>
+                    <td class="art-cell">
+                      <a href="./docs/200208XX_-_daniel_kitson_-_comedy_interview_-_metro.co.uk.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Daniel Kitson - comedy interview
+                      </a>
+                    </td>
+                    <td class="art-cell">Interview</td>
+                    <td class="art-cell">The Metro</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2002-04-02</td>
+                    <td class="art-cell">
+                      <a href="./docs/20020402_-_the_age_-_geek_with_comic_genius.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Geek with comic genius
+                      </a>
+                    </td>
+                    <td class="art-cell">Profile</td>
+                    <td class="art-cell">The Age</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2002-03-31</td>
+                    <td class="art-cell">
+                      <a href="./docs/20020331_-_the_age_-_coarse_work.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Coarse work
+                      </a>
+                    </td>
+                    <td class="art-cell">Interview</td>
+                    <td class="art-cell">The Age</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2002-02-14</td>
+                    <td class="art-cell">
+                      <a href="./docs/20020214_-_the_list_-_he’s_a_master_of_profanity_yet_he_looks_like_your_dad.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> He’s a master of profanity yet he looks like your dad
+                      </a>
+                    </td>
+                    <td class="art-cell">Interview</td>
+                    <td class="art-cell">The List</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2002-02-01</td>
+                    <td class="art-cell">
+                      <a href="./docs/20020201_-_get_ur_geek_on_-_interview_-_jockey_slut.jpg" class="fileLink" target="_blank">
+                        <i class="far fa-file-image"></i> Get Ur Geek On
+                      </a>
+                    </td>
+                    <td class="art-cell">Interview</td>
+                    <td class="art-cell">Jockey Slut</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2001-08-23</td>
+                    <td class="art-cell">
+                      <a href="./docs/20010823_-_daniel_kitson__the_hirsute_of_happiness_-_interview_-_the_independent.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Daniel Kitson: The hirsute of happiness
+                      </a>
+                    </td>
+                    <td class="art-cell">Interview</td>
+                    <td class="art-cell">The Independent</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2001-08-19</td>
+                    <td class="art-cell">
+                      <a href="./docs/20010819_-_special_report_-_the_edinburgh_festival_2001_-_the_observer.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> Special report: the Edinburgh festival 2001
+                      </a>
+                    </td>
+                    <td class="art-cell">Self-Penned</td>
+                    <td class="art-cell">The Observer</td>
+                  </tr>
+                  <tr class="art-table-row">
+                    <td class="art-cell">2001-07-13</td>
+                    <td class="art-cell">
+                      <a href="./docs/20010713_-_it_s_all_geek_to_him_-_profile_-_the_times.pdf" target="_blank">
+                        <i class="far fa-file-pdf"></i> It's all geek to him
+                      </a>
+                    </td>
+                    <td class="art-cell">Profile</td>
+                    <td class="art-cell">The Times</td>
+                  </tr>
+                </tbody>
+              </table>
+              <!-- Dropdown for filtering document types -->
+              <div id="dropdown" class="dropdown">
+                <div class="checkbox">
+                  <input type="checkbox" id="selectAll" onclick="toggleSelectAll(this)" /> Select All
+                </div>
+                <div class="checkbox">
+                  <input type="checkbox" class="filter" onclick="filterRows()" /> Profile
+                </div>
+                <div class="checkbox">
+                  <input type="checkbox" class="filter" onclick="filterRows()" /> Interview
+                </div>
+                <div class="checkbox">
+                  <input type="checkbox" class="filter" onclick="filterRows()" /> Self-Penned
+                </div>
+                <!-- ... other types as needed ... -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- Include Footer -->
+    <div id="footer"></div>
+
+    <!-- JavaScript files (same as used in your new index.html) -->
+    <script src="js/materialize.min.js"></script>
+    <script src="../js/script.js"></script>
+    <script>
+      // Placeholder functions for sorting and filtering
+      function sortTable(columnIndex) {
+        // Implement table sorting logic here.
+      }
+      function toggleDropdown() {
+        var dropdown = document.getElementById('dropdown');
+        dropdown.style.display = (dropdown.style.display === "block") ? "none" : "block";
+      }
+      function toggleSelectAll(checkbox) {
+        var filters = document.querySelectorAll('.filter');
+        filters.forEach(function(filter) {
+          filter.checked = checkbox.checked;
+        });
+        filterRows();
+      }
+      function filterRows() {
+        // Implement row filtering based on selected checkboxes here.
+      }
+    </script>
+  </body>
+</html>

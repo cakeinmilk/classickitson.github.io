@@ -1001,6 +1001,8 @@ const showsData = [
     Recording #4<br />
     Gavin - <em>Just a Little Space</em><br />
     Daniel - Worthwhile things 21-25
+    <br /><br />
+    Keith would later be used as the name of the person holding script #1 in <em>Collaborator</em>.
     `,
     gallery: [
       "../images/gallery/outside.again/1.jpg"
@@ -1250,8 +1252,8 @@ const showsData = [
       }
     ],
     notes: `
-    In a January 2024 newsletter, Kitson mentioned discussions with the Exchange about his hopes to stage something there within the next 18 months. 
-    By summer '24, it was confirmed on BBC London Radio that he was starting to write, planning a premiere in Manchester by October. 
+    In a January 2024 newsletter, Kitson mentioned discussions with the Royal Exchange in Manchester about his hopes to stage something there within the next 18 months. 
+    By summer '24, it was confirmed on BBC London Radio that he was starting to write, planning a premiere by October. 
     The show's development was in motion by September when he announced in another newsletter that a new show would indeed debut later that autumn.
     <br /><br />
     The Royal Exchange confirmed details on their website on September 11, releasing a show name, dates, a poster, and a blurb for the upcoming run. 
@@ -1259,7 +1261,7 @@ const showsData = [
     Two work-in-progress performances under the title <em>Standing Start</em> were scheduled at the Bill Murray in London for late September and 
     a few days later <em>PITH</em> returned to the Royal Exchange website. 
     Reviews of the Manchester staging were positive, gaining 3.5/5 stars from Chortle and 4/5 from The Times, both finding it engaging but acknowledging the 
-    show's deliberately unfinished quality (Kitson admitting within the show that it became quite clear to him that the show would be in a finished state by 
+    show's deliberately unfinished quality (Kitson admitting within the show that it became quite clear to him that the show would likely be in a finished state by 
     Spring 2025).<br /><br />
     On November 3, the Bill Murray announced a 'Super Secret Daniel Kitson Gig'—a staging of <em>PITH</em>—for the following day. 
     This was ostensibly an opportunity for Daniel to record the show, incorporating the additions he'd made during the Manchester run.<br /><br />
@@ -1268,16 +1270,17 @@ const showsData = [
     <li>his recurring daydream of running a coffee shop that doesn't have to operate as a business sounds a lot like his dream from <em>66A Church Road</em>, 
     to run an unprofitable record shop/cinema</li><li>His other recurring daydream, &quot;to have another human being know him entirely&quot; evokes one of 
     his aims from <em>Outside. Again</em> &quot;to be known better by someone than I know myself&quot;</li>
-    <li>&quot;Stories are good&quot;– reference to <em>Collaborator</em></li><li>Meredith Winston/Winnie, Robert Pickles/Mr. Pickles/Bob/Pickle – nearly 
+    <li>&quot;Stories are good&quot; directly contradicts a line from <em>Collaborator</em>, where Kitson's character professes that &quot;Stories are lies. They’re either made up and pretending to be true or they’re true but acting like someone made it up.&quot;</li>
+    <li>Meredith Winston/Winnie, Robert Pickles/Mr. Pickles/Bob/Pickle – nearly 
     all his stories have at least one character where it's significant to the plot and/or their character development what name they get called 
     (<em>C-90</em>, <em>Stories For the Starlit Sky</em>, <em>Gregory Church</em>, <em>Always Right Now Until It's Later</em>, <em>This Story Has No Title</em>, 
     <em>Tree</em>, <em>Analog.Ue</em>, <em>Mouse</em>, <em>A Short Series of Disagreements</em>), and in the narration of <em>Shenaniganagain</em>, 
     he explains that he likes to pick character names that can be shortened to nicknames so he can use this in the story.</li>
-    <li>Winnie – in <em>Pith</em>, the name of the character who promised in 2004 that she'd meet a guy on a bench in 2024, and in 
+    <li>Winnie – in <em>PITH</em>, the name of the character who promised in 2004 that she'd meet a guy on a bench in 2024, and in 
     <em>It's Always Right Now Until It's Later</em>, the name of the girlfriend the main character had in his 20s, then after the breakup couldn't find love 
     with anyone else and told his dates that he'd be single forever because he'd missed his &quot;first big swing&quot; at love – both analogous to 
-    real-life stories Kitson told in early 00s.</li>
-    <li>Bob trying to &quot;erase his life&quot; by erasing all the stuff on his tapes is reminiscent of an idea in <em>Keep</em>, where Kitson considered 
+    real-life stories Kitson told in the early 00s.</li>
+    <li>Bob trying to &quot;erase his life&quot; by recording over his tapes is reminiscent of an idea in <em>Keep</em>, where Kitson considered 
     burning down everything he owned so he could start fresh.</li>
     <li>The story about repeating the word &quot;cunt&quot; with his friend as teenagers – repeating it to desensitize each other to the word – was 
     in his untitled 2005 Edinburgh show.</li>
