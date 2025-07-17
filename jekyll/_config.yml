@@ -1,0 +1,62 @@
+title: "Kitson: An Unofficial Archive"
+email: your-email@example.com
+description: >-
+  Daniel Kitson archive and cross-reference
+baseurl: "/jekyll" # Important for subdirectory
+url: "https://classickitson.com"
+
+# Collections for your content
+collections:
+  shows:
+    output: true
+    permalink: /jekyll/shows/:name/
+  radio:
+    output: true
+    permalink: /jekyll/radio/:name/
+  articles:
+    output: true
+    permalink: /jekyll/articles/:name/
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Defaults for collections
+defaults:
+  - scope:
+      path: ""
+      type: "shows"
+    values:
+      layout: "show"
+  - scope:
+      path: ""
+      type: "radio"
+    values:
+      layout: "radio"
+  - scope:
+      path: ""
+      type: "articles"
+    values:
+      layout: "article"
+
+
+header_pages:
+  - shows.md
+  - radio.md
+  - articles.md
+  - about.md

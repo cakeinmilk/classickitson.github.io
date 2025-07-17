@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&family=Rock+Salt&display=swap" rel="stylesheet">
+  <!-- Material Icons -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <!-- MDC Web CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css">
+  <!-- Your CSS -->
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+</head>
+<body class="mdc-typography">
+  
+  <!-- Header -->
+  <header class="mdc-top-app-bar mdc-top-app-bar--fixed">
+    <div class="mdc-top-app-bar__row">
+      <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-start">
+        <button class="mdc-icon-button material-icons" onclick="location.href='{{ site.baseurl }}/'" aria-label="Home">
+          home
+        </button>
+      </section>
+      <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-end">
+        <button class="mdc-button mdc-top-app-bar__action-item" onclick="location.href='{{ site.baseurl }}/shows/'">
+          <span class="mdc-button__label">Shows</span>
+        </button>
+        <button class="mdc-icon-button material-icons" id="theme-toggle" aria-label="Toggle dark mode">
+          brightness_6
+        </button>
+      </section>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <div class="mdc-top-app-bar--fixed-adjust main-content-wrapper">
+    <main class="main-content">
+      
+      <!-- Show Details Card with Your Structure -->
+      <div class="show-details-card">
+        <div class="show-content">
+          <div class="show-left-column">
+            <h1>{{ page.title }}</h1>
+            
+            {% if page.poster %}
+              <img src="{{ page.poster | relative_url }}" alt="{{ page.title }} poster" class="show-mini-poster">
+            {% elsif page.image_src %}
+              <div class="poster-container">
+                <img src="{{ '/assets/images/posters/poster-placeholder.png' | relative_url }}" alt="Placeholder" class="show-mini-poster placeholder-image">
+                <img src="{{ page.image_src | relative_url }}" alt="Overlay" class="overlay-image">
+              </div>
+            {% endif %}
+            
+            {% if page.tour_dates %}
+              <section class="show-tour-dates">
+                <h2>Tour Dates</h2>
+                <ul>
+                  {% for date in page.tour_dates %}
+                    <li>
+                      <span class="date">{{ date.date }}</span><br>
+                      <span class="location-country">
+                        {% if date.location and date.country %}
+                          {{ date.location }}, {{ date.country }}
+                        {% elsif date.location %}
+                          {{ date.location }}
+                        {% elsif date.country %}
+                          {{ date.country }}
+                        {% endif %}
+                      </span>
+                    </li>
+                  {% endfor %}
+                </ul>
+              </section>
+            {% endif %}
+          </div>
+          
+          <div class="show-right-column">
+            {{ content }}
+          </div>
+        </div>
+      </div>
+
+    </main>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>This is a 100% unofficial website. No copyright infringement is intended.</p>
+  </footer>
+
+</body>
+</html>

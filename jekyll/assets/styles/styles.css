@@ -1,0 +1,1061 @@
+/* Variables for Light and Dark Themes */
+:root {
+  /* Light Theme Colors */
+  --mdc-theme-primary: #ff9800; /* Orange */
+  --mdc-theme-secondary: #2196f3; /* Blue */
+  --mdc-theme-background: #ffffff;
+  --mdc-theme-on-background: #000000;
+}
+
+[data-theme='dark'] {
+  /* Dark Theme Colors */
+  --mdc-theme-primary: #ffb74d; /* Light Orange */
+  --mdc-theme-secondary: #64b5f6; /* Light Blue */
+  --mdc-theme-background: #121212;
+  --mdc-theme-on-background: #ffffff;
+}
+
+/* Apply Theme Colors */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--mdc-theme-background);
+  color: var(--mdc-theme-on-background);
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  overflow-x: hidden; /* Prevents horizontal overflow */
+}
+
+/* Header Styling */
+.mdc-top-app-bar {
+  background-color: var(--mdc-theme-primary);
+  color: var(--mdc-theme-on-background);
+  padding: 0 16px; /* Adds padding to left and right */
+  box-sizing: border-box;
+}
+
+.mdc-top-app-bar__title {
+  font-weight: 500;
+  font-family: 'Rock Salt', cursive;
+  font-size: 1.5em; /* Adjust font size as needed */
+}
+
+/* Main Content Wrapper Styling */
+.main-content-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding-top: 100px; /* Increased padding to accommodate fixed banner */
+}
+
+/* Main Content Styling */
+.main-content {
+  flex: 1;
+  max-width: 1200px; /* Adjust as needed for your design */
+  margin: 0 auto; /* Centers the container horizontally */
+  padding: 20px;
+}
+
+
+/* Remove default card background */
+.mdc-card {
+  background-color: transparent;
+}
+
+/* Post-it Note Styling */
+.mdc-card.post-it {
+  background-color: var(--post-it-color);
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.2);
+  border: 1px solid #e0e0e0;
+  transform: rotate(var(--post-it-rotation));
+  position: relative;
+  transition: transform 0.2s, box-shadow 0.2s;
+  overflow: hidden; /* Ensure the pseudo-element doesn't overflow the card */
+}
+
+.mdc-card.post-it:hover {
+  box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.3);
+  transform: rotate(0deg) scale(1.05);
+}
+
+/* Individual Card Colors */
+.radio-card {
+  --post-it-color: #fff9c4; /* Light Yellow */
+  --post-it-rotation: -2deg;
+}
+
+.shows-card {
+  --post-it-color: #c8e6c9; /* Light Green */
+  --post-it-rotation: 1.5deg;
+}
+
+.writing-card {
+  --post-it-color: #ffccbc; /* Light Peach */
+  --post-it-rotation: -1deg;
+}
+
+/* Ensure Cards Are Square */
+.demo-card {
+  width: 250px; /* Set a fixed width */
+  height: 250px; /* Set the height equal to the width */
+  max-width: none; /* Remove max-width to use fixed dimensions */
+}
+
+.demo-card__primary {
+  padding: 20px;
+  text-align: center;
+  color: #212121;
+}
+
+/* Apply Handwritten Font to Titles */
+.demo-card__title {
+  font-family: 'Rock Salt', cursive;
+  font-size: 1.5em; /* Adjust font size as needed */
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.demo-card__subtitle {
+  color: #424242;
+}
+
+.demo-card__primary .material-icons {
+  font-size: 48px;
+  color: #424242;
+  margin-bottom: 10px;
+}
+
+/* Selection Cards Styling */
+.selection-cards {
+  display: flex;
+  gap: 20px;
+  max-width: 1200px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+/* Footer Styling */
+.footer {
+  text-align: center;
+  padding: 16px;
+  background-color: var(--mdc-theme-secondary);
+  color: var(--mdc-theme-on-background);
+  box-sizing: border-box;
+}
+
+/* Latest News Banner Styling */
+.mdc-banner {
+  background-color: var(--mdc-theme-primary);
+  color: var(--mdc-theme-on-primary);
+  padding: 16px;
+  text-align: center;
+  position: relative;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+  opacity: 1;
+  visibility: visible;
+  z-index: 1000; /* Ensure it appears above other elements */
+}
+
+/* Banner Hidden State */
+.mdc-banner.hidden {
+  opacity: 0;
+  visibility: hidden;
+}
+
+/* Banner Content Styling */
+.mdc-banner__content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+}
+
+/* Banner Text Styling */
+.mdc-banner__text {
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+/* Dismiss Button Styling */
+.mdc-banner__icon-button,
+.mdc-icon-button {
+  background: none;
+  border: none;
+  color: var(--mdc-theme-on-primary);
+  cursor: pointer;
+  font-size: 1.2rem;
+  padding: 8px;
+  transition: color 0.3s ease;
+}
+
+.mdc-banner__icon-button:hover {
+  color: var(--mdc-theme-secondary);
+}
+
+/* Apply box-sizing globally */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+/* Timeline Container */
+.timeline-container {
+  position: relative;
+  max-width: 850px;
+  margin: 0 auto;
+  padding: 40px 0;
+}
+
+/* The vertical line */
+.timeline-container::after {
+  content: '';
+  position: absolute;
+  width: 6px;
+  background-color: var(--mdc-theme-secondary);
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  margin-left: -3px; /* Half of the width to center it */
+}
+
+/* Timeline Item */
+.timeline-item {
+  padding: 20px 30px;
+  margin-bottom: 10px; /* Added margin for spacing */
+  position: relative;
+  width: 50%;
+}
+
+/* Left side */
+.timeline-item.left {
+  left: 0;
+}
+
+/* Right side */
+.timeline-item.right {
+  left: 50%;
+}
+
+/* Content Card */
+/* Adjusted .timeline-card with increased padding-bottom */
+.timeline-card {
+  /* Existing styles */
+  padding: 20px;
+  padding-bottom: 60px; /* Increased from 20px to 40px */
+  border-radius: 6px;
+  position: relative; /* To position the icons absolutely within the card */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.timeline-card:hover {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  transform: translateY(-5px);
+}
+
+/* SVG Image Styling */
+.timeline-card-svg {
+  /* Maintain aspect ratio and fit within the card */
+  width: 100%;
+  height: auto;
+  display: block; /* Remove inline spacing */
+}
+
+/* Card Header (Hidden) */
+.timeline-card-header,
+.timeline-card-title,
+.timeline-card-date,
+.timeline-card-blurb {
+  display: none; /* Hide all text elements */
+}
+
+/* Circles on the timeline */
+.timeline-item::before {
+  content: attr(data-year); /* Display the year from data-year attribute */
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: var(--mdc-theme-secondary); /* Optional: Background for better readability */
+  color: var(--mdc-theme-on-background); /* Text color */
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  font-weight: bold;
+  white-space: nowrap;
+  /* Adjust positioning based on side */
+}
+
+.timeline-item.left::before {
+  right: -60px; /* Adjust based on the width of the year label */
+}
+
+.timeline-item.right::before {
+  left: -60px; /* Adjust based on the width of the year label */
+}
+
+
+/* Adjust the timeline line behind the circles */
+.timeline-item.left::before,
+.timeline-item.right::before {
+  box-shadow: 0 0 0 4px var(--mdc-theme-secondary);
+}
+
+/* Timeline Card Link */
+.timeline-card-link {
+  display: block;
+  color: inherit; /* Inherit text color */
+}
+
+.timeline-card-link:hover .timeline-card {
+  background-color: var(--mdc-theme-secondary);
+  color: var(--mdc-theme-on-secondary);
+}
+
+.timeline-card-link:hover .timeline-card-svg {
+  filter: brightness(1.2);
+}
+
+/* Complementary Background Colors for Show Types */
+.timeline-card.theatre {
+  background-color: #e57373; /* Complementary Red */
+}
+
+.timeline-card.standup {
+  background-color: #ba68c8; /* Complementary Purple */
+}
+
+/* Timeline Card Icons */
+.timeline-card-icon {
+  width: 24px; /* Adjust size as needed */
+  height: 24px;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  /* Optional: Add some spacing between multiple icons */
+}
+
+.timeline-card-icon + .timeline-card-icon {
+  right: 40px; /* If multiple icons, position the second one to the left */
+}
+
+/* Adjust the timeline line behind the circles */
+.timeline-item.left::before,
+.timeline-item.right::before {
+  box-shadow: 0 0 0 4px var(--mdc-theme-secondary);
+}
+
+/* Media Queries for Responsiveness */
+@media screen and (max-width: 768px) {
+  /* 1. Adjust the vertical timeline line */
+  .timeline-container::after {
+    left: 40px; /* Position the timeline line 40px from the left */
+  }
+
+  /* 2. Make timeline items full width with appropriate padding */
+  .timeline-item {
+    width: 100%;
+    padding-left: 60px; /* Space for the timeline line and dot */
+    padding-right: 25px;
+    margin-bottom: 40px; /* Maintain spacing between items */
+    left: 0; /* Override any left/right positioning */
+  }
+
+  /* 3. Remove left and right positioning */
+  .timeline-item.left,
+  .timeline-item.right {
+    left: 0; /* Ensure both classes have the same left position */
+  }
+
+  /* 4. Align dots with the timeline line */
+  .timeline-item::before {
+    left: 30px; /* 40px (timeline line) - 10px (half dot width) */
+  }
+
+  /* 5. Ensure both left and right items' dots are aligned */
+  .timeline-item.left::before,
+  .timeline-item.right::before {
+    left: 30px; /* Align both dots with the timeline line */
+  }
+
+  /* 6. Adjust SVG sizes for better fit on smaller screens */
+  .timeline-card-svg {
+    width: 40px;
+    height: 40px;
+  }
+
+  /* 7. Adjust card titles and blurbs for readability */
+  .timeline-card-title {
+    font-size: 1em;
+  }
+
+  .timeline-card-date {
+    font-size: 0.8em;
+  }
+
+  .timeline-card-blurb {
+    font-size: 0.9em;
+  }
+
+}
+
+.toggle-order-button {
+  position: absolute; /* Positions relative to .timeline-container */
+  top: 100px; /* Adjust based on header height and desired spacing */
+  left: 50%; /* Centers horizontally */
+  transform: translateX(-50%); /* Fine-tunes horizontal centering */
+  
+  background-color: var(--mdc-theme-primary);
+  color: var(--mdc-theme-on-background);
+  border: none;
+  border-radius: 50%; /* Makes the button circular */
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  
+  z-index: 100; /* Ensures the button appears above other elements */
+}
+
+.toggle-order-button:hover {
+  background-color: var(--mdc-theme-secondary);
+  transform: translateX(-50%) scale(1.05); /* Slightly enlarges on hover */
+}
+
+.toggle-order-button:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(33, 150, 243, 0.5); /* Focus ring for accessibility */
+}
+
+/* Optional: Change icon rotation based on state */
+.toggle-order-button.ascending .material-icons {
+  transform: rotate(0deg);
+  transition: transform 0.3s ease;
+}
+
+.toggle-order-button.descending .material-icons {
+  transform: rotate(180deg);
+  transition: transform 0.3s ease;
+}
+
+/* Adjust the top position for mobile if needed */
+@media screen and (max-width: 768px) {
+  .toggle-order-button {
+    top: -20px; /* Slightly adjust for smaller screens */
+    width: 40px;
+    height: 40px;
+	background: linear-gradient(45deg, var(--mdc-theme-primary), var(--mdc-theme-secondary));
+  transition: background 0.3s ease, transform 0.3s ease;
+}
+
+  .toggle-order-button:hover {
+    transform: translateX(-50%) scale(1.05);
+	filter: brightness(1.1);
+  }
+
+  /* Adjust icon size within the button */
+  .toggle-order-button .material-icons {
+    font-size: 24px; /* Reduce icon size for mobile */
+  }
+}
+
+/* Show Details Card */
+.show-details-card {
+  width: 100%; /* Ensures the card occupies the full width of the parent */
+  margin: 20px 0; /* Vertical spacing only */
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  background-color: var(--mdc-theme-background); /* Matches the body background */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Adds depth */
+  border-radius: 12px; /* Rounded corners */
+}
+
+.show-details-card h1 {
+  text-align: center;
+}
+
+/* Show Content Layout */
+.show-content {
+  display: flex;
+  gap: 24px;
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+}
+.show-left-column {
+  flex: 0 0 30%; /* 30% width */
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.show-right-column {
+  flex: 1; /* 70% width */
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  width: 100%;
+  overflow: hidden;
+}
+
+/* Mini Poster */
+.show-mini-poster {
+  width: 80%; /* Reduces the width to 80% of the parent container */
+  max-width: 300px; /* Sets a maximum width for larger screens */
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
+  margin: 0 auto; /* Centers the poster within the column */
+}
+
+/* Poster Container for Placeholder with Overlay */
+.poster-container {
+  position: relative;
+  width: 80%; /* Matches the width of the actual poster */
+  max-width: 300px; /* Ensures consistency with actual poster max-width */
+  height: auto;
+  margin: 0 auto; /* Centers the container within the column */
+  box-sizing: border-box;
+}
+
+/* Placeholder Image Styling */
+.poster-container .placeholder-image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.poster-container .placeholder-image:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3); /* Enhanced shadow on hover */
+  transform: scale(1.02); /* Slightly enlarge on hover */
+}
+
+/* Overlay Image Styling */
+.poster-container .overlay-image {
+  position: absolute;
+  top: 0;
+  left: 10%;
+  width: 80%;
+  height: 100%;
+  border-radius: 8px;
+  object-fit: contain; /* Ensures the entire overlay image is visible without cropping */
+  opacity: 0.6; /* Adjust opacity as needed */
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  pointer-events: none; /* Allows clicks to pass through to underlying elements */
+}
+
+/* Overlay Image Hover Effect */
+.poster-container:hover .overlay-image {
+  opacity: 0.8; /* Increase opacity on hover for better visibility */
+  transform: scale(1.05); /* Slightly enlarge on hover */
+}
+
+
+/* Poster Placeholder Styling */
+.poster-placeholder {
+  width: 80%; /* Matches the width of the actual poster */
+  max-width: 300px; /* Ensures consistency with actual poster max-width */
+  height: auto;
+  border-radius: 8px;
+  background-color: #f0f0f0; /* Light gray background for visibility */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto; /* Centers the placeholder within the column */
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); /* Optional: Add subtle shadow */
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.poster-placeholder:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3); /* Enhanced shadow on hover */
+  transform: scale(1.02); /* Slightly enlarge on hover */
+}
+
+/* Ensure Placeholder Image Fits Correctly */
+.poster-placeholder .show-mini-poster {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+
+/* Tour Dates Section */
+.show-tour-dates ul {
+  list-style: none;
+  padding: 0;
+}
+
+.show-tour-dates li {
+  padding: 12px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.show-tour-dates li:last-child {
+  border-bottom: none;
+}
+
+.show-tour-dates .date {
+  font-weight: 500;
+  color: var(--mdc-theme-primary);
+}
+
+.show-tour-dates .location,
+.show-tour-dates .country {
+  display: block;
+  font-size: 0.875rem;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+
+/* Swiper Navigation Arrows */
+/* Custom Swiper Navigation Arrows for Blurbs */
+.blurbs-swiper .swiper-button-prev,
+.blurbs-swiper .swiper-button-next {
+  width: 35px;
+  height: 35px;
+  background-color: var(--mdc-theme-primary); /* Use primary theme color */
+  color: var(--mdc-theme-on-background);
+  border: none;
+  border-radius: 50%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  transition: background-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.blurbs-swiper .swiper-button-prev:hover,
+.blurbs-swiper .swiper-button-next:hover {
+  background-color: var(--mdc-theme-secondary); /* Change to secondary color on hover */
+  transform: translateY(-10%) scale(1.01); /* Slightly enlarge on hover */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+}
+
+.blurbs-swiper .swiper-button-prev::after,
+.blurbs-swiper .swiper-button-next::after {
+  font-size: 20px; /* Adjust icon size */
+}
+
+
+.blurbs-swiper .swiper-button-prev {
+  left: 10px; /* Adjust as needed */
+}
+
+.blurbs-swiper .swiper-button-next {
+  right: 10px; /* Adjust as needed */
+}
+
+
+.gallery-swiper {
+  max-width: 100%;
+  overflow: hidden; /* Prevents internal overflow */
+  position: relative;
+}
+
+
+/* Gallery Swiper */
+.gallery-swiper {
+  width: 100%;
+  height: 200px;
+  background-color: rgba(76, 175, 80, 0.05); /* Light Green background */
+  border-radius: 8px;
+}
+
+
+.gallery-swiper .swiper-slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.swiper-slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.gallery-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.gallery-swiper .swiper-slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+  transition: transform 0.3s ease; /* Smooth scaling */
+}
+
+.gallery-swiper .swiper-slide img:hover {
+  transform: scale(1.05); /* Subtle zoom on hover */
+}
+
+
+/* Background Colors for Sections */
+.show-blurbs {
+  background-color: rgba(255, 152, 0, 0.1); /* Light Orange with transparency */
+  padding: 16px;
+  border-radius: 8px;
+}
+
+.show-tour-dates {
+  background-color: rgba(33, 150, 243, 0.05); /* Light Blue with transparency */
+  padding: 16px;
+  border-radius: 8px;
+}
+
+.show-notes {
+  background-color: rgba(156, 39, 176, 0.05); /* Light Purple with transparency */
+  padding: 16px;
+  border-radius: 8px;
+}
+
+.show-gallery {
+  background-color: rgba(76, 175, 80, 0.05); /* Light Green with transparency */
+  padding: 16px;
+  border-radius: 8px;
+}
+
+/* Optional: Add spacing between sections */
+.show-blurbs,
+.show-tour-dates,
+.show-notes,
+.show-gallery {
+  font-family: 'Roboto', sans-serif;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-bottom: 16px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.show-blurbs:hover,
+.show-tour-dates:hover,
+.show-notes:hover,
+.show-gallery:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.show-poster,
+.show-mini-poster,
+.gallery-image {
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+
+/* Responsive Design for Show Details */
+@media screen and (max-width: 1024px) {
+  .show-content {
+    flex-direction: column;
+  }
+
+  .show-left-column,
+  .show-right-column {
+    flex: 1;
+  }
+}
+
+/* Blurbs Swiper Container */
+.blurbs-swiper {
+  width: 100%;
+  background-color: rgba(255, 152, 0, 0.05);
+  border-radius: 8px;
+  padding: 20px;
+  margin-top: 24px;
+  transition: all 0.3s ease-in-out;
+  overflow: hidden;
+}
+
+/* Blurb Content */
+.blurb-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+/* Blurb Text Container Using Flexbox */
+.blurb-text-container {
+  display: flex;
+  align-items: flex-start; /* Aligns the top of the quotation mark with the top of the text */
+  margin-bottom: 20px;
+}
+
+/* Quotation Mark Styling */
+.quotation-mark {
+  font-size: 4rem; /* Adjusted size to prevent excessive size */
+  color: var(--mdc-theme-primary, #ff9800);
+  font-family: 'Georgia', serif;
+  line-height: 1;
+  margin-right: 15px; /* Space between quotation mark and text */
+  opacity: 0.8;
+}
+
+/* Blurb Text Styling */
+.blurb-text {
+  flex: 1; /* Takes up remaining horizontal space */
+  overflow: hidden;
+  transition: max-height 0.5s ease;
+  max-height: 120px; /* Collapsed state: approx. 5 lines */
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #333;
+  margin: 0;
+}
+
+/* Expanded Blurb Text */
+.blurb-text.expanded {
+  max-height: none; /* Removes the max-height restriction */
+}
+
+/* Read More Button Styling */
+.read-more-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--mdc-theme-primary, #ff9800);
+  font-size: 1.5rem;
+  align-self: flex-end; /* Aligns the button to the bottom right */
+  transition: transform 0.3s ease;
+  padding: 8px;
+}
+
+.read-more-btn:hover {
+  transform: rotate(180deg); /* Rotates the icon on hover */
+}
+
+/* Material Icons Styling within Read More Button */
+.read-more-btn .material-icons {
+  background-color: #fff;
+  border-radius: 50%;
+  padding: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Blurb Date Styling */
+.blurb-date {
+  margin-top: 8px;
+  font-size: 0.875rem;
+  color: #666;
+  text-align: right;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .blurb-text-container {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .quotation-mark {
+    font-size: 3rem; /* Slightly smaller on mobile */
+    margin-right: 0;
+    margin-bottom: 10px; /* Adds spacing below the quotation mark */
+  }
+
+  .blurb-text {
+    max-height: 90px; /* Reduced initial height for mobile */
+  }
+}
+
+
+/* Gradient fade for truncated text */
+.blurb-text-wrapper.truncated::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 50px;
+  background: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0) 0%,
+    var(--mdc-theme-background) 100%
+  );
+  pointer-events: none;
+}
+
+/* Read More Button */
+.read-more-btn {
+  position: absolute;
+  bottom: -12px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+  color: var(--mdc-theme-primary);
+  z-index: 2;
+  display: none; /* Hidden by default */
+}
+
+.blurb-text-wrapper.truncated .read-more-btn {
+  display: block; /* Show only when truncated */
+}
+
+.read-more-btn .material-icons {
+  background-color: var(--mdc-theme-background);
+  border-radius: 50%;
+  padding: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+/* Expanded States */
+.blurbs-swiper.expanded .blurb-text-wrapper.truncated::after {
+  display: none;
+}
+
+.blurbs-swiper.expanded .blurb-text {
+  max-height: none;
+}
+
+/* Date Display */
+.blurb-date {
+  margin-top: 8px;
+  font-size: 0.875rem;
+  color: #666;
+  text-align: right;
+}
+
+@media screen and (max-width: 768px) {
+  /* Adjust navigation arrows for smaller screens */
+  .nav-arrow {
+    width: 40px;
+    height: 40px;
+  }
+
+  .nav-arrow--left {
+    left: 10px;
+  }
+
+  .nav-arrow--right {
+    right: 10px;
+  }
+
+  /* Adjust show-mini-poster for better fit */
+  .show-mini-poster {
+    width: 80%;
+    margin: 0 auto;
+  }
+}
+
+/* Enhance single-column layout on very small screens */
+@media screen and (max-width: 600px) {
+  .show-content {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .show-left-column,
+  .show-right-column {
+    width: 100%;
+  }
+
+  /* Ensure navigation arrows do not overlap content */
+  .nav-arrow--left,
+  .nav-arrow--right {
+    top: 60%;
+  }
+}
+
+/* Navigation Arrows */
+.nav-arrow {
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: var(--mdc-theme-primary);
+  color: var(--mdc-theme-on-background);
+  border: none;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  z-index: 200; /* Higher than toggle button */
+}
+
+.nav-arrow:hover {
+  background-color: var(--mdc-theme-secondary);
+  transform: translateY(-50%) scale(1.1);
+}
+
+.nav-arrow:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(33, 150, 243, 0.5);
+}
+
+.nav-arrow--left {
+  left: 20px; /* Adjust positioning from the left */
+}
+
+.nav-arrow--right {
+  right: 20px; /* Adjust positioning from the right */
+}
+
+@media screen and (max-width: 768px) {
+  .nav-arrow {
+    width: 40px;
+    height: 40px;
+  }
+
+  .nav-arrow--left {
+    left: 10px;
+  }
+
+  .nav-arrow--right {
+    right: 10px;
+  }
+}
+
+/* Ensure buttons have focus outlines */
+button:focus {
+  outline: 2px solid var(--mdc-theme-secondary);
+}
+
+/* Ensure images have descriptive alt texts */
+.gallery-image {
+  alt: "Gallery Image for [Show Title]";
+}
+
+/* Smooth Scroll Behavior */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Dark Mode Toggle Button */
+#theme-toggle {
+  color: var(--mdc-theme-on-background);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .selection-cards {
+    flex-direction: column;
+    align-items: center;
+  }
+  .demo-card {
+    margin-bottom: 20px;
+  }
+  #latest-news-banner .mdc-banner__text {
+    padding: 0 40px;
+    font-size: 14px;
+  }
+}
