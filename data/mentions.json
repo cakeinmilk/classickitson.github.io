@@ -1,0 +1,26 @@
+[
+    {
+        "id": "book-1",
+        "source": "One Day",
+        "author": "David Nicholls",
+        "type": "Fiction Book",
+        "quote": "She went to see Daniel Kitson at the Edinburgh fringes...",
+        "year": 2009
+    },
+    {
+        "id": "book-2",
+        "source": "How I Escaped My Certain Fate",
+        "author": "Stewart Lee",
+        "type": "Autobiography",
+        "quote": "Daniel acts as a kind of moral compass for the circuit.",
+        "year": 2010
+    },
+    {
+        "id": "book-3",
+        "source": "Themes and Variations",
+        "author": "David O'Doherty",
+        "type": "Fiction Book",
+        "quote": "He imagined a comedian like Kitson, but less hairy.",
+        "year": 2014
+    }
+]

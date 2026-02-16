@@ -1,0 +1,350 @@
+[
+    {
+        "id": "daniel_kitson",
+        "name": "Daniel Kitson",
+        "role": "",
+        "image": "https://www.justthetonic.com/artistimages/daniel-kitson/gallery/outsidephoto.jpeg",
+        "bio": "Kitson began performing comedy at the age of 16. He was nominated for the 2001 Perrier Comedy Award at the Edinburgh Festival Fringe for his show Love, Innocence and the Word Cock before winning it in 2002 for the show Something.\n\nIn April 2001 he could be seen at Up The Creek, often alongside Jimmy Carr.\n\nAs well as stand up, Kitson has written and performed \"story shows\". The first was A Made Up Story at the 2003 Edinburgh Festival Fringe, followed by Stories For the Wobbly-Hearted at the Melbourne International Comedy Festival in 2005. The latter show opened at the Traverse Theatre for the 2005 Edinburgh Festival Fringe and won a Scotsman Fringe First Award. In 2006, Kitson took Stories for the Wobbly Hearted to the Brits Off Broadway Festival in New York. In June 2006 the story show made up one half of his Regents Park Open Air Theatre appearance, where Kitson's stories were accompanied by songs from Gavin Osborn. His story show, C-90, opened at the Traverse for the 2006 Edinburgh Festival Fringe. It was awarded both a Fringe First and The Stage Acting Award for Best Solo Show.",
+        "links": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Kitson",
+            "imdb": "https://www.imdb.com/name/nm1146744/",
+            "website": "danielkitson.com"
+        }
+    },
+    {
+        "id": "gavin_osborn",
+        "name": "Gavin Osborn",
+        "role": "",
+        "links": {
+            "instagram": "https://www.instagram.com/mrgavinosborn/?hl=en-gb"
+        }
+    },
+    {
+        "id": "stewart_lee",
+        "name": "Stewart Lee",
+        "role": ""
+    },
+    {
+        "id": "alun_cochrane",
+        "name": "Alun Cochrane",
+        "role": ""
+    },
+    {
+        "id": "isylee",
+        "name": "Isy Suttie",
+        "role": ""
+    },
+    {
+        "id": "john_oliver",
+        "name": "John Oliver",
+        "role": ""
+    },
+    {
+        "id": "matthew_crosby",
+        "name": "Matthew Crosby",
+        "role": ""
+    },
+    {
+        "id": "tim_key",
+        "name": "Tim Key",
+        "role": "",
+        "links": {
+            "wikipedia": "wikipedia.com"
+        }
+    },
+    {
+        "id": "andy_zaltzman",
+        "name": "Andy Zaltzman",
+        "role": ""
+    },
+    {
+        "id": "russell_howard",
+        "name": "Russell Howard",
+        "role": ""
+    },
+    {
+        "id": "david_o_doherty",
+        "name": "David O'Doherty",
+        "role": ""
+    },
+    {
+        "id": "demetri_martin",
+        "name": "Demetri Martin",
+        "role": ""
+    },
+    {
+        "id": "amy_darcy",
+        "name": "Amy Darcy",
+        "role": ""
+    },
+    {
+        "id": "jon_faine",
+        "name": "Jon Faine",
+        "role": ""
+    },
+    {
+        "id": "casey_bennetto",
+        "name": "Casey Bennetto",
+        "role": ""
+    },
+    {
+        "id": "fiona_bamford_bracher",
+        "name": "Fiona Bamford-Bracher",
+        "role": ""
+    },
+    {
+        "id": "sam_pang",
+        "name": "Sam Pang",
+        "role": ""
+    },
+    {
+        "id": "lauren_laverne",
+        "name": "Lauren Laverne",
+        "role": ""
+    },
+    {
+        "id": "nick_coyle",
+        "name": "Nick Coyle",
+        "role": ""
+    },
+    {
+        "id": "eddie_sharp",
+        "name": "Eddie Sharp",
+        "role": ""
+    },
+    {
+        "id": "tony_wilson",
+        "name": "Tony Wilson",
+        "role": ""
+    },
+    {
+        "id": "tony_martin",
+        "name": "Tony Martin",
+        "role": ""
+    },
+    {
+        "id": "ed_kavalee",
+        "name": "Ed Kavalee",
+        "role": ""
+    },
+    {
+        "id": "daz_chandler",
+        "name": "Daz Chandler",
+        "role": ""
+    },
+    {
+        "id": "ian_collins",
+        "name": "Ian Collins",
+        "role": ""
+    },
+    {
+        "id": "richard_herring",
+        "name": "Richard Herring",
+        "role": ""
+    },
+    {
+        "id": "pam_creed",
+        "name": "Pam Creed",
+        "role": ""
+    },
+    {
+        "id": "lynne_truss",
+        "name": "Lynne Truss",
+        "role": ""
+    },
+    {
+        "id": "rob_liddle",
+        "name": "Rob Liddle",
+        "role": ""
+    },
+    {
+        "id": "howard_jacobson",
+        "name": "Howard Jacobson",
+        "role": ""
+    },
+    {
+        "id": "richard_bacon",
+        "name": "Richard Bacon",
+        "role": ""
+    },
+    {
+        "id": "nina_conti",
+        "name": "Nina Conti",
+        "role": ""
+    },
+    {
+        "id": "katie_melua",
+        "name": "Katie Melua",
+        "role": ""
+    },
+    {
+        "id": "ned_sherrin",
+        "name": "Ned Sherrin",
+        "role": ""
+    },
+    {
+        "id": "richard_fidler",
+        "name": "Richard Fidler",
+        "role": ""
+    },
+    {
+        "id": "andrew_daddo",
+        "name": "Andrew Daddo",
+        "role": ""
+    },
+    {
+        "id": "amanda_smith",
+        "name": "Amanda Smith",
+        "role": ""
+    },
+    {
+        "id": "dom_romeo",
+        "name": "Dom Romeo",
+        "role": ""
+    },
+    {
+        "id": "robbie_buck",
+        "name": "Robbie Buck",
+        "role": ""
+    },
+    {
+        "id": "nish_kumar",
+        "name": "Nish Kumar",
+        "role": ""
+    },
+    {
+        "id": "john_kearns",
+        "name": "John Kearns",
+        "role": ""
+    },
+    {
+        "id": "rose_matafeo",
+        "name": "Rose Matafeo",
+        "role": ""
+    },
+    {
+        "id": "andy_parsons",
+        "name": "Andy Parsons",
+        "role": ""
+    },
+    {
+        "id": "dara_briain",
+        "name": "Dara Ó Briain",
+        "role": ""
+    },
+    {
+        "id": "catherine_tate",
+        "name": "Catherine Tate",
+        "role": ""
+    },
+    {
+        "id": "jonathan_mcguinness",
+        "name": "Jonathan McGuinness",
+        "role": ""
+    },
+    {
+        "id": "kate_dimbleby",
+        "name": "Kate Dimbleby",
+        "role": ""
+    },
+    {
+        "id": "matt_king",
+        "name": "Matt King",
+        "role": ""
+    },
+    {
+        "id": "mike_wilmot",
+        "name": "Mike Wilmot",
+        "role": ""
+    },
+    {
+        "id": "se_n_cullen",
+        "name": "Seán Cullen",
+        "role": ""
+    },
+    {
+        "id": "nate_nott",
+        "name": "Nate Nott",
+        "role": ""
+    },
+    {
+        "id": "sofija_stefanovic",
+        "name": "Sofija Stefanovic",
+        "role": ""
+    },
+    {
+        "id": "roisin_conaty",
+        "name": "Roisin Conaty",
+        "role": ""
+    },
+    {
+        "id": "seann_walsh",
+        "name": "Seann Walsh",
+        "role": ""
+    },
+    {
+        "id": "caroline_ginty",
+        "name": "Caroline Ginty",
+        "role": ""
+    },
+    {
+        "id": "daniel_moore",
+        "name": "Daniel Moore",
+        "role": ""
+    },
+    {
+        "id": "andrew_mcclelland",
+        "name": "Andrew McClelland",
+        "role": ""
+    },
+    {
+        "id": "courtney_hocking",
+        "name": "Courtney Hocking",
+        "role": ""
+    },
+    {
+        "id": "claudia_o_doherty",
+        "name": "Claudia O'Doherty",
+        "role": ""
+    },
+    {
+        "id": "steve_hall",
+        "name": "Steve Hall",
+        "role": ""
+    },
+    {
+        "id": "elis_james",
+        "name": "Elis James",
+        "role": ""
+    },
+    {
+        "id": "diane_morgan",
+        "name": "Diane Morgan",
+        "role": ""
+    },
+    {
+        "id": "tom_parry",
+        "name": "Tom Parry",
+        "role": ""
+    },
+    {
+        "id": "stephanie_bunbury",
+        "name": "Stephanie Bunbury",
+        "role": ""
+    },
+    {
+        "id": "jackie_mcglone",
+        "name": "Jackie McGlone",
+        "role": ""
+    },
+    {
+        "id": "stephanie_merritt",
+        "name": "Stephanie Merritt",
+        "role": ""
+    },
+    {
+        "id": "jason_zinoman",
+        "name": "Jason Zinoman",
+        "role": ""
+    }
+]
