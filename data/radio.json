@@ -6840,5 +6840,19 @@
         "audio_full": "https://archive.org/download/daniel-kitson-a-reason-to-wake-up/A_Reason_to_Wake_Up_-_2026-02-16.full.mp3",
         "audio_edited": "https://archive.org/download/a-reason-to-wake-up-edited/A_Reason_to_Wake_Up_-_2026-02-16.edit.mp3",
         "spotify": "https://open.spotify.com/playlist/0YbFDOe4eF3fqAWybpQula?si=81f54305f75b4b70"
+    },
+    {
+        "id": "february-17-2026",
+        "title": "February 17, 2026",
+        "station": "Resonance FM",
+        "series": "A Reason To Wake Up",
+        "date": "2026-02-26",
+        "description": "",
+        "hosts": [
+            "daniel_kitson"
+        ],
+        "mentions_people": [],
+        "tracklist": [],
+        "audio_full": "https://archive.org/download/daniel-kitson-a-reason-to-wake-up/A_Reason_to_Wake_Up_-_2026-02-17.full.mp3"
     }
 ]

@@ -8,10 +8,53 @@
         "synopsis": "",
         "blurb": "A Perrier-nominated exploration of innocence and first loves.",
         "poster": "https://placehold.co/400x600/161b22/7ee787?text=Love%2C%20Innocence%20and%20the%20Word%20Cock",
-        "dates": [],
+        "dates": [
+            {
+                "wip": false,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": true,
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2001-08-01",
+                "end": "2001-08-04",
+                "venue": "Pleasance Courtyard",
+                "city": "Edinburgh",
+                "country": "UK"
+            },
+            {
+                "wip": false,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2001-08-05",
+                "end": "2001-08-27",
+                "venue": "Pleasance Courtyard",
+                "city": "Edinburgh",
+                "country": "UK"
+            },
+            {
+                "wip": false,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2001-10-15",
+                "end": "2001-10-22",
+                "venue": "Soho Theatre",
+                "city": "London",
+                "country": "UK"
+            }
+        ],
         "characters": [],
         "themes": [],
-        "development": "Nominated for the 2001 Perrier Comedy Award at the Edinburgh Festival Fringe. Performed at Up The Creek in April 2001, often alongside Jimmy Carr.",
+        "development": "Nominated for the 2001 Perrier Comedy Award at the Edinburgh Festival Fringe.",
         "blurbs": [
             {
                 "text": "‘Rude, thoughtful, utterly hilarious’ *Evening Standard*. \n‘Very good stand-up indeed’ *Guardian*. \n‘Brilliantly funny’ *Metro*.\n‘Kitson will save you from yourselves’ *Time Out*.\nDaniel is very good at comedy. Watch him do some.",
@@ -29,7 +72,36 @@
         "synopsis": "",
         "blurb": "The show that won the Perrier Award - a melancholy masterpiece.",
         "poster": "https://placehold.co/400x600/161b22/58a6ff?text=Something",
-        "dates": [],
+        "dates": [
+            {
+                "start": "2002-08-01",
+                "end": "2002-08-03",
+                "venue": "Pleasance Courtyard ",
+                "city": "Edinburgh",
+                "country": "UK",
+                "wip": false,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": true,
+                "rescheduled": false,
+                "wipNote": ""
+            },
+            {
+                "start": "2002-08-04",
+                "end": "2002-08-26",
+                "venue": "Pleasance Courtyard ",
+                "city": "Edinburgh",
+                "country": "UK",
+                "wip": false,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": ""
+            }
+        ],
         "characters": [],
         "themes": [],
         "development": "Won Perrier Comedy Award\n\nPerformed in 2003: re-staged\n\nWon the Perrier Comedy Award in 2002.",
