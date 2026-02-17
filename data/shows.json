@@ -74,32 +74,46 @@
         "poster": "https://placehold.co/400x600/161b22/58a6ff?text=Something",
         "dates": [
             {
-                "start": "2002-08-01",
-                "end": "2002-08-03",
-                "venue": "Pleasance Courtyard ",
-                "city": "Edinburgh",
-                "country": "UK",
                 "wip": false,
                 "recording": false,
                 "screening": false,
                 "streamed": false,
                 "preview": true,
                 "rescheduled": false,
-                "wipNote": ""
-            },
-            {
-                "start": "2002-08-04",
-                "end": "2002-08-26",
+                "wipNote": "",
+                "start": "2002-08-01",
+                "end": "2002-08-03",
                 "venue": "Pleasance Courtyard ",
                 "city": "Edinburgh",
-                "country": "UK",
+                "country": "UK"
+            },
+            {
                 "wip": false,
                 "recording": false,
                 "screening": false,
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
-                "wipNote": ""
+                "wipNote": "",
+                "start": "2002-08-04",
+                "end": "2002-08-26",
+                "venue": "Pleasance Courtyard ",
+                "city": "Edinburgh",
+                "country": "UK"
+            },
+            {
+                "wip": false,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2002-11-04",
+                "end": "2002-11-23",
+                "venue": "Soho Theatre",
+                "city": "London",
+                "country": "UK"
             }
         ],
         "characters": [],
@@ -114,7 +128,10 @@
         ],
         "release": {
             "digital": []
-        }
+        },
+        "awards": [
+            "Perrier"
+        ]
     },
     {
         "id": "over-rated-and-on-tour",

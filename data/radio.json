@@ -6795,14 +6795,14 @@
         "station": "Resonance FM",
         "series": "A Reason To Wake Up",
         "date": "2026-02-16",
-        "description": "",
+        "description": "Daniel visits his favourite coffee show before it opens and expects a parking ticket because he got distracted with trying to find out how to pronounce an artist's name.",
         "hosts": [
             "daniel_kitson"
         ],
         "mentions_people": [],
         "tracklist": [
-            "Joshua Idehen - Illegal Hit",
-            "Tunng - Snails",
+            "Yttling Jazz, Joshua Idehan & Saturday, Monday - Illegal Hit",
+            "Tunng - Snails (William Doyle remix)",
             {
                 "artist": "Matthew Herbert and Momoko Gill",
                 "song": "Mowing",
@@ -6847,12 +6847,82 @@
         "station": "Resonance FM",
         "series": "A Reason To Wake Up",
         "date": "2026-02-26",
-        "description": "",
+        "description": "A mysterious buzz plagues the headphones while Daniel gets distracted by a bin lorry and a shadow he briefly fears is a murderer.",
         "hosts": [
             "daniel_kitson"
         ],
         "mentions_people": [],
-        "tracklist": [],
-        "audio_full": "https://archive.org/download/daniel-kitson-a-reason-to-wake-up/A_Reason_to_Wake_Up_-_2026-02-17.full.mp3"
+        "tracklist": [
+            "The Foundations - Baby Now That I've Found You",
+            "Getdown Services - Provide Me Your Name",
+            {
+                "artist": "Jeffrey Lewis",
+                "song": "Take It For Granted",
+                "link": "https://jeffreylewis.bandcamp.com/track/take-it-for-granted-2"
+            },
+            "supermodel* - your house",
+            "Pigeon - Miami",
+            {
+                "artist": "Ninajirachi",
+                "song": "London Song",
+                "link": "https://ninajirachi.bandcamp.com/track/london-song"
+            },
+            {
+                "artist": "Ballboy",
+                "song": "I Lost You, But I Found Country Music",
+                "link": "https://ballboy.bandcamp.com/track/i-lost-you-but-i-found-country-music-feat-laura-cantrell"
+            },
+            {
+                "artist": "Richard Dawson",
+                "song": "Jogging",
+                "link": "https://richardmichaeldawson.bandcamp.com/track/jogging"
+            },
+            "RAYE - WHERE IS MY HUSBAND!",
+            {
+                "artist": "Matthew Herbert, Herbert, Momoko Gill",
+                "song": "Need To Run",
+                "link": "https://matthewherbert.bandcamp.com/track/need-to-run"
+            },
+            "LCD Soundsystem - North American Scum",
+            "The Postal Service - Such Great Heights",
+            "The Grates - Trampoline",
+            "HeCTA - We Are Glistening",
+            {
+                "artist": "Pickle Darling",
+                "song": "Rinse Spin Cycle / Nicolas Cage",
+                "link": "https://pickledarling.bandcamp.com/track/rinse-spin-cycle-nicolas-cage"
+            },
+            "Clyde Crooks - 38 inch loveseat",
+            {
+                "artist": "Gelli Haha",
+                "song": "Spit",
+                "link": "https://gellihaha.bandcamp.com/track/spit"
+            },
+            "The Beatles - Golden Slumbers",
+            {
+                "artist": "Darren Hanlon",
+                "song": "My Love is an Ocean Away",
+                "link": "https://darrenhanlon.bandcamp.com/track/my-love-is-an-ocean-away"
+            },
+            "Yttling Jazz, Joshua Idehen, Saturday, Monday - Illegal Hit",
+            {
+                "artist": "Four Tet",
+                "song": "Teenage Birdsong",
+                "link": "https://fourtet.bandcamp.com/track/teenage-birdsong"
+            },
+            {
+                "artist": "Loose Meat, Cibelle",
+                "song": "Daisy Chain",
+                "link": "https://loose-meat.bandcamp.com/track/daisy-chain"
+            },
+            {
+                "artist": "Tune-Yards",
+                "song": "Bizness",
+                "link": "https://tune-yards.bandcamp.com/track/bizness"
+            }
+        ],
+        "audio_full": "https://archive.org/download/daniel-kitson-a-reason-to-wake-up/A_Reason_to_Wake_Up_-_2026-02-17.full.mp3",
+        "spotify": "https://open.spotify.com/playlist/1i4ciLcfOibgloNwhnpWtL?si=6ca9116a8b114477",
+        "audio_edited": "https://archive.org/download/a-reason-to-wake-up-edited/A_Reason_to_Wake_Up_-_2026-02-17.edit.mp3"
     }
 ]
