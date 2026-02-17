@@ -1,0 +1,18 @@
+{
+    "news": {
+        "enabled": true,
+        "text": "Updated the site, so if anything's broken or missing, please reach out. And if you can fill in any gaps, that'd be great!",
+        "link": "",
+        "color": "info",
+        "closable": true
+    },
+    "featured": {
+        "enabled": true,
+        "type": "radio",
+        "id": "february-17-2026"
+    },
+    "navigation": {
+        "showPrint": true,
+        "showVideo": false
+    }
+}
