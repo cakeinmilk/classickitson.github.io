@@ -1,5 +1,11 @@
 [
     {
+        "id": 1771504382116,
+        "date": "2026-02-19",
+        "text": "Added radio episode: February 19, 2026 (1981-02-19)",
+        "link": "/radio/february-19-2026"
+    },
+    {
         "id": 1771465717151,
         "date": "2026-02-19",
         "text": "Added radio episode: February 18, 2026 (2026-02-18)",
@@ -22,17 +28,5 @@
         "date": "2026-02-17",
         "text": "Updated radio episode: October 09, 2016 (2016-10-09)",
         "link": "/radio/captain-bang-bang-2016-10-09-1cy3a"
-    },
-    {
-        "id": 1771359847301,
-        "date": "2026-02-17",
-        "text": "Updated radio episode: October 02, 2016 (2016-10-02)",
-        "link": "/radio/captain-bang-bang-2016-10-02-85kua"
-    },
-    {
-        "id": 1771357760671,
-        "date": "2026-02-17",
-        "text": "Updated show: Tree",
-        "link": "/show/tree"
     }
 ]

@@ -6732,11 +6732,12 @@
         "description": "",
         "audio_full": "https://archive.org/download/daniel-kitson-a-reason-to-wake-up/A_Reason_to_Wake_Up_-_2025-03-24.full.mp3",
         "audio_edited": "https://archive.org/download/a-reason-to-wake-up-edited/A_Reason_to_Wake_Up_-_2025-03-24.edit.mp3",
-        "spotify": "https://open.spotify.com/playlist/2hW9ceZIwIAQIbWtdILbb7?si=26acf27592b44de7",
         "tracklist_link": "./tracklists/artwu/artwu_2025_03_24.txt",
         "hosts": [
             "daniel_kitson"
-        ]
+        ],
+        "mentions_people": [],
+        "tracklist": []
     },
     {
         "id": "a-reason-to-wake-up-2025-03-25-kz35y",
@@ -6747,11 +6748,12 @@
         "description": "",
         "audio_full": "https://archive.org/download/daniel-kitson-a-reason-to-wake-up/A_Reason_to_Wake_Up_-_2025-03-25.full.mp3",
         "audio_edited": "https://archive.org/download/a-reason-to-wake-up-edited/A_Reason_to_Wake_Up_-_2025-03-25.edit.mp3",
-        "spotify": "https://open.spotify.com/playlist/2hW9ceZIwIAQIbWtdILbb7?si=26acf27592b44de7",
         "tracklist_link": "./tracklists/artwu/artwu_2025_03_25.txt",
         "hosts": [
             "daniel_kitson"
-        ]
+        ],
+        "mentions_people": [],
+        "tracklist": []
     },
     {
         "id": "a-reason-to-wake-up-2025-03-26-n23w4",
@@ -6762,11 +6764,12 @@
         "description": "",
         "audio_full": "https://archive.org/download/daniel-kitson-a-reason-to-wake-up/A_Reason_to_Wake_Up_-_2025-03-26.full.mp3",
         "audio_edited": "https://archive.org/download/a-reason-to-wake-up-edited/A_Reason_to_Wake_Up_-_2025-03-26.edit.mp3",
-        "spotify": "https://open.spotify.com/playlist/2hW9ceZIwIAQIbWtdILbb7?si=26acf27592b44de7",
         "tracklist_link": "./tracklists/artwu/artwu_2025_03_26.txt",
         "hosts": [
             "daniel_kitson"
-        ]
+        ],
+        "mentions_people": [],
+        "tracklist": []
     },
     {
         "id": "a-reason-to-wake-up-2025-03-27-ijevj",
@@ -6777,11 +6780,12 @@
         "description": "",
         "audio_full": "https://archive.org/download/daniel-kitson-a-reason-to-wake-up/A_Reason_to_Wake_Up_-_2025-03-27.full.mp3",
         "audio_edited": "https://archive.org/download/a-reason-to-wake-up-edited/A_Reason_to_Wake_Up_-_2025-03-27.edit.mp3",
-        "spotify": "https://open.spotify.com/playlist/2hW9ceZIwIAQIbWtdILbb7?si=26acf27592b44de7",
         "tracklist_link": "./tracklists/artwu/artwu_2025_03_27.txt",
         "hosts": [
             "daniel_kitson"
-        ]
+        ],
+        "mentions_people": [],
+        "tracklist": []
     },
     {
         "id": "a-reason-to-wake-up-2025-03-28-twmki",
@@ -6789,10 +6793,9 @@
         "series": "A Reason To Wake Up",
         "station": "Resonance FM",
         "date": "2025-03-28",
-        "description": "Last year, in May, i did three or four weeks of radio shows between 7 and 9 am on the London based but globally available community arts radio station - Resonance FM. It was a lot of fun - i got to get up early, ride my bike into town, let myself into an empty building and play songs i liked or had never heard before for a couple of hours, whilst having a bit of chat in between songs like how Radio disc Jockeys do* - You get me?",
+        "description": "",
         "audio_full": "https://archive.org/download/daniel-kitson-a-reason-to-wake-up/A_Reason_to_Wake_Up_-_2025-03-28.full.mp3",
         "audio_edited": "https://archive.org/download/a-reason-to-wake-up-edited/A_Reason_to_Wake_Up_-_2025-03-28.edit.mp3",
-        "spotify": "https://open.spotify.com/playlist/2hW9ceZIwIAQIbWtdILbb7?si=26acf27592b44de7",
         "tracklist_link": "./docs/books/01-2010_-_Stewart_Lee_How_I_Escaped_My_Certain_Fate.txt",
         "hosts": [
             "daniel_kitson"
@@ -7036,5 +7039,82 @@
         ],
         "audio_full": "https://archive.org/download/daniel-kitson-a-reason-to-wake-up/A_Reason_to_Wake_Up_-_2026-02-18.full.mp3",
         "audio_edited": "https://archive.org/download/a-reason-to-wake-up-edited/A_Reason_to_Wake_Up_-_2026-02-18.edit.mp3"
+    },
+    {
+        "id": "february-19-2026",
+        "title": "February 19, 2026",
+        "station": "Resonance FM",
+        "series": "A Reason To Wake Up",
+        "date": "2026-02-19",
+        "description": "Daniel starts the broadcast in chaos after accidentally tripping the studio power. Between songs, he registers for the Melbourne Comedy Festival and promotes the station fundraiser, noting that donations ensure he keeps getting keys to the building.",
+        "spotify": "https://open.spotify.com/playlist/21sAXLTw5lSUgqKo8fwuM3?si=cf1f4797fa154ebe",
+        "hosts": [
+            "daniel_kitson"
+        ],
+        "mentions_people": [],
+        "tracklist": [
+            "LCD Soundsystem - Losing My Edge",
+            "The Beautiful South - You Keep It All In",
+            {
+                "artist": "Charlotte Adigéry, Bolis Pupul, Soulwax",
+                "song": "Cliché - Soulwax Remix",
+                "link": "https://charlotteandbolis.bandcamp.com/album/clich-soulwax-remix-3"
+            },
+            "Matt Duncan - Heart & Arrow",
+            "Mel & Kim - Respectable",
+            "The Beta Band - Dry the Rain",
+            "Warmduscher - Midnight Dipper",
+            "Tunng - Bullets",
+            "The Housemartins - The People Who Grinned Themselves To Death",
+            {
+                "artist": "Scott Lavene",
+                "song": "Sadly I'm Not Steve McQueen",
+                "link": "https://scottlavene.bandcamp.com/track/sadly-im-not-steve-mcqueen-2"
+            },
+            {
+                "artist": "Getdown Services",
+                "song": "Real Big Hitter",
+                "link": "https://getdownservices.bandcamp.com/track/real-big-hitter"
+            },
+            "Macadam Crocodile - Walk Faster",
+            "Bess Atwell - Co-op",
+            {
+                "artist": "Fontaines D.C., Soulwax",
+                "song": "A Hero's Death (Soulwax Remix)",
+                "link": "https://fontainesdc.bandcamp.com/track/a-heros-death-soulwax-remix"
+            },
+            "Prefab Sprout - The King of Rock 'N' Roll",
+            "Kings of Convenience - Love Is No Big Truth",
+            "David Byrne, St. Vincent - Weekend in the Dust",
+            {
+                "artist": "Rozi Plain",
+                "song": "Silent Fan",
+                "link": "https://roziplain.bandcamp.com/track/silent-fan"
+            },
+            {
+                "artist": "The Burning Hell",
+                "song": "Bird Queen of Garbage Island",
+                "link": "https://theburninghell.bandcamp.com/track/bird-queen-of-garbage-island-3"
+            },
+            "Daft Punk - Get Lucky (feat. Pharrell Williams  and Nile Rodgers)",
+            {
+                "artist": "Snapped Ankles",
+                "song": "I Want My Minutes Back",
+                "link": "https://snappedankles.bandcamp.com/track/i-want-my-minutes-back-3"
+            },
+            "Soulwax - Constant Happiness Machine",
+            {
+                "artist": "Oliver Sim",
+                "song": "Fruit",
+                "link": "https://oliversim.bandcamp.com/track/fruit"
+            },
+            {
+                "artist": "Getdown Services",
+                "song": "Provide Me Your Name [Partial]",
+                "link": "https://getdownservices.bandcamp.com/track/provide-me-your-name"
+            }
+        ],
+        "audio_full": "https://archive.org/download/daniel-kitson-a-reason-to-wake-up/A_Reason_to_Wake_Up_-_2026-02-19.full.mp3",
+        "audio_edited": "https://archive.org/download/a-reason-to-wake-up-edited/A_Reason_to_Wake_Up_-_2026-02-19.edit.mp3"
     }
 ]
