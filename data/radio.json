@@ -3325,7 +3325,11 @@
             "Ian Dury and the Blockheads - Reasons to be Cheerful, Part 3",
             "Deerhunter - Coronado",
             "Herman Dune - Tell Me Something I Don’t Know",
-            "[Spoken Word] Eugene Mirman - Welcome to My Russian Audio Phrasebook",
+            {
+                "artist": "Eugene Mirman",
+                "song": "Welcome to My Russian Audio Phrasebook",
+                "spoken": true
+            },
             "Elbow - Starlings",
             "Peter Gabriel - Sledgehammer",
             "James - Sometimes",
@@ -7110,11 +7114,97 @@
             },
             {
                 "artist": "Getdown Services",
-                "song": "Provide Me Your Name [Partial]",
-                "link": "https://getdownservices.bandcamp.com/track/provide-me-your-name"
+                "song": "Provide Me Your Name",
+                "link": "https://getdownservices.bandcamp.com/track/provide-me-your-name",
+                "partial": true
             }
         ],
         "audio_full": "https://archive.org/download/daniel-kitson-a-reason-to-wake-up/A_Reason_to_Wake_Up_-_2026-02-19.full.mp3",
         "audio_edited": "https://archive.org/download/a-reason-to-wake-up-edited/A_Reason_to_Wake_Up_-_2026-02-19.edit.mp3"
+    },
+    {
+        "id": "february-20-2026",
+        "title": "February 20, 2026",
+        "station": "Resonance FM",
+        "series": "A Reason To Wake Up",
+        "date": "2026-02-20",
+        "description": "Daniel kicks off his broadcast by fruitlessly playing with the studio's reverb knob before settling in with his morning coffee and dreading the mountain of CDs he has to pack and post later. Later, he recounts a delightful breakfast outing where he discovered a secret hash brown hidden inside his burrito.",
+        "spotify": "https://open.spotify.com/playlist/6ChqePXLHmsWa43H8BywA4?si=341fe1232bb947bd",
+        "hosts": [
+            "daniel_kitson"
+        ],
+        "mentions_people": [],
+        "tracklist": [
+            "LCD Soundsystem - Yeah - Pretentious Mix",
+            "Sidney Carter, Alan Lomax - Worried Now, Won't Be Worried Long - Previously Unreleased",
+            "Dan Deacon - When I Was Done Dying",
+            "Nilüfer Yanya - Method Actor",
+            {
+                "artist": "Oslo Twins",
+                "song": "I Wake Up Slowly",
+                "link": "https://oslotwins.bandcamp.com/track/i-wake-up-slowly"
+            },
+            {
+                "artist": "Jeffrey Lewis",
+                "song": "Back to Manhattan",
+                "link": "https://jeffreylewis.bandcamp.com/album/manhattan-2015"
+            },
+            {
+                "artist": "Formal Sppeedwear",
+                "song": "Wait (Hatchet Gets a New Hide)",
+                "link": "https://formalsppeedwear.bandcamp.com/album/wait-hatchet-gets-a-new-hide"
+            },
+            "LEO VINCENT - Loving isn't easy",
+            {
+                "artist": "Getdown Services",
+                "song": "Come On",
+                "link": "https://getdownservices.bandcamp.com/track/come-on"
+            },
+            {
+                "artist": "Metronomy, 1-800 GIRLS",
+                "song": "Salted Caramel Ice Cream - 1-800 GIRLS Remix",
+                "link": "https://metronomy.bandcamp.com/album/salted-caramel-ice-cream-1-800-girls-remix"
+            },
+            "Young Fathers - I Saw",
+            {
+                "artist": "Boko Yout",
+                "song": "VOLLEYBALL",
+                "link": "https://bokoyout.bandcamp.com/track/volleyball"
+            },
+            "Deki Alem - Mr Man",
+            {
+                "artist": "Scott Lavene",
+                "song": "Funny How Things Change",
+                "unannounced": true
+            },
+            {
+                "artist": "Four Tet",
+                "song": "Three Drums",
+                "partial": true
+            },
+            "LCD Soundsystem - Thrills - XFM Session",
+            {
+                "artist": "SAULT",
+                "song": "Don't Waste My Time",
+                "unannounced": true
+            },
+            "LCD Soundsystem - You Wanted a Hit",
+            {
+                "artist": "PVA",
+                "song": "Mate",
+                "link": "https://pvaareok.bandcamp.com/track/mate"
+            },
+            {
+                "artist": "Warmduscher, Soulwax",
+                "song": "Midnight Dipper - Soulwax Remix",
+                "link": "https://warmduscher.bandcamp.com/track/midnight-dipper-soulwax-remix-2",
+                "partial": true
+            },
+            "Villagers - I Want What I Don't Need",
+            "Nation of Language, Tom Sharkett - Inept Apollo (Tom Sharkett Remix)",
+            "Unknown - Unknown"
+        ],
+        "audio_full": "https://archive.org/download/daniel-kitson-a-reason-to-wake-up/A_Reason_to_Wake_Up_-_2026-02-20.full.mp3",
+        "audio_edited": "https://archive.org/download/a-reason-to-wake-up-edited/A_Reason_to_Wake_Up_-_2026-02-20.edit.mp3"
     }
 ]
