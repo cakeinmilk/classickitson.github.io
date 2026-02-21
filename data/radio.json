@@ -7206,5 +7206,73 @@
         ],
         "audio_full": "https://archive.org/download/daniel-kitson-a-reason-to-wake-up/A_Reason_to_Wake_Up_-_2026-02-20.full.mp3",
         "audio_edited": "https://archive.org/download/a-reason-to-wake-up-edited/A_Reason_to_Wake_Up_-_2026-02-20.edit.mp3"
+    },
+    {
+        "id": "february-21-2026",
+        "title": "February 21, 2026",
+        "station": "Resonance FM",
+        "series": "A Reason To Wake Up",
+        "date": "2026-02-21",
+        "description": "Disaster strikes the Saturday broadcast when Daniel realises local coffee shop doesn't open until 9 AM. Embracing the chaos, he stubbornly refuses to plug in his dying laptop. Will the battery outlast the broadcast?",
+        "spotify": "https://open.spotify.com/playlist/0eILknZsxu4dVp05fppvvT?si=36c5686191ef4f33",
+        "hosts": [
+            "daniel_kitson"
+        ],
+        "mentions_people": [],
+        "tracklist": [
+            "LCD Soundsystem - new body rhumba (from the film White Noise)",
+            "WILLOW, Tune-Yards - omnipotent (feat. tune-yards)",
+            {
+                "artist": "Deki Alem",
+                "song": "Only Wit U",
+                "link": "https://deki.bandcamp.com/track/only-wit-u"
+            },
+            "David Byrne - Born Under Punches (The Heat Goes On) - Live",
+            "Pickle Darling - massive everything - alternate version",
+            "GANS - I THINK I LIKE YOU",
+            "Paul Williams - Number One",
+            "Candi Staton - I'm Just a Prisoner (Of Your Good Lovin')",
+            "Melt Yourself Down - Every Single Day",
+            {
+                "artist": "Darren Hanlon",
+                "song": "House",
+                "link": "https://darrenhanlon.bandcamp.com/track/house"
+            },
+            "The Beautiful South - Prettiest Eyes",
+            "Beastie Boys - Intergalactic - Remastered 2009",
+            {
+                "artist": "Barry Adamson, Jarvis Cocker, Atticus Ross",
+                "song": "Set the Controls for the Heart of the Pelvis",
+                "link": "https://barryadamson.bandcamp.com/track/set-the-controls-for-the-heart-of-the-pelvis-feat-jarvis-cocker"
+            },
+            {
+                "artist": "Villagers",
+                "song": "Mountain out of a Molehill",
+                "link": "https://wearevillagers.bandcamp.com/album/mountain-out-of-a-molehill"
+            },
+            "Divorce - Birds",
+            "Timber Timbre - I Am Coming to Paris (To Kill You)",
+            "Macadam Crocodile - Hold on darling",
+            "Super Furry Animals - Night Vision",
+            "King Creosote, Jon Hopkins - John Taylor's Month Away",
+            {
+                "artist": "The Beths",
+                "song": "Expert In A Dying Field",
+                "link": "https://thebethsnz.bandcamp.com/album/expert-in-a-dying-field"
+            },
+            {
+                "artist": "Gavin Osborn",
+                "song": "Blue Plaque",
+                "link": "https://mylittleowlrecords.bandcamp.com/track/blue-plaque"
+            },
+            "The Shins - We Will Become Silhouettes - Remastered",
+            {
+                "artist": "James",
+                "song": "Sometimes",
+                "partial": true
+            }
+        ],
+        "audio_full": "https://archive.org/download/daniel-kitson-a-reason-to-wake-up/A_Reason_to_Wake_Up_-_2026-02-21.full.mp3",
+        "audio_edited": "https://archive.org/download/a-reason-to-wake-up-edited/A_Reason_to_Wake_Up_-_2026-02-21.edit.mp3"
     }
 ]
