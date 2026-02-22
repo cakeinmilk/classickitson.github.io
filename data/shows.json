@@ -1611,10 +1611,39 @@
         "synopsis": "",
         "blurb": "A classic performance.",
         "poster": "https://placehold.co/400x600/161b22/d29922?text=Tree",
-        "dates": [],
+        "dates": [
+            {
+                "wip": true,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2013-07-20",
+                "end": "",
+                "venue": "Latitude Festival",
+                "city": "Southwold",
+                "country": "UK"
+            },
+            {
+                "wip": false,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2013-09-11",
+                "end": "2019-09-21",
+                "venue": "The Royal Exchange",
+                "city": "Manchester",
+                "country": "UK"
+            }
+        ],
         "characters": [],
         "themes": [],
-        "development": "Featuring Tim Key",
+        "development": " early-morning Work in Progress at Latitude 2013, where Kitson had decided on the set, the number of characters and about four pages of decent dialogue.\n\nWe got a taster of the first page or so of dialogue, involving a man at the bottom of a tree talking to a character further up in the branches (out of sight) protesting against, and protecting it from, a neighbourhood campaign of felling. He would probably play the bloke in the tree, to spare him getting into costume, Kitson advised us, as he peered at the script on his laptop.\n\nIn July the blurb on the Royal Exchange website advised “There is currently no running time, no marketing copy, no programme image,”",
         "blurbs": [
             {
                 "text": "A show for two people written and directed by Daniel Kitson.\n\nIt’s early evening. it’s mid autumn. It’s starting to get dark. And on a quiet residential street somewhere in England, a man with a picnic basket, arrives at a tree.\n\nA new show about dissent, commitment, two people and a tree.",
@@ -1639,9 +1668,6 @@
                 "onAAOF": true
             }
         },
-        "relatedShows": [
-            "keep"
-        ],
         "cast": [
             {
                 "name": "Tim Key",
@@ -1922,7 +1948,9 @@
         "title": "A Short Series of Disagreements Presented Here in Chronological Order.",
         "year": 2017,
         "type": "story",
-        "collaborators": [],
+        "collaborators": [
+            "isylee"
+        ],
         "synopsis": "A story show originally from 2017.",
         "blurb": "A Short Series of Disagreements Presented Here in Chronological Order.",
         "poster": "https://placehold.co/400x600/161b22/ff7b72?text=A%20Short%20Series%20of%20Disagreements%20Presented%20Here%20in%20Chronological%20Order.",
@@ -1930,6 +1958,11 @@
             {
                 "wip": false,
                 "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2017-02-08",
                 "end": "",
                 "venue": "Traverse Theatre",
@@ -1939,6 +1972,11 @@
             {
                 "wip": false,
                 "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2017-04-11",
                 "end": "",
                 "venue": "St. Ann's Warehouse",
@@ -1948,6 +1986,11 @@
             {
                 "wip": false,
                 "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2017-06-05",
                 "end": "",
                 "venue": "Traverse Theatre",
@@ -1955,10 +1998,57 @@
                 "country": "UK"
             }
         ],
-        "reviews": [],
-        "characters": [],
+        "characters": [
+            {
+                "name": "Christine Cluff",
+                "description": "Founding member of South London ARC - her initial role was \"hero, founder, champion, god\", was hit by a car at the beginning of this story",
+                "aka": "Chris, Tina, CC",
+                "major": true
+            },
+            {
+                "name": "Claire Haywood",
+                "description": "Founding member of South London ARC - her initial role was \"CEO, CFO, COO, UFO\", later became treasurer, was hit by a car years ago",
+                "aka": "",
+                "major": true
+            },
+            {
+                "name": "David Denkin",
+                "description": "Man who works for the South London Press",
+                "aka": "",
+                "major": true
+            },
+            {
+                "name": "William Branch",
+                "description": "Founding member of South London ARC - his initial role was \"head of HR, PR, PE, and RE\", later became treasurer after Claire was hit by a car",
+                "aka": "Billy",
+                "major": true
+            },
+            {
+                "name": "Barbara Branch",
+                "description": "Ex-member of South London ARC, William Branch's ex-wife",
+                "aka": "",
+                "major": false
+            },
+            {
+                "name": "Betty, Claire, David, David, David, Lisa, Liz, Lucy, Matt, Paul, Paul, Teddy, Timothy, Willaim",
+                "description": "Non-founding members of South London ARC",
+                "aka": "",
+                "major": false
+            },
+            {
+                "name": "Brian",
+                "description": "Man who inherited a phone number from someone who used to be in the South London ARC",
+                "aka": "",
+                "major": false
+            },
+            {
+                "name": "Tom",
+                "description": "Friend of the Daniel Kitson character, with whom he canceled plans to investigate the mystery",
+                "aka": "",
+                "major": false
+            }
+        ],
         "themes": [],
-        "development": "",
         "blurbs": [
             {
                 "text": "A brand-new story told entirely through the peripheries and pivot points of an as-yet undetermined number of debates, wrangles, quarrels, arguments, discussions, tiffs, altercations, contretemps, and squabbles.\nDaniel Kitson, a well-regarded but bald-headed forty-year-old writer and performer from a small village in the north of England, visits Washington DC for the very first time with the world premiere of a brand new show written in this particular time, for this particular place, and likely to be both funny and thoughtful, absurd and serious, rich with humanity and riddled with frustration.",
@@ -1978,28 +2068,18 @@
         "poster": "https://placehold.co/400x600/161b22/58a6ff?text=Good%20For%20Glue",
         "dates": [
             {
-                "wip": false,
+                "wip": true,
                 "recording": false,
                 "screening": false,
                 "streamed": false,
                 "preview": false,
-                "start": "2018-06-17",
-                "end": "",
-                "venue": "The Stand",
-                "city": "Edinburgh",
+                "rescheduled": false,
+                "wipNote": "titled 'Not really work in progress. More just something to do.'",
+                "start": "2018-06-26",
+                "end": "2018-06-28",
+                "venue": "Wardrobe Theatre",
+                "city": "Bristol",
                 "country": "UK"
-            },
-            {
-                "wip": false,
-                "recording": false,
-                "screening": false,
-                "streamed": false,
-                "preview": false,
-                "start": "2018-11-07",
-                "end": "",
-                "venue": "St. Ann's Warehouse",
-                "city": "New York",
-                "country": "USA"
             }
         ],
         "characters": [],
@@ -2032,14 +2112,86 @@
         "poster": "https://placehold.co/400x600/161b22/d29922?text=Outside.%20Again.",
         "dates": [
             {
-                "wip": false,
+                "wip": true,
                 "recording": false,
                 "screening": false,
                 "streamed": false,
                 "preview": false,
-                "start": "2019-02-07",
+                "rescheduled": false,
+                "wipNote": "titled \"Waggle\"",
+                "start": "2019-06-08",
+                "end": "2019-06-09",
+                "venue": "The Bill Murray",
+                "city": "London",
+                "country": "UK"
+            },
+            {
+                "wip": true,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "titled \"Waggle\"",
+                "start": "2019-06-13",
                 "end": "",
-                "venue": "Battersea Arts Centre",
+                "venue": "The Bill Murray",
+                "city": "London",
+                "country": "UK"
+            },
+            {
+                "wip": true,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "titled \"Waggle\"",
+                "start": "2019-06-17",
+                "end": "2019-06-18",
+                "venue": "The Bill Murray",
+                "city": "London",
+                "country": "UK"
+            },
+            {
+                "wip": true,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "titled \"Waggle\"",
+                "start": "2019-06-22",
+                "end": "2019-06-23",
+                "venue": "The Bill Murray",
+                "city": "London",
+                "country": "UK"
+            },
+            {
+                "wip": true,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "titled \"Waggle\"",
+                "start": "2019-06-26",
+                "end": "",
+                "venue": "The Bill Murray",
+                "city": "London",
+                "country": "UK"
+            },
+            {
+                "wip": true,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "titled \"Waggle\"",
+                "start": "2019-07-06",
+                "end": "",
+                "venue": "The Bill Murray",
                 "city": "London",
                 "country": "UK"
             },
@@ -2049,57 +2201,74 @@
                 "screening": false,
                 "streamed": false,
                 "preview": false,
-                "start": "2019-04-16",
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2019-07-07",
                 "end": "",
-                "venue": "St. Ann's Warehouse",
-                "city": "New York",
-                "country": "USA"
-            },
-            {
-                "wip": false,
-                "recording": false,
-                "screening": false,
-                "streamed": false,
-                "preview": false,
-                "start": "2019-05-06",
-                "end": "",
-                "venue": "Traverse Theatre",
-                "city": "Edinburgh",
-                "country": "UK"
-            },
-            {
-                "wip": false,
-                "recording": false,
-                "screening": false,
-                "streamed": false,
-                "preview": false,
-                "start": "2019-11-12",
-                "end": "",
-                "venue": "The Stand",
-                "city": "Edinburgh",
-                "country": "UK"
-            },
-            {
-                "wip": false,
-                "recording": false,
-                "screening": false,
-                "streamed": false,
-                "preview": false,
-                "start": "2019-11-23",
-                "end": "",
-                "venue": "Battersea Arts Centre",
+                "venue": "Regents Park Open Air Theatre",
                 "city": "London",
                 "country": "UK"
             }
         ],
-        "characters": [],
+        "characters": [
+            {
+                "name": "Duncan Thwaite",
+                "description": "Man who sets up 47 phones in his home",
+                "aka": "",
+                "major": true
+            },
+            {
+                "name": "Lucy",
+                "description": "Woman from the phone company who calls Duncan to check how his 47 phones are working out",
+                "aka": "",
+                "major": true
+            },
+            {
+                "name": "Gary",
+                "description": "Man whose stag do Duncan attended",
+                "aka": "",
+                "major": false
+            },
+            {
+                "name": "Kate",
+                "description": "Girl Duncan knew at school",
+                "aka": "",
+                "major": false
+            },
+            {
+                "name": "Keith",
+                "description": "Man who helps Duncan set up 47 phones in his home",
+                "aka": "",
+                "major": false
+            },
+            {
+                "name": "Sarah",
+                "description": "Woman Duncan used to call",
+                "aka": "",
+                "major": false
+            }
+        ],
         "themes": [],
         "development": "With Gavin Osborn",
         "blurbs": [
             {
-                "text": "A classic performance.",
+                "text": "*There was a time when we came here every year, to sing songs amongst the trees, and tell tales beneath the stars to fill the sky with a bonfire built from laughter and love and joy and wonder.\n \nBut that was years ago now.\n \nBack when life was a gathering glory of boundless potential. Back when simplistic sadness felt profound and broken hearts were plot points and death was just a narrative device. Back when a night’s sleep could stretch out beyond noon and eating crispy shredded beef after midnight had minimal digestive repercussions the following day. Back before births and deaths and distance and doubt. Before beliefs buckled and hope came to feel facile and pyjamas started to almost always smell at least a little bit of piss.\n \nAnd yet.\n \nHere we are again.\n \nIn the middle of the night in the middle of the summer.\n \nUnder the sky.\n \nIn a park.\n \nRummaging in the rubble for something to burn, a forgotten fragment of anything flammable, searching for something to set alight and hold aloft and to fling it, together, once again, out and up into the deepening dark.*\n \nShow will include: Sad songs, funny stories, indefensible declarations, crosstalk, technical difficulties, sad stories, moths, funny songs, quite possibly a chant and at least two, standard lamps.",
                 "year": 2019,
                 "month": ""
+            }
+        ],
+        "music": {
+            "showHeaders": false,
+            "spotify": "https://open.spotify.com/playlist/1I6CiC5lhP7Dt3GbXiJguq?si=7c231bdf4515406d"
+        },
+        "cast": [
+            {
+                "name": "Daniel Kitson",
+                "role": "Duncan Thwaite"
+            },
+            {
+                "name": "Isy Suttie",
+                "role": "Lucy"
             }
         ]
     },
@@ -2157,6 +2326,20 @@
                 "preview": false,
                 "rescheduled": false,
                 "wipNote": "",
+                "start": "2019-07-25",
+                "end": "2019-07-26",
+                "venue": "Wardrobe Theatre",
+                "city": "Bristol",
+                "country": "UK"
+            },
+            {
+                "wip": true,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2019-07-29",
                 "end": "2019-07-30",
                 "venue": "The Trades Club",
@@ -2192,7 +2375,50 @@
                 "country": ""
             }
         ],
-        "characters": [],
+        "characters": [
+            {
+                "name": "Penelope Ruttell",
+                "description": "Woman who is gaslit by her ex-boyfriend",
+                "aka": "Poppy",
+                "major": true
+            },
+            {
+                "name": "Robert Duncan",
+                "description": "Man who gaslights his ex-girlfriend",
+                "aka": "Bob",
+                "major": true
+            },
+            {
+                "name": "Claire",
+                "description": "Friend of Bob and Poppy's who had dinner with them",
+                "aka": "",
+                "major": false
+            },
+            {
+                "name": "Gilllian",
+                "description": "Actor hired by Bob to pretend she works at Snappy Snaps",
+                "aka": "",
+                "major": false
+            },
+            {
+                "name": "Martin",
+                "description": "Actor hired by Bob to pretend he works as a security guard",
+                "aka": "",
+                "major": false
+            },
+            {
+                "name": "Paul",
+                "description": "Man who helps Bob print pictures",
+                "aka": "",
+                "major": false
+            },
+            {
+                "name": "William",
+                "description": "Friend of Bob and Poppy's who had dinner with them",
+                "aka": "",
+                "major": false
+            }
+        ],
         "themes": [],
         "blurbs": [
             {
@@ -2492,6 +2718,7 @@
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
+                "wipNote": "",
                 "start": "2022-05-23",
                 "end": "2022-05-25",
                 "venue": "The Old Mill",
@@ -2505,6 +2732,7 @@
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
+                "wipNote": "",
                 "start": "2022-05-29",
                 "end": "",
                 "venue": "Thorington Theatre",
@@ -2518,6 +2746,7 @@
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
+                "wipNote": "",
                 "start": "2022-05-30",
                 "end": "",
                 "venue": "Bussey Building",
@@ -2531,6 +2760,7 @@
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
+                "wipNote": "",
                 "start": "2022-06-06",
                 "end": "",
                 "venue": "Bussey Building",
@@ -2544,6 +2774,7 @@
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
+                "wipNote": "",
                 "start": "2022-06-07",
                 "end": "2022-06-09",
                 "venue": "The Old Mill",
@@ -2557,6 +2788,7 @@
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
+                "wipNote": "",
                 "start": "2022-06-13",
                 "end": "",
                 "venue": "Bussey Building",
@@ -2570,6 +2802,7 @@
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
+                "wipNote": "",
                 "start": "2022-06-16",
                 "end": "",
                 "venue": "Thorington Theatre",
@@ -2583,6 +2816,7 @@
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
+                "wipNote": "",
                 "start": "2022-06-17",
                 "end": "",
                 "venue": "Midlands Arts Centre Outdoor Theatre",
@@ -2596,6 +2830,7 @@
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
+                "wipNote": "",
                 "start": "2022-06-18",
                 "end": "",
                 "venue": "Melbourne Hall, Walled Garden",
@@ -2609,6 +2844,7 @@
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
+                "wipNote": "",
                 "start": "2022-06-19",
                 "end": "",
                 "venue": "Regents Park Open Air Theatre",
@@ -2622,6 +2858,7 @@
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
+                "wipNote": "",
                 "start": "2022-06-20",
                 "end": "",
                 "venue": "Bussey Building",
@@ -2635,6 +2872,7 @@
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
+                "wipNote": "",
                 "start": "2022-06-22",
                 "end": "2022-06-23",
                 "venue": "Lawrence Batley Theatre Courtyard",
@@ -2648,6 +2886,7 @@
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
+                "wipNote": "",
                 "start": "2022-06-27",
                 "end": "",
                 "venue": "Bussey Building",
@@ -2661,6 +2900,7 @@
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
+                "wipNote": "",
                 "start": "2022-07-17",
                 "end": "",
                 "venue": "Grosvenor Park Open Air Theatre",
@@ -2674,6 +2914,7 @@
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
+                "wipNote": "",
                 "start": "2022-07-20",
                 "end": "2022-07-23",
                 "venue": "Windmill Hill City Farm",
@@ -2687,6 +2928,7 @@
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
+                "wipNote": "",
                 "start": "2022-07-24",
                 "end": "",
                 "venue": "Regents Park Open Air Theatre",
@@ -2700,6 +2942,7 @@
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
+                "wipNote": "",
                 "start": "2022-07-27",
                 "end": "",
                 "venue": "Wharton Park",
@@ -2713,6 +2956,7 @@
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
+                "wipNote": "",
                 "start": "2022-07-28",
                 "end": "",
                 "venue": "Sun Court Enclosure, Spa Complex",
@@ -2726,6 +2970,7 @@
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
+                "wipNote": "",
                 "start": "2022-07-30",
                 "end": "",
                 "venue": "Deal Castle",
@@ -2739,6 +2984,7 @@
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
+                "wipNote": "",
                 "start": "2022-08-01",
                 "end": "",
                 "venue": "Regents Park Open Air Theatre",
@@ -2752,6 +2998,7 @@
                 "streamed": false,
                 "preview": false,
                 "rescheduled": true,
+                "wipNote": "",
                 "start": "2022-08-10",
                 "end": "",
                 "venue": "Midland Arts Centre Outdoor Theatre",
@@ -2765,6 +3012,7 @@
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
+                "wipNote": "",
                 "start": "2022-08-21",
                 "end": "",
                 "venue": "Regents Park Open Air Theatre",
@@ -2778,6 +3026,7 @@
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
+                "wipNote": "",
                 "start": "2022-08-29",
                 "end": "2022-08-31",
                 "venue": "The Old Mill",
@@ -2785,7 +3034,6 @@
                 "country": "UK"
             }
         ],
-        "characters": [],
         "themes": [],
         "development": "Return to the stage after 2 years. Toured outdoor venues in the UK. Despite the blurb, Gavin Osborn only joined for the Regents Park shows.\n\nRecorded over the three final tour dates, but this has not yet been released on any platform.",
         "blurbs": [
@@ -2794,7 +3042,10 @@
                 "year": 2022,
                 "month": ""
             }
-        ]
+        ],
+        "release": {
+            "digital": []
+        }
     },
     {
         "id": "maybe-a-ghost-story",
@@ -2812,6 +3063,8 @@
                 "screening": false,
                 "streamed": false,
                 "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2022-10-26",
                 "end": "2022-10-27",
                 "venue": "The Globe",
@@ -2824,6 +3077,8 @@
                 "screening": false,
                 "streamed": false,
                 "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2023-10-30",
                 "end": "2023-11-04",
                 "venue": "Wiltons Musical Hall",
@@ -2836,6 +3091,8 @@
                 "screening": false,
                 "streamed": false,
                 "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2025-10-14",
                 "end": "",
                 "venue": "Old Vic",
@@ -2848,6 +3105,8 @@
                 "screening": false,
                 "streamed": false,
                 "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2025-10-16",
                 "end": "",
                 "venue": "Gala ",
@@ -2860,6 +3119,8 @@
                 "screening": false,
                 "streamed": false,
                 "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2025-10-17",
                 "end": "",
                 "venue": "Stephen Joseph",
@@ -2872,6 +3133,8 @@
                 "screening": false,
                 "streamed": false,
                 "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2025-10-21",
                 "end": "",
                 "venue": "Lawrence Batley ",
@@ -2884,6 +3147,8 @@
                 "screening": false,
                 "streamed": false,
                 "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2025-10-22",
                 "end": "",
                 "venue": "Rep (Studio)",
@@ -2896,6 +3161,8 @@
                 "screening": false,
                 "streamed": false,
                 "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2025-10-25",
                 "end": "",
                 "venue": "Sherman",
@@ -2908,6 +3175,8 @@
                 "screening": false,
                 "streamed": false,
                 "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2025-10-26",
                 "end": "",
                 "venue": "William Aston Hall",
@@ -2920,6 +3189,8 @@
                 "screening": false,
                 "streamed": false,
                 "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2025-10-27",
                 "end": "",
                 "venue": "Lyceum ",
@@ -2932,6 +3203,8 @@
                 "screening": false,
                 "streamed": false,
                 "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2025-10-28",
                 "end": "",
                 "venue": "Alexandra Palace Theatre ",
@@ -2944,6 +3217,8 @@
                 "screening": false,
                 "streamed": false,
                 "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2025-10-29",
                 "end": "",
                 "venue": "Albert Halls",
@@ -2956,6 +3231,8 @@
                 "screening": false,
                 "streamed": false,
                 "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2025-10-31",
                 "end": "",
                 "venue": "Corn Exchange",
@@ -2963,7 +3240,20 @@
                 "country": "UK"
             }
         ],
-        "characters": [],
+        "characters": [
+            {
+                "name": "Graham",
+                "description": "Man driving to his childhood home on Halloween",
+                "aka": "",
+                "major": true
+            },
+            {
+                "name": "Roger",
+                "description": "Man who lives near Graham's childhood home",
+                "aka": "",
+                "major": false
+            }
+        ],
         "themes": [],
         "development": "Performed on 26 and 27 October 2022 at Shakespeare's Globe, London",
         "blurbs": [
@@ -3144,7 +3434,20 @@
         "blurb": "The audience becomes the script.",
         "poster": "https://placehold.co/400x600/161b22/a5d6ff?text=Collaborator",
         "dates": [],
-        "characters": [],
+        "characters": [
+            {
+                "name": "Keith",
+                "description": "",
+                "aka": "Audience member who argues with Daniel Kitson",
+                "major": true
+            },
+            {
+                "name": "Brian",
+                "description": "",
+                "aka": "Friend of an audience member",
+                "major": false
+            }
+        ],
         "themes": [],
         "blurbs": [
             {
@@ -3245,7 +3548,22 @@
                 "country": "UK"
             }
         ],
-        "characters": [],
+        "characters": [
+            {
+                "name": "Claire",
+                "description": "Woman who meets Mr. Pickles on a bus"
+            },
+            {
+                "name": "Meredith Winters",
+                "description": "Robert Pickles' late wife, who met him on a bench",
+                "aka": "Winnie "
+            },
+            {
+                "name": "Robert Pickles",
+                "description": "",
+                "aka": " Bob, Mr. Pickles, Pickle"
+            }
+        ],
         "themes": [],
         "development": "19 Jan 2024, DK Newsletter \n“I am talking to the Exchange about hopefully doing something else there at some point in the next 18 months or so because It’s the absolute best place.”\n\n27 Jul 2024, BBC London Radio\nKitson is apparently about to start writing something that he'll premiere in Manchester in October.\n\n11 Sept 2024, DK Newsletter\n\"... i’m going to be sending another email in the next few days announcing the first run of a new show in Manchester for later this Autumn”\n\n11 Sept 2024, Royal Exchange website, \nBlurb, poster and dates announced. Tickets “Available from Fri 13 Sep”\n\n17,18,19 Previews\n21, 22, 23, 24, 25 (evenings), 26 (evening & matinee)\n\n14th Sept 2024\n26th October matinee unlisted\nRoyal Exchange announces that the whole run of 'A Midsummer Night's Dream' (Mon 9 Sep – Sat 12 Oct 2024) has now been cancelled citing “a number of issues with the production”\n\n16 Sept 2024\nRevealed that after a preview on Sept 6, theatre bosses called for section of MND which included a song referencing trans rights and the phrase “free Palestine”. Director Stef O’Driscoll disagreed.\nPith disappears entirely from the Royal Exchange website\n\n19 Sept 2024\nTwo WIP at Bill Murray announced for 21/22 September under the title Standing Start.\n“Daniel has to have a new show ready in less than four weeks. In spite of sitting at his desk a bit, he hasn't really got started yet so the idea of these shows is that they will hopefully be so bad he'll be terrified into some clarity of thought in terms of the writing process, moving forward. Yum yum.”\n\n25 Sept 2024\nPITH goes on sale again. Including the matinee on the 26th October\n",
         "blurbs": [
