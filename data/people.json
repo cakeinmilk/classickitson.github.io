@@ -356,5 +356,13 @@
         "id": "brian_logan",
         "name": "Brian Logan",
         "role": ""
+    },
+    {
+        "id": "sam_taplin",
+        "name": "Sam Taplin",
+        "role": "",
+        "links": {
+            "website": "https://samtaplin.bandcamp.com/album/farewell-to-the-doomed-romantics"
+        }
     }
 ]

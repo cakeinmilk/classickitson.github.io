@@ -116,9 +116,8 @@
                 "country": "UK"
             }
         ],
-        "characters": [],
         "themes": [],
-        "development": "Won Perrier Comedy Award\n\nPerformed in 2003: re-staged\n\nWon the Perrier Comedy Award in 2002.",
+        "development": "2002\tEdinburgh Festival Fringe\n2003\tUK Tour “Over-rated and on Tour”\n2003\tMelbourne International Comedy Festival",
         "blurbs": [
             {
                 "text": "Everyone said he was good last year. You should come if you like self-indulgent whismey on the verge of critical backlash. ‘His developing reputation is akin to the buzz around Oasis playing Glastonbury in 1994.’ *Times.*",
@@ -134,59 +133,6 @@
         ]
     },
     {
-        "id": "over-rated-and-on-tour",
-        "title": "Over-rated and on Tour",
-        "year": 2003,
-        "type": "standup",
-        "collaborators": [],
-        "synopsis": "A standup show originally from 2003.",
-        "blurb": "Over-rated and on Tour",
-        "poster": "https://placehold.co/400x600/161b22/ff7b72?text=Over-rated%20and%20on%20Tour",
-        "dates": [
-            {
-                "start": "2003-02-01",
-                "end": "",
-                "venue": "St. Ann's Warehouse",
-                "city": "New York",
-                "country": "USA"
-            },
-            {
-                "start": "2003-08-08",
-                "end": "",
-                "venue": "The Stand",
-                "city": "Edinburgh",
-                "country": "UK"
-            },
-            {
-                "start": "2003-08-14",
-                "end": "",
-                "venue": "St. Ann's Warehouse",
-                "city": "New York",
-                "country": "USA"
-            },
-            {
-                "start": "2003-11-06",
-                "end": "",
-                "venue": "St. Ann's Warehouse",
-                "city": "New York",
-                "country": "USA"
-            },
-            {
-                "start": "2003-12-10",
-                "end": "",
-                "venue": "Traverse Theatre",
-                "city": "Edinburgh",
-                "country": "UK"
-            }
-        ],
-        "reviews": [],
-        "characters": [],
-        "themes": [],
-        "development": "",
-        "release": null,
-        "restagings": []
-    },
-    {
         "id": "a-made-up-story",
         "title": "A Made Up Story",
         "year": 2003,
@@ -196,9 +142,8 @@
         "blurb": "A dreamy, indie fairytale with video accompaniment.",
         "poster": "https://placehold.co/400x600/161b22/ff7b72?text=A%20Made%20Up%20Story",
         "dates": [],
-        "characters": [],
         "themes": [],
-        "development": "Kitson's first 'story show', performed at the 2003 Edinburgh Festival Fringe.",
+        "development": "Daniel Kitson’s first theatre show. He did several radio and text interviews to promote it, in which he explained that he’d created it in an effort to ward off the people who’d joined his fanbase as a result of his recurring role on the TV show *Phoenix Nights* - and, to a lesser extent, those who’d started following him because he’d won the Perrier Award the year before. He believed the type of people who liked *Phoenix Nights* would not like a sensitive theatre piece, and the people who liked him because he’d won a comedy award would expect more of the same type of comedy the next year, and he wanted to put both those groups off.\n\nAugust 2003 - full run at the Edinburgh Fringe Festival\nNovember 2003 - run at the Soho Theatre, London",
         "blurbs": [
             {
                 "text": "A one-man thing, not really stand-up, some film, in the round. It could make your heart explode and leave you breathless with emotion. Or it could be really very bad. ",
@@ -240,6 +185,11 @@
             {
                 "wip": false,
                 "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2004-04-03",
                 "end": "",
                 "venue": "Traverse Theatre",
@@ -249,6 +199,11 @@
             {
                 "wip": false,
                 "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2004-06-14",
                 "end": "",
                 "venue": "Melbourne Town Hall",
@@ -258,6 +213,11 @@
             {
                 "wip": false,
                 "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2004-12-27",
                 "end": "",
                 "venue": "Battersea Arts Centre",
@@ -265,17 +225,24 @@
                 "country": "UK"
             }
         ],
-        "reviews": [],
-        "characters": [],
         "themes": [],
-        "development": "",
+        "development": "Explanation, within the show, for why he did this show in Edinburgh instead of the tour show that he’d done earlier in 2004: “I’ll be honest with you about the genesis of this show. What happened was, I was in Australia and I was a bit down for a variety of reasons. I was a little bit heartbroken, I was a little bit bored, I was a little bit homesick. I got a phone call from my agent. She phones me up and she goes, ‘What do you want to do in Edinburgh?’ Now you see, all of us, I think, for large portions of our life, have a peculiar feeling of hollowness, somewhere inside us. Not quite as far back as our backs, just behind our tummies. […] When Hannah phoned me up and said, ‘What do you want to do in Edinburgh?’, I was blaming comedy for this peculiar feeling of hollowness. Going, ‘Oh, I’ve just done too much comedy, I’m doing comedy all the time, I’m bored of comedy. I’ll just do less comedy. I’m doing gigs every night, my life feels empty because I’m doing so much comedy, I’ll do less comedy.’ Now remarkably, taking something out of a life that feels empty doesn’t make it feel more full. Retrospectively, I can see where I blundered. But at the time, I was flummoxed by how my clever plan was failing to take effect. So, she said ‘Hi, Daniel, what do you want to do in Edinburgh?’ And I’m like, ‘I don’t fucking care. Just put my name up somewhere, the cunts will come, won’t they? Fuck them, Hannah, fuck them all, every last fucking one of them.’ But since then, I’ve perked up.”\n\nAugust 29, 2004: released on Bandcamp\n\n\nBandcamp notes:\n“This is a recording from the last night of my edinburgh festival run in 2004. It was recorded at the stand.\n\nAnd much like the other stand recording available here - I wanted to charge 27p (a funny amount) but 40p is the minimum chargeable. Also the number of free downloads is limited so that Bandcamp can cover their own costs. So i've made it a no minimum \"pay what you can\" type thing.\n\nIf you can afford 40p pay that. If you can't - dont. If, however, the free downloads run out it will have to be 40p all round. But please dont pay any more than 40 p for this.\n\nTo be completely honest, i'd rather you just took this for free and bought The Ballad of Roger and Grace. But. Of course, its up to you.\n\nOh, and, this show is already available for free.on my website and in itunes as a podcast, unless that has stopped working.\n\nThat's all the information you need really.”",
         "blurbs": [
             {
                 "text": "A foolish man, a broken man, and a hero to few. daniel kitson returns to edinburgh determined to hide from audiences, critics and any sort of tangible success. work in progress. of sorts. let’s be all we can be.",
                 "year": 2004,
                 "month": ""
             }
-        ]
+        ],
+        "release": {
+            "digital": [
+                {
+                    "url": "https://danielkitson.bandcamp.com/album/dancing-2004",
+                    "date": "2004-08-29",
+                    "type": "audio"
+                }
+            ]
+        }
     },
     {
         "id": "daniel-kitson-1130-pm-at-the-stand",
@@ -287,13 +254,24 @@
         "blurb": "Daniel Kitson 11:30 pm at The Stand",
         "poster": "https://placehold.co/400x600/161b22/d29922?text=Daniel%20Kitson%2011%3A30%20pm%20at%20The%20Stand",
         "dates": [],
-        "characters": [],
         "themes": [],
         "blurbs": [
             {
                 "text": "Wooo-hoooo that’s right Edinburgh, it’s time once more to laugh through your hands and glance at your friends for approval whilst a man stands before you on a well lit plinth and says things. Boom!",
-                "year": 2005,
-                "month": ""
+                "year": "2005",
+                "month": "August"
+            }
+        ],
+        "development": "The author and musician Sam Taplin would later reference aspects of his childhood he shared with Kitson in his song Dan on the album Farewell to the doomed romantics, released in August 2013.[1]",
+        "footnotes": [
+            "https://samtaplin.bandcamp.com/album/farewell-to-the-doomed-romantics"
+        ],
+        "reviews": [
+            {
+                "outlet": "The Guardian",
+                "snippet": "He has a fragile ego, he admits, as several hundred people gaze at him in awe.",
+                "rating": "4",
+                "link": "https://www.theguardian.com/stage/2005/aug/13/comedy.edinburghfestival20051"
             }
         ]
     },
@@ -325,6 +303,8 @@
                 "screening": false,
                 "streamed": false,
                 "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2005-03-17",
                 "end": "",
                 "venue": "Regents Park Open Air Theatre",
@@ -337,6 +317,8 @@
                 "screening": false,
                 "streamed": false,
                 "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2005-03-20",
                 "end": "",
                 "venue": "St. Ann's Warehouse",
@@ -349,6 +331,8 @@
                 "screening": false,
                 "streamed": false,
                 "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2005-11-20",
                 "end": "",
                 "venue": "Battersea Arts Centre",
@@ -358,12 +342,18 @@
         ],
         "reviews": [
             {
-                "outlet": "The Scotsman",
-                "snippet": "Fringe First Winner.",
-                "rating": 5
+                "outlet": "The Guardian",
+                "snippet": "They're simple, limpid tales told with boundless empathy.",
+                "rating": "4",
+                "link": "https://www.theguardian.com/stage/2005/aug/13/comedy.edinburghfestival20051"
+            },
+            {
+                "outlet": "Chortle",
+                "snippet": "The tales are as winsome as they are whimsical. Some are a touch predictable in their outcome, and a couple outstay their welcome. ",
+                "rating": "",
+                "link": "https://www.chortle.co.uk/review/2005/01/01/34432/stories_for_the_wobbly-hearted_by_daniel_kitson"
             }
         ],
-        "characters": [],
         "themes": [],
         "development": "Won Scotsman Fringe First Award\n\nPerformed in 2006: re-staged\n\nPerformed at the Melbourne International Comedy Festival in 2005. Opened at the Traverse Theatre for the 2005 Edinburgh Festival Fringe and won a Scotsman Fringe First Award.",
         "blurbs": [
@@ -435,23 +425,22 @@
                 "country": "UK"
             },
             {
-                "wip": false,
+                "wip": true,
                 "recording": false,
                 "screening": false,
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
                 "wipNote": "",
-                "start": "2006-12-28",
-                "end": "",
+                "start": "2006-02-28",
+                "end": "2006-03-04",
                 "venue": "Battersea Arts Centre",
                 "city": "London",
                 "country": "UK"
             }
         ],
-        "characters": [],
         "themes": [],
-        "development": "Performed in 2006",
+        "development": "Late 2005 - worked out some material while compering at the Brixton Hobgoblin, which became the basis for Weltanschuung\n\nJanuary to March 2006 - performed it in UK theatres, including:\n- Brighton Komedia (January 5)\n- Gulbenkian Arts Centre, Kent (January 19)\n- Unity Theatre, Liverpool (January 24)\n- Birmingham Glee Club (February 1)\n- Town Hall in Loughborough, Leicestershire (February 16)\n- Lemon Tree in Aberdeen (February 17)\n- A run from February 28 to March 4 at the Battersea Arts Centre\n\nApril 2006 - Melbourne International Comedy Festival, followed by performing in Sydney and Brisbane in April/May\n\nMay 28, 2006 - headlined the Brixton Hobgoblin (compered by Ivor Dembina), tried to perform Weltanschuung to refresh the material before Regent’s Park, but got a drunk and rowdy crowd that heckled him into only getting to do tiny bits of the material and mostly just fought with the audience for 90 minutes before giving up\n\nJune 11, 2006 - made up the first half of the performance in Regent’s Park Open Air Theatre, with Gavin Osborn\n\nOctober 7-29, 2005 - run at The Hen and Chickens Theatre\n\nOctober 14, 2012 - released on Bandcamp https://danielkitson.bandcamp.com/album/weltanschauung-2006\n\nNotes on the Bandcamp release:\n[This version of Weltanschauung] was recorded in Sydney at a Retired Servicemens League Club in Newtown in 2006. The venue is no longer a venue and the show is full of things im slightly ashamed of now - outdated references to myspace, a bit that has the exact rhythm and delivery of a Bill Hicks bit. Factual Inaccuracies all over the shop, a misquoted film, the simplification of a friends work, an embarrasingly pubescent call to arms and the misnaming of Geoffrey Chaucer as \"Henry\".\n\nHaving said all that, even though it's scattered with things i no longer think or believe, it's got stuff in it that i still really like and am pretty proud of. It was the first show where i realised i could work things out onstage, that i could disagree with myself and that i didn't need to know what i thought in order to talk about things. I could talk about not knowing what i thought. I could use the contradictions. It was my most polemic and opinionated piece of work up until that point and felt, to me at least, like an exciting development.\n\nRealistically though, I think it's probably just a mildly interesting period piece for the eager completist.",
         "blurbs": [],
         "relatedShows": [
             "stories-for-the-wobbly-hearted"
@@ -783,6 +772,8 @@
                 "screening": false,
                 "streamed": false,
                 "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2009-04-19",
                 "end": "",
                 "venue": "Regents Park Open Air Theatre",
@@ -795,6 +786,8 @@
                 "screening": false,
                 "streamed": false,
                 "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2009-07-17",
                 "end": "",
                 "venue": "St. Ann's Warehouse",
@@ -807,6 +800,8 @@
                 "screening": false,
                 "streamed": false,
                 "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2009-12-26",
                 "end": "",
                 "venue": "Melbourne Town Hall",
@@ -814,16 +809,18 @@
                 "country": "Australia"
             },
             {
-                "start": "2017-04-02",
-                "end": "2017-04-23",
-                "venue": "Playhouse",
-                "city": "Melbourne",
-                "country": "Australia",
                 "wip": false,
                 "recording": false,
                 "screening": false,
                 "streamed": false,
-                "preview": false
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2017-04-02",
+                "end": "2017-04-23",
+                "venue": "Playhouse",
+                "city": "Melbourne",
+                "country": "Australia"
             },
             {
                 "wip": false,
@@ -831,6 +828,8 @@
                 "screening": false,
                 "streamed": false,
                 "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2025-12-18",
                 "end": "2025-12-19",
                 "venue": "Stanley Hall",
@@ -838,7 +837,6 @@
                 "country": "UK"
             }
         ],
-        "characters": [],
         "themes": [],
         "development": "Three interlinked stories with music by Gavin Osborn\n\nPerformed in 2010: With Gavin Osborn\n\nPerformed in 2015: With Gavin Osborn\n\nPerformed in 2017: re-staged",
         "blurbs": [
@@ -856,6 +854,11 @@
                 "text": "Stories for the Starlit Sky – A Tour of a Trilogy.\n \nDaniel Kitson and Gavin Osborn.\n \nDaniel Kitson (Me) and Gavin Osborn (Gavin) return to the wide open road for the first time in ages. Ages. So long. Years. Oh god. Nothing stays the same does it? Dust on the wind. That’s all we are.\n \nAnyway – here we are. The D Machine (Me) and G Unit (Gavin), back on tour. Doing it right.\n \nIn 2009 (Seriously, isn’t the passage of time horrifying?) we wrote a trilogy of story (Me) and song (Gavin) ultra combo mega shows called “Stories for the Starlit Sky” and comprising three interlinked stories about love (obviously), staying up all night (naturally) and a village populated by retired assasins (yeah, that makes sense).\n \nWe performed them in Regents Park Open Air Theatre on three separate summer nights, one in June, one in July, one in August and all of them at midnight. There were indeed stars in the sky. Some people brought flasks.\n \nA couple of years later, we whacked them out over consecutive nights at the Latitude festival from the middle of a lake in a slightly futile battle against the ambient bass of various DJ sets and whooping, intoxicated infants.\n \nWe also did them once to raise money for Forest Fringe and so I could impress a woman who went home after the first story.\n \nMost recently in July of this year (2015, obviously guys) Regents Park Open Air Theatre had a spare night after a late drop out - I rewrote the stories a bit (one of them really quite a lot) Gavin practiced his songs and we performed all three of the shows in one night. One after the other.\n \nIt was great.\n \nSo, that’s what this (indoor) tour will be, the whole blinking trilogy on one night complete with two intervals.\n \nBoom. Break. Boom. Break. Wallop. Hometime.",
                 "month": "",
                 "year": "2015"
+            },
+            {
+                "text": "3 Stories and 14 Songs\nabout\nThe and Undimmed Glory\nof\nStaying Up All Night",
+                "month": "",
+                "year": "2026"
             }
         ],
         "restagings": [
@@ -871,7 +874,315 @@
         "posterCredit": {
             "name": "Matt Canning",
             "link": "https://www.instagram.com/mattrcanning/"
-        }
+        },
+        "release": {
+            "physical": {
+                "available": true
+            },
+            "digital": []
+        },
+        "characters": [
+            {
+                "isHeading": true,
+                "name": "The Tale of Upper Thwackley"
+            },
+            {
+                "isHeading": true,
+                "name": "The Little Red Car"
+            },
+            {
+                "name": "Harry Inglewood",
+                "description": "Man who drives after Emily all night, friend of Lucy, Eric's roommate",
+                "aka": "",
+                "major": true
+            },
+            {
+                "name": "Emily Inglewood, née West",
+                "description": "Woman who drives all night with Harry following her, eventually marries Harry, Clifford's sister",
+                "aka": "",
+                "major": true
+            },
+            {
+                "name": "Barry Bruce",
+                "description": "An ulikeable car salesman",
+                "aka": "",
+                "major": false
+            },
+            {
+                "isHeading": true,
+                "name": "The Room of Love"
+            },
+            {
+                "name": "Genevieve West",
+                "description": "A woman who works in admin",
+                "aka": "Jenny, Jennifer",
+                "major": true
+            },
+            {
+                "name": "Eric Clayton",
+                "description": "A man who works in admin",
+                "aka": "",
+                "major": true
+            }
+        ],
+        "tracklist": [
+            {
+                "artist": "Daniel Kitson",
+                "song": "The Tale of Upper Thwackley - Part One",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Gavin Osborn",
+                "song": "Albert Went Out To See Rock Bands",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Daniel Kitson",
+                "song": "The Tale of Upper Thwackley - Part Two",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Gavin Osborn",
+                "song": "Just Two Kids",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Daniel Kitson",
+                "song": "The Tale of Upper Thwackley - Part Three",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Gavin Osborn",
+                "song": "The Sleeping World Below",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Daniel Kitson",
+                "song": "The Tale of Upper Thwackley - Part Four",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Gavin Osborn",
+                "song": "Such Unsociable Hours",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Daniel Kitson",
+                "song": "The Tale of Upper Thwackley - Part Five",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Gavin Osborn",
+                "song": "Eddie & Ron (Protect & Serve)",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Daniel Kitson",
+                "song": "The Tale of Upper Thwackley - Epilogue",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Daniel Kitson",
+                "song": "The Little Red Car - Part One",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Gavin Osborn",
+                "song": "The Note",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Daniel Kitson",
+                "song": "The Little Red Car - Part Two",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Gavin Osborn",
+                "song": "The Great Escape",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Daniel Kitson",
+                "song": "The Little Red Car - Part Three",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Gavin Osborn",
+                "song": "Holding It Together",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Daniel Kitson",
+                "song": "The Little Red Car - Part Four",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Gavin Osborn",
+                "song": "When The Inglewoods Went Camping",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Daniel Kitson",
+                "song": "The Little Red Car - Part Five",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Gavin Osborn",
+                "song": "Anniversary",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Daniel Kitson",
+                "song": "The Little Red Car - Epilogue",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Daniel Kitson",
+                "song": "The Room of Love - Part One",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Gavin Osborn",
+                "song": "Dear Stranger",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Daniel Kitson",
+                "song": "The Room of Love - Part Two",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Gavin Osborn",
+                "song": "It Took Me Ages",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Daniel Kitson",
+                "song": "The Room of Love - Part Three",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Gavin Osborn",
+                "song": "Migration",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Daniel Kitson",
+                "song": "The Room of Love - Part Four",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Gavin Osborn",
+                "song": "Hardy Perennial",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Daniel Kitson",
+                "song": "The Room of Love - Part Five",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            },
+            {
+                "artist": "Daniel Kitson, Gavin Osborn",
+                "song": "Epilogue for Everything",
+                "link": "",
+                "partial": false,
+                "spoken": false,
+                "unannounced": false
+            }
+        ]
     },
     {
         "id": "the-interminable-suicide-of-gregory-church",
@@ -1429,116 +1740,23 @@
         "blurbs": []
     },
     {
-        "id": "fuckstorm3000",
-        "title": "Fuckstorm3000",
-        "year": 2012,
-        "type": "standup",
-        "collaborators": [
-            "gavin_osborn",
-            "alun_cochrane"
-        ],
-        "synopsis": "A standup show originally from 2012.",
-        "blurb": "A classic performance.",
-        "poster": "https://placehold.co/400x600/161b22/d29922?text=Fuckstorm3000",
-        "dates": [
-            {
-                "wip": false,
-                "recording": false,
-                "screening": false,
-                "streamed": false,
-                "preview": false,
-                "rescheduled": false,
-                "wipNote": "",
-                "start": "2012-02-06",
-                "end": "",
-                "venue": "Melbourne Town Hall",
-                "city": "Melbourne",
-                "country": "Australia"
-            },
-            {
-                "wip": false,
-                "recording": false,
-                "screening": false,
-                "streamed": false,
-                "preview": false,
-                "rescheduled": false,
-                "wipNote": "",
-                "start": "2012-02-07",
-                "end": "",
-                "venue": "Regents Park Open Air Theatre",
-                "city": "London",
-                "country": "UK"
-            },
-            {
-                "wip": false,
-                "recording": false,
-                "screening": false,
-                "streamed": false,
-                "preview": false,
-                "rescheduled": false,
-                "wipNote": "",
-                "start": "2012-03-16",
-                "end": "",
-                "venue": "Regents Park Open Air Theatre",
-                "city": "London",
-                "country": "UK"
-            },
-            {
-                "wip": false,
-                "recording": false,
-                "screening": false,
-                "streamed": false,
-                "preview": false,
-                "rescheduled": false,
-                "wipNote": "",
-                "start": "2012-10-24",
-                "end": "",
-                "venue": "Regents Park Open Air Theatre",
-                "city": "London",
-                "country": "UK"
-            },
-            {
-                "wip": false,
-                "recording": false,
-                "screening": false,
-                "streamed": false,
-                "preview": false,
-                "rescheduled": false,
-                "wipNote": "",
-                "start": "2012-10-25",
-                "end": "",
-                "venue": "Traverse Theatre",
-                "city": "Edinburgh",
-                "country": "UK"
-            }
-        ],
-        "characters": [],
-        "themes": [],
-        "development": "With Andy Zaltzman, Alun Cochrane, and Gavin Osborn",
-        "blurbs": []
-    },
-    {
         "id": "after-the-beginning-before-the-end",
         "title": "After the Beginning. Before the End",
         "year": 2013,
         "type": "standup",
         "collaborators": [],
-        "synopsis": [
-            {
-                "text": "A reflection on reality, memory, and sense of self, delivered with Kitson's characteristic blend of profound nuggets and humor.",
-                "source": "The Skinny"
-            },
-            {
-                "text": "Critics highlighted his ability to be a 'supremely charismatic host' and a 'master craftsman of elaborate sentences'.",
-                "source": "Independent"
-            }
-        ],
+        "synopsis": "It arrived. The Idea. Just like that. Like a child, late home from school, oblivious to theworry and the panic and the phone calls. It just walked in and sat down like it wasnt even a big deal…Two hours ago I didnt have the idea. Now I do. And its going to be good.",
         "blurb": "A reflection on reality, memory, and the self.",
         "poster": "https://placehold.co/400x600/161b22/58a6ff?text=After%20the%20Beginning.%20Before%20the%20End",
         "dates": [
             {
                 "wip": false,
                 "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2013-01-09",
                 "end": "",
                 "venue": "Battersea Arts Centre",
@@ -1548,6 +1766,11 @@
             {
                 "wip": false,
                 "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2013-05-03",
                 "end": "",
                 "venue": "The Stand",
@@ -1555,8 +1778,27 @@
                 "country": "UK"
             },
             {
+                "start": "2013-06-18",
+                "end": "",
+                "venue": "Phoenix",
+                "city": "Exeter",
+                "country": "UK",
                 "wip": false,
                 "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": ""
+            },
+            {
+                "wip": false,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2013-08-20",
                 "end": "",
                 "venue": "Traverse Theatre",
@@ -1566,6 +1808,11 @@
             {
                 "wip": false,
                 "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2013-08-24",
                 "end": "",
                 "venue": "Traverse Theatre",
@@ -1575,6 +1822,11 @@
             {
                 "wip": false,
                 "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2013-12-06",
                 "end": "",
                 "venue": "Regents Park Open Air Theatre",
@@ -1582,14 +1834,6 @@
                 "country": "UK"
             }
         ],
-        "reviews": [
-            {
-                "outlet": "The Independent",
-                "snippet": "Master craftsman of elaborate sentences.",
-                "rating": 5
-            }
-        ],
-        "characters": [],
         "themes": [],
         "development": "Performed in 2013: re-staged\n\nUK tour and a few European dates in 2013.",
         "blurbs": [
@@ -1597,8 +1841,14 @@
                 "text": "This is a very specific point in time.\n\nI’ve been waiting to have the idea for this show for weeks, for months. A space held open in my head waiting for the idea. For months. I’ve done previews and I’ve booked the tour and I’ve stared at the internet and I’ve made chicken and I’ve tried not to worry. But the idea has not come and I have worried. I’ve worried and doubted and waited more and more and more. But then today, having dropped my dad off at the train station and met my friends for some coffee,\n\nWhilst driving home to write this (very overdue) brochure copy - dreading the thought of heaving half lies and optimistic promises into something vaguely intriguing but not developmentally restrictive - half way home, it happened. Somewhere between East London and South London - It arrived. The Idea. Just like that. Like a child, late home from school, oblivious to the worry and the panic and the phone calls. It just walked in and sat down like it wasn’t even a big deal.\n\nSo now I’m typing this in my bedroom because the boy who lives next door is playing the James Bond theme on what I assume to be a trumpet.\n\nAnd you have to trust me.\n\nTwo hours ago I didn’t have the idea. Now I do. And it’s going to be good.",
                 "year": "2013",
                 "month": "February"
+            },
+            {
+                "text": "It arrived. The Idea. Just like that. Like a child, late home from school, oblivious to the worry and the panic and the phone calls. It just walked in and sat down like it wasn't even a big deal…\n\nTwo hours ago I didn't have the idea. Now I do. And it's going to be good.",
+                "month": "",
+                "year": 2013
             }
-        ]
+        ],
+        "oldId": "after-the-beginning-before-the-end"
     },
     {
         "id": "tree",
@@ -1782,13 +2032,121 @@
         "synopsis": "A story show originally from 2014.",
         "blurb": "A classic performance.",
         "poster": "https://placehold.co/400x600/161b22/a5d6ff?text=A%20Show%20for%20Christmas",
-        "dates": [],
-        "characters": [],
+        "dates": [
+            {
+                "wip": false,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2014-12-01",
+                "end": "2014-12-06",
+                "venue": "Battersea Arts Centre",
+                "city": "London",
+                "country": "UK"
+            },
+            {
+                "wip": false,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": true,
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2015-12-01",
+                "end": "2015-12-08",
+                "venue": "Connelly Theater",
+                "city": "New York",
+                "country": "USA"
+            },
+            {
+                "wip": false,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2015-12-09",
+                "end": "2015-12-18",
+                "venue": "Connelly Theater",
+                "city": "New York",
+                "country": "USA"
+            },
+            {
+                "wip": false,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2017-12-11",
+                "end": "",
+                "venue": "Phoenix",
+                "city": "Exeter",
+                "country": "UK"
+            }
+        ],
         "themes": [],
-        "development": "Performed in 2015: re-staged",
-        "blurbs": [],
+        "blurbs": [
+            {
+                "text": "It's 4.52pm on Wednesday the twenty fourth of December when Pollyanna Plunket, briefly distracted by opening a bag of toffees, glances away from the road for no more than a second only to find, upon looking back that an old man from nowhere made his way to the middle of the street. She hits the horn, the man turns, she stamps hard on the brakes and whilst the vehicle, a mid sized motorhome, does slow down, it does not stop. Skidding on, over glistening black tarmac, careering into the old man making no visible attempt to move – rooted to the spot, bent over under the weight of a battered red bag – the inevitable impact flips him up over the bonnet and into the windscreen, his eyes oddly calm as they meet hers for a moment before he slumps down the glass, rolling back off the bonnet and out of sight.\n\nA story about possibility and magic and grief and hope and tradition and toffees.\n\nWhich is to say, Christmas. Basically. \n\nIn 2014 Daniel Kitson was asked by Shelley Hastings at the Battersea Arts Centre if he wanted to write a Christmas show and, much to his surprise, he did.  This is that show. It was performed that Christmas for five nights, in the Grand Hall at BAC and for fourteen nights the following Christmas at the Connelly Theatre in New York.\n\nThis year, throughout December he's taking it on tour to a handful of venues around the UK, including here.\n\nObviously.",
+                "year": "2017",
+                "month": "December"
+            },
+            {
+                "text": "Last year, I wrote and performed a Christmas Show called – quite brilliantly – A Show For Christmas. I didn’t know what it was going to be when I agreed to do it but I ended up really liking how it turned out and having only booked a five night run at the Battersea Arts Centre in the now defunct Grand Hall , I was always keen to do it again this year and... \n\nSo, as you may have guessed by now, I am bringing it to New York this Christmas and specifically to the Connelly Theatre in the East Village.\n \nThe show itself is a simple storytelling affair that is, if you’ll forgive me for saying so, pretty enchanting and deals, amongst other things, with the traditional seasonal concerns of loneliness, a brief scuffle in a newsagents, mobile phones, magic, the past and a long journey in a mid sized motorhome*.\n \nI mean. It's long been my vibe to charmingly undersell things, as you doubtless know, but I reread it last week to see if I needed to change anything and I actually REALLY enjoyed it.\n \nI think it's really good.\n \nSo. There you go.\n\n-----Daniel Kitson",
+                "month": "December",
+                "year": "2015"
+            }
+        ],
         "relatedShows": [
             "maybe-a-ghost-story"
+        ],
+        "cast": [
+            {
+                "name": "Isy Suttie",
+                "role": "Pollyanna Plunkett (pre-recorded audio)"
+            }
+        ],
+        "release": {
+            "physical": {
+                "available": true
+            },
+            "digital": []
+        },
+        "restagings": [
+            {
+                "year": "2015",
+                "notes": "New York"
+            }
+        ],
+        "reviews": [
+            {
+                "outlet": "Exeunt Magazine",
+                "snippet": "...it’s like a jigsaw, and it’s only at the end you can appreciate just how brilliantly designed that jigsaw is.",
+                "rating": "",
+                "link": "https://exeuntmagazine.com/reviews/a-show-for-christmas/"
+            },
+            {
+                "outlet": "The Guardian",
+                "snippet": "Daniel Kitson’s characteristically simple show offered up one glittering bauble after another of dialogue, character observation and turn of phrase",
+                "rating": "4",
+                "link": "https://www.theguardian.com/stage/2014/dec/07/a-show-for-christmas-review-daniel-kitson"
+            },
+            {
+                "outlet": "Beyond the Joke",
+                "snippet": "In anybody else’s hands this could easily turn into a Planes, Trains and Automobiles epic, but, of course, Kitson has a lot more finesse than that.",
+                "rating": "",
+                "link": "https://beyondthejoke.co.uk/content/1281/review-show-christmas-daniel-kitson"
+            }
+        ],
+        "development": "in late spring of 2014, Shelley from Battersea Arts Centre asked if I wanted to make a Christmas Show and I found myself thinking: - Yes, oddly, I really do.\n\nSo i did. \n\nI wrote a story about possibility and magic and grief and hope and tradition and toffees. Which is to say, Christmas. Basically.  I performed the show in the Grand Hall of Battersea Arts Centre for five nights in December of 2014. Then at the Connelly Theater in the East Village of New York City for two weeks in December of 2015. Then on a UK tour in December of 2017 - it’s the only old show of mine, that i like returning to and, to be honest I sometimes daydream about turning it into a film or something like that. \n\nAnyway\n\nIt also features Isy Suttie being absolutely brilliant and i couldn’t really have made this show or continued to like it as much as i do without her living round the corner and being brilliant. [1]",
+        "footnotes": [
+            "https://www.danielkitson.com/a-show-for-christmas"
         ]
     },
     {
@@ -2082,7 +2440,6 @@
                 "country": "UK"
             }
         ],
-        "characters": [],
         "themes": [],
         "blurbs": [
             {
@@ -2095,7 +2452,11 @@
                 "available": true,
                 "onAAOF": false
             }
-        }
+        },
+        "footnotes": [
+            "https://www.danielkitson.com/gluescripts"
+        ],
+        "development": "Scripts for the earliest performances included experimental elements such as dialogue with an off-stage, pre-recorded voice. These concepts ultimately didn't work out as planned, and Kitson cut them from the show after just two runs. These scripts are available on An Accumulation of Failure.[1]"
     },
     {
         "id": "outside-again",
@@ -2432,7 +2793,7 @@
                 "year": "2021"
             }
         ],
-        "development": "\"The plan now is to do these two weeks worth of shows, to both work on the story itself and experiment a bit with the telling of it – to see whether it can function entirely as a piece of audio stuff. So, it’s fundamentally the same story as two years ago told in a new way which means I’ve called it – quite brilliantly – Shenaniganagain.\"\n\n\"I’ve been working on it on and off for a couple of years and whilst I think its top notch, it’s actually something I slightly struggle to describe. I did work in progress shows of it two years ago (a few nights at the Trades Club in Hebden Bridge and a few weeks at The Roundabout in Edinburgh) and over the course of those, it developed into a really really good story about two people with a satisfying mystery at the middle of it and I really liked it. I had plans to turn it into some vaguely experimental play, but then the kerfuffle happened and that plan fell away. Then, in June of this year, i did two weeks of work in progress on the show as an Audio Only Online Storytelling Experiment™ during which time, I tweaked it and changed it, I realised it was a story about telling stories and I was frankly, delighted by how well it worked as an audio thing. So now I’m going to work on finishing it over the rest of August and most of September, then I’ll record it three times, once for the LPs, once for the CDs, and once for the Casette Tapes. The finished version will never be performed live and there are no plans to make it available as a download which means this show will only exist on/in these objects.\"",
+        "development": "Daniel Kitson named the show \"Shenanigan\" simply because he overheard someone say the word in a cafe and liked the sound of it. Before the pandemic, he ran it as a work-in-progress storytelling piece at the Trades Club in Hebden Bridge and the Paines Plough Roundabout in Edinburgh. He was really happy with how it was shaping up - a solid mystery centered around two people - and was in talks with a few theatres about turning it into a full stage production.\n\nWhen the pandemic shut things down, those stage plans were immediately scrapped. Instead, Kitson spent a couple of weeks experimenting to see if the piece could work purely as an audio experience. Since it was the exact same core story just delivered in a new format, he gave it a new title: \"Shenaniganagain.\"\n\nDuring his online audio tests, he realized the piece was ultimately a story about telling stories, and he loved how well it translated to the new medium. His final plan was to finish the writing over the late summer and record it three separate times: once for LPs, once for CDs, and once for cassette tapes. Kitson explicitly stated that the finished version would never be performed live, nor would it be made available as a digital download",
         "restagings": [
             {
                 "year": "2021",
@@ -2506,9 +2867,8 @@
                 "country": "Australia"
             }
         ],
-        "characters": [],
         "themes": [],
-        "development": "Performed in 2019: re-staged\n\nPerformed in 2019: re-staged\n\nRun at Battersea Arts Centre. Premise: reading aloud a catalogued list of 20,000 objects in his home, with narrative and humour.",
+        "development": "Run at Battersea Arts Centre. Premise: reading aloud a catalogued list of 20,000 objects in his home, with narrative and humour.\n\nThe stand-up material from this originated in Good For Glue - Kitson's run of shows at the Edinburgh Fringe in 2018[1]",
         "blurbs": [
             {
                 "text": "A new show about how much past the present can usefully contain.\n\nAbout rigour and generosity. About postcards and hair pins and a certificate from Harry Ramsdens in Blackpool. About how long it takes to stop noticing where you are. About the compromise of a full life and the burden of a full heart and how it’s impossible to know where looking back will lead. About the task of being who we are without denying who we’ve been. About the importance of regret and the possibility of hope and the delusional idea of starting again. About all the books I’ve never read and all the jam I’ve ever eaten and the bags of torn tickets and the drawers of empty pens and the inevitable sadness of ever holding on to anything.\n\nAbout, in short, the stuff in my house and the thoughts in my head.",
@@ -2518,7 +2878,20 @@
         ],
         "relatedShows": [
             "good-for-glue"
-        ]
+        ],
+        "footnotes": [
+            "https://www.danielkitson.com/gluescripts"
+        ],
+        "music": {
+            "showHeaders": false,
+            "post": [
+                {
+                    "artist": "Deerful",
+                    "track": "Loop"
+                }
+            ],
+            "spotify": "https://open.spotify.com/track/0xMGKQxQFcBfapWlUNuJ6t?si=f4405b78b83141c9"
+        }
     },
     {
         "id": "dot-dot-dot",
@@ -3570,6 +3943,491 @@
             {
                 "text": "There *might* be music.\n\nThere might be music and the phrase “You will one day”, and a man in a coffee shop asking if they charge for Babycinos. There might be someone’s hand in mine when I wake up and the sound of somewhere else and a notebook full of crossed out names. There might be more trains than usual needing to be repaired at the same time. There might be cake and natural causes and a ladybird walking across the screen of a smartphone. There might be other ideas and a dog with a haircut and my reflection inside a fitting room. There might be gaps in the stories and stories in the gaps and work to be done. There might be a new thought and an old friend and someone else’s coat too close to my leg. There might be clues and there might be carpet and there might be a busker in Cardiff singing hallelujah.\n\nAnd,\n\nIt’s possible,\n\nThere *might* be jokes.\n\nDaniel Kitson is returning to the Manchester Royal Exchange for the first time since 2017 with a brand new show about having ideas, telling stories and starting again, again.",
                 "year": ""
+            }
+        ]
+    },
+    {
+        "id": "fuckstorm-3000",
+        "title": "Fuckstorm 3000",
+        "year": 2012,
+        "type": "standup",
+        "collaborators": [
+            "gavin_osborn",
+            "alun_cochrane"
+        ],
+        "synopsis": "A standup show originally from 2012.",
+        "blurb": "A classic performance.",
+        "poster": "https://placehold.co/400x600/161b22/d29922?text=Fuckstorm3000",
+        "dates": [
+            {
+                "wip": false,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2012-02-06",
+                "end": "",
+                "venue": "Melbourne Town Hall",
+                "city": "Melbourne",
+                "country": "Australia"
+            },
+            {
+                "wip": false,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2012-02-07",
+                "end": "",
+                "venue": "Regents Park Open Air Theatre",
+                "city": "London",
+                "country": "UK"
+            },
+            {
+                "wip": false,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2012-03-16",
+                "end": "",
+                "venue": "Regents Park Open Air Theatre",
+                "city": "London",
+                "country": "UK"
+            },
+            {
+                "wip": false,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2012-10-24",
+                "end": "",
+                "venue": "Regents Park Open Air Theatre",
+                "city": "London",
+                "country": "UK"
+            },
+            {
+                "wip": false,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2012-10-25",
+                "end": "",
+                "venue": "Traverse Theatre",
+                "city": "Edinburgh",
+                "country": "UK"
+            }
+        ],
+        "themes": [],
+        "development": "With Andy Zaltzman, Alun Cochrane, and Gavin Osborn",
+        "blurbs": [
+            {
+                "text": "A classic performance.",
+                "year": 2012,
+                "month": ""
+            }
+        ],
+        "oldId": "fuckstorm3000"
+    },
+    {
+        "id": "untitled-2026-standup",
+        "title": "Untitled 2026 Standup",
+        "year": 2026,
+        "type": "standup",
+        "collaborators": [],
+        "synopsis": "",
+        "blurbs": [
+            {
+                "text": "Daniel Kitson is working on a new show.\n\nHe’s hoping, as per usual, to make something funny, maybe a bit sad, intermittently thought provoking, slightly audacious and, if at all possible, largely unfathomable.\n\nHe started properly thinking about it in the middle of January and it needs to be properly finished by August. So. That should give you a sense of how far through the process these particular shows are likely to be in terms of the lump of stone to finished sculpture ratio.\n\nOn the upside, they’ve been priced accordingly and will last no more than 90 minutes.",
+                "month": "February",
+                "year": 2026
+            },
+            {
+                "text": "I’m going to start the year by waddling over the hill to Stanley Halls and doing a bunch of very (very) early stage work in progress towards something that feels like it might, potentially, become some sort of stand up comedy show, at some point, possibly.\n\nIt’ll just be me trying out things and blathering on, working out what I think, how much of what I think I want to say and how I want to say whatever amount of what I think, I decide I want to say. There’s also some lovely tiled walls to look at if you get bored.\nIt’ll cost five pounds and last somewhere between 60 and 90 minutes.",
+                "month": "November",
+                "year": "2025"
+            }
+        ],
+        "dates": [
+            {
+                "wip": true,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "Some sort of work in progress thing",
+                "start": "2026-01-04",
+                "end": "2026-01-29",
+                "venue": "Stanley Arts",
+                "city": "London",
+                "country": "UK"
+            },
+            {
+                "wip": true,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "Some sort of work in progress thing",
+                "start": "2026-02-18",
+                "end": "2026-02-22",
+                "venue": "Stanley Arts",
+                "city": "London",
+                "country": "UK"
+            },
+            {
+                "wip": true,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2026-03-08",
+                "end": "2026-03-09",
+                "venue": "Trades Club",
+                "city": "Hebden Bridge",
+                "country": "UK"
+            },
+            {
+                "wip": true,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "Some sort of work in progress thing",
+                "start": "2026-03-16",
+                "end": "2026-03-22",
+                "venue": "Stanley Arts",
+                "city": "London",
+                "country": "UK"
+            },
+            {
+                "wip": true,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "Melbourne International Comedy Festival",
+                "start": "2026-03-28",
+                "end": "2026-04-18",
+                "venue": "The Lawler, Southbank Theatre",
+                "city": "Melbourne",
+                "country": "Australia"
+            },
+            {
+                "wip": true,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2026-03-28",
+                "end": "2026-03-29",
+                "venue": "Brisbane Hotel",
+                "city": "Perth",
+                "country": "Australia"
+            },
+            {
+                "wip": true,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "Sydney Comedy Festival",
+                "start": "2026-04-21",
+                "end": "2026-04-24",
+                "venue": "Manning Bar",
+                "city": "Sydney",
+                "country": "Australia"
+            },
+            {
+                "wip": true,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "Brisbane Comedy Festival",
+                "start": "2026-05-05",
+                "end": "2026-05-06",
+                "venue": "Underground Theatre",
+                "city": "Brisbane",
+                "country": "Australia"
+            },
+            {
+                "wip": true,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2026-05-13",
+                "end": "2026-05-14",
+                "venue": "New Hexagon, Midlands Arts Centre",
+                "city": "Birmingham",
+                "country": "UK"
+            },
+            {
+                "wip": true,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2026-05-20",
+                "end": "2026-05-21",
+                "venue": "New Hexagon, Midlands Arts Centre",
+                "city": "Birmingham",
+                "country": "UK"
+            },
+            {
+                "wip": true,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "Stand-up at the Subway comedy festival",
+                "start": "2026-05-23",
+                "end": "2026-05-24",
+                "venue": "Crystal Palace Subway",
+                "city": "London",
+                "country": "UK"
+            },
+            {
+                "wip": true,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2026-05-25",
+                "end": "",
+                "venue": "The Assembly Rooms",
+                "city": "Faversham",
+                "country": "UK"
+            },
+            {
+                "wip": true,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2026-05-27",
+                "end": "2026-05-31",
+                "venue": "Spielman Theatre",
+                "city": "Bristol",
+                "country": "UK"
+            },
+            {
+                "wip": true,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "Exeter Comedy Festival",
+                "start": "2026-06-04",
+                "end": "2026-06-06",
+                "venue": "The Bootlegger",
+                "city": "Exeter",
+                "country": "UK"
+            },
+            {
+                "wip": true,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2026-06-10",
+                "end": "2026-06-11",
+                "venue": "Trades Club",
+                "city": "Hebden Bridge",
+                "country": "UK"
+            },
+            {
+                "wip": true,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2026-07-12",
+                "end": "2026-07-13",
+                "venue": "Trades Club",
+                "city": "Hebden Bridge",
+                "country": "UK"
+            },
+            {
+                "start": "2026-07-22",
+                "end": "2026-07-23",
+                "venue": "New Hexagon, Midlands Arts Centre",
+                "city": "Birmingham",
+                "country": "UK",
+                "wip": true,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": ""
+            },
+            {
+                "wip": true,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2026-07-27",
+                "end": "2026-07-29",
+                "venue": "The Old Market",
+                "city": "Hove",
+                "country": "UK"
+            }
+        ],
+        "poster": "https://placehold.co/400x600/161b22/a5d6ff?text=Untitled 2026 Standup"
+    },
+    {
+        "id": "belle-sebastian-tour-support",
+        "title": "Belle & Sebastian Tour Support",
+        "year": 2010,
+        "type": "story",
+        "collaborators": [
+            "gavin_osborn"
+        ],
+        "synopsis": "Not much about this story is known. In a review of the Bristol show, it was described as an \"enchantingly detailed tale of a schoolboy's love ... ending in a to-be-continued-style resolution.\"",
+        "development": "Following their performance at Latitude, Kitson announced in mid-November that he and Gavin Osborn had been tapped to support Belle and Sebastian on their UK tour. To kick off the nights, the pair wrote a special 35-minute opening set combining their signature mix of story and music.[1]",
+        "footnotes": [
+            "https://www.belleandsebastian.com/latest-news/daniel-kitson-gavin-osborn-to-support-us-in-england"
+        ],
+        "blurbs": [],
+        "dates": [
+            {
+                "start": "2010-12-05",
+                "end": "",
+                "venue": "Sage",
+                "city": "Gateshead",
+                "country": "UK",
+                "wip": false,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": ""
+            },
+            {
+                "start": "2010-12-06",
+                "end": "",
+                "venue": "Symphony Hall",
+                "city": "Birmingham",
+                "country": "UK",
+                "wip": false,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": ""
+            },
+            {
+                "start": "2010-12-07",
+                "end": "",
+                "venue": "Apollo",
+                "city": "Manchester",
+                "country": "UK",
+                "wip": false,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": ""
+            },
+            {
+                "start": "2010-12-09",
+                "end": "",
+                "venue": "O2 Academy",
+                "city": "Bournemouth",
+                "country": "UK",
+                "wip": false,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": ""
+            },
+            {
+                "start": "2010-12-10",
+                "end": "",
+                "venue": "Butlins",
+                "city": "Minehead",
+                "country": "UK",
+                "wip": false,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": ""
+            },
+            {
+                "start": "2010-12-14",
+                "end": "",
+                "venue": "De Montfort Hall",
+                "city": "Leicester",
+                "country": "UK",
+                "wip": false,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": ""
+            },
+            {
+                "start": "2010-12-16",
+                "end": "",
+                "venue": "Colston",
+                "city": "Bristol",
+                "country": "UK",
+                "wip": false,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": ""
             }
         ]
     }
