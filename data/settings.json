@@ -1,6 +1,6 @@
 {
     "news": {
-        "enabled": true,
+        "enabled": false,
         "text": "Updated the site, so if anything's broken or missing, please reach out. And if you can fill in any gaps, that'd be great!",
         "link": "",
         "color": "info",
