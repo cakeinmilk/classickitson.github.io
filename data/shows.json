@@ -552,7 +552,6 @@
         "blurb": "The Honourable Men of Art",
         "poster": "https://placehold.co/400x600/161b22/58a6ff?text=The%20Honourable%20Men%20of%20Art",
         "dates": [],
-        "characters": [],
         "themes": [],
         "development": "With Andy Zaltzman, Alun Cochrane, Demetri Martin and David O'Doherty\n\nPerformed in 2008: With Andy Zaltzman, Alun Cochrane and David O'Doherty",
         "blurbs": [
@@ -561,6 +560,11 @@
                 "year": "",
                 "month": ""
             }
+        ],
+        "relatedShows": [
+            "fuckstorm-3000",
+            "zock",
+            "fuckstorm-3001"
         ]
     },
     {
@@ -1734,10 +1738,20 @@
                 "country": "Australia"
             }
         ],
-        "characters": [],
         "themes": [],
         "development": "With Andy Zaltzman, John Oliver, and Alun Cochrane",
-        "blurbs": []
+        "blurbs": [
+            {
+                "text": "A classic performance.",
+                "year": 2012,
+                "month": ""
+            }
+        ],
+        "relatedShows": [
+            "the-honourable-men-of-art",
+            "fuckstorm-3000",
+            "fuckstorm-3001"
+        ]
     },
     {
         "id": "after-the-beginning-before-the-end",
@@ -2016,10 +2030,16 @@
         "blurb": "A classic performance.",
         "poster": "https://placehold.co/400x600/161b22/a5d6ff?text=Fuckstorm%203001",
         "dates": [],
-        "characters": [],
         "themes": [],
-        "development": "With Andy Zaltzman and Alun Cochrane",
-        "blurbs": []
+        "development": "One part of the show involved a scripted performance with three audience members, acting as an early prototype for the concept Kitson eventually realised in Polyphony, and plays with themes used later again in Collaborator.\n\nThe scene kicks off with a botched attempt at technical choreography as Daniel tries to get three audience members to play tape recorders in sync. Instead of a smooth performance, he’s met with a wall of resistance ranging from technical incompetence and general distraction to a full-blown strike. While one participant is just happy to be there for the naughty late-night vibe and another gets bored enough to start reading the programme mid-show, the most vocal dissenter, A, decides to take Daniel to task for being demeaning.\n\nAs the argument deepens, it turns into a sharp, self-aware deconstruction of Kitson’s brand and the subculture of the Edinburgh Fringe. Character A systematically shreds Kitson's image, pointing out that the midnight starts, tiny venues, and \"pretentiously low\" ticket prices aren't just artistic quirks but logistical hurdles that effectively weed out anyone with a normal job or a family. The debate touches on the \"wilful incompetence\" of his marketing and the hidden costs of attending a show that demands so much of its audience. By the end, Kitson is forced to drop the act and apologise.",
+        "blurbs": [],
+        "relatedShows": [
+            "zock",
+            "fuckstorm-3000",
+            "the-honourable-men-of-art",
+            "polyphony",
+            "collaborator"
+        ]
     },
     {
         "id": "a-show-for-christmas",
@@ -2173,7 +2193,6 @@
                 "rating": 4
             }
         ],
-        "characters": [],
         "themes": [],
         "development": "Performed in 2015",
         "blurbs": [
@@ -2194,7 +2213,8 @@
             }
         ],
         "relatedShows": [
-            "collaborator"
+            "collaborator",
+            "fuckstorm-3001"
         ],
         "notes": "test",
         "release": {
@@ -3835,7 +3855,8 @@
             }
         ],
         "relatedShows": [
-            "polyphony"
+            "polyphony",
+            "fuckstorm-3001"
         ],
         "music": {
             "showHeaders": true,
@@ -3953,9 +3974,10 @@
         "type": "standup",
         "collaborators": [
             "gavin_osborn",
-            "alun_cochrane"
+            "alun_cochrane",
+            "andy_zaltzman"
         ],
-        "synopsis": "A standup show originally from 2012.",
+        "synopsis": "",
         "blurb": "A classic performance.",
         "poster": "https://placehold.co/400x600/161b22/d29922?text=Fuckstorm3000",
         "dates": [
@@ -3967,79 +3989,30 @@
                 "preview": false,
                 "rescheduled": false,
                 "wipNote": "",
-                "start": "2012-02-06",
-                "end": "",
-                "venue": "Melbourne Town Hall",
-                "city": "Melbourne",
-                "country": "Australia"
-            },
-            {
-                "wip": false,
-                "recording": false,
-                "screening": false,
-                "streamed": false,
-                "preview": false,
-                "rescheduled": false,
-                "wipNote": "",
-                "start": "2012-02-07",
-                "end": "",
-                "venue": "Regents Park Open Air Theatre",
-                "city": "London",
-                "country": "UK"
-            },
-            {
-                "wip": false,
-                "recording": false,
-                "screening": false,
-                "streamed": false,
-                "preview": false,
-                "rescheduled": false,
-                "wipNote": "",
-                "start": "2012-03-16",
-                "end": "",
-                "venue": "Regents Park Open Air Theatre",
-                "city": "London",
-                "country": "UK"
-            },
-            {
-                "wip": false,
-                "recording": false,
-                "screening": false,
-                "streamed": false,
-                "preview": false,
-                "rescheduled": false,
-                "wipNote": "",
-                "start": "2012-10-24",
-                "end": "",
-                "venue": "Regents Park Open Air Theatre",
-                "city": "London",
-                "country": "UK"
-            },
-            {
-                "wip": false,
-                "recording": false,
-                "screening": false,
-                "streamed": false,
-                "preview": false,
-                "rescheduled": false,
-                "wipNote": "",
                 "start": "2012-10-25",
                 "end": "",
-                "venue": "Traverse Theatre",
-                "city": "Edinburgh",
+                "venue": "The Hob",
+                "city": "Forest Hill",
                 "country": "UK"
             }
         ],
         "themes": [],
-        "development": "With Andy Zaltzman, Alun Cochrane, and Gavin Osborn",
+        "development": "Andy Zalzman spoke to Vulture on how the show came about[1]\n\nWe first did it in 2006, the show called “Honourable Men of Art”, which was gonna be him with John and me and Alun, and a couple others – Demetri Martin did it then, and David O’Doherty. And then John got the Daily Show job, so he would be on a screen via the Internet a couple of times, when he was able to do it. I guess the idea was just to have a show where it was unprepared and spontaneous and just see what happened.\n\nIt’s just three guys messing around, really. Kitson is certainly the greatest comedian of my generation here, and so me and Alun just sort of chip in every now and again, but he’s a phenomenon, so it’s fun just to ride in his wake. And the nature of any show like that, it’s a bit up and down but it’s been good fun to do and people have mostly seemed to have enjoyed it. Although I did get a comment on Twitter saying that was the worst comedy show I have ever seen. But people see things in very different ways, that’s one of the joys of the art form.",
         "blurbs": [
             {
-                "text": "A classic performance.",
+                "text": "Founder members of seminal comedy bomb The Honourable Men of Art and alumni of one off mega hit, Zock! now bring you Fuckstorm 3000. Andy (politics and hair) Daniel (banter and blue) Alun (not a postman) and Gavin (ditties, giggling and eye for a pass) are about to hit you with a force ten fuck storm. Fuckstorm 3000 - It does exactly what it says on the tin*\n\n* -Only true if the tin has the words “four men dicking about for a bit, with an interval” written on it.",
                 "year": 2012,
                 "month": ""
             }
         ],
-        "oldId": "fuckstorm3000"
+        "footnotes": [
+            "https://www.vulture.com/2014/09/plumbing-politics-and-the-crazy-state-of-the-world-for-comedy-with-andy-zaltzman.html"
+        ],
+        "relatedShows": [
+            "zock",
+            "fuckstorm-3001",
+            "the-honourable-men-of-art"
+        ]
     },
     {
         "id": "untitled-2026-standup",
