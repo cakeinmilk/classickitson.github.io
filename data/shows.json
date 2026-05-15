@@ -2630,7 +2630,7 @@
             }
         ],
         "themes": [],
-        "development": "With Gavin Osborn",
+        "development": "Daniel reveals he's recently begun a pottery course and showcases a couple of examples of his work on stage.\n\nGavin plays a couple of songs from his 2022 album Scrolling Home alongside others, including a spoken word track to his past self, and John's Not Got a TV[1], which have not yet seen a commercial release.",
         "blurbs": [
             {
                 "text": "*There was a time when we came here every year, to sing songs amongst the trees, and tell tales beneath the stars to fill the sky with a bonfire built from laughter and love and joy and wonder.\n \nBut that was years ago now.\n \nBack when life was a gathering glory of boundless potential. Back when simplistic sadness felt profound and broken hearts were plot points and death was just a narrative device. Back when a night’s sleep could stretch out beyond noon and eating crispy shredded beef after midnight had minimal digestive repercussions the following day. Back before births and deaths and distance and doubt. Before beliefs buckled and hope came to feel facile and pyjamas started to almost always smell at least a little bit of piss.\n \nAnd yet.\n \nHere we are again.\n \nIn the middle of the night in the middle of the summer.\n \nUnder the sky.\n \nIn a park.\n \nRummaging in the rubble for something to burn, a forgotten fragment of anything flammable, searching for something to set alight and hold aloft and to fling it, together, once again, out and up into the deepening dark.*\n \nShow will include: Sad songs, funny stories, indefensible declarations, crosstalk, technical difficulties, sad stories, moths, funny songs, quite possibly a chant and at least two, standard lamps.",
@@ -2640,6 +2640,28 @@
         ],
         "music": {
             "showHeaders": false,
+            "pre": [
+                {
+                    "artist": "Gavin Osborn",
+                    "track": "I Guess I Drifted"
+                },
+                {
+                    "artist": "Gavin Osborn",
+                    "track": "John's Not Got a TV"
+                },
+                {
+                    "artist": "Gavin Osborn",
+                    "track": "Singing Songs to Strangers"
+                },
+                {
+                    "artist": "Gavin Osborn",
+                    "track": "Spoken word"
+                },
+                {
+                    "artist": "Gavin Osborn",
+                    "track": "Just A Little Space"
+                }
+            ],
             "spotify": "https://open.spotify.com/playlist/1I6CiC5lhP7Dt3GbXiJguq?si=7c231bdf4515406d"
         },
         "cast": [
@@ -2651,6 +2673,9 @@
                 "name": "Isy Suttie",
                 "role": "Lucy"
             }
+        ],
+        "footnotes": [
+            "A song about Gav's intimidation on learning the poet and author John Osborne does not own a television set."
         ]
     },
     {
@@ -4015,17 +4040,22 @@
         ]
     },
     {
-        "id": "untitled-2026-standup",
-        "title": "Untitled 2026 Standup",
+        "id": "thrum",
+        "title": "Thrum",
         "year": 2026,
         "type": "standup",
         "collaborators": [],
         "synopsis": "",
         "blurbs": [
             {
+                "text": "There’s the sound of somewhere else and the permanence of a plant pot and the ubiquity of a phrase and the heartbreaking brevity of a very long time. There’s figs and worms and an old dog rejecting a blanket. There’s a woman, on a train, wearing a badge. There’s the first beep of a smoke alarm and there’s a daffodil in December and there’s the condition of fruit. There’s a hand in bed and there’s stuff on the stairs and there’s a mark on my jumper and there’s a massive tree in storage on a farm in Kent. There’s nothing to say and there’s the thought of rotting and there’s the name of a feeling and there’s the smell of tobacco. There’s the twelfth floor of a hotel and the far end of a platform at Tamworth train station. There’s a duty to act and there’s a resistance to growth and there’s a new place up the road and there’s a completely redundant volume control. There’s a toilet in Hong Kong and a coffee shop in Melbourne and the passage of light through a building and deliberately making things much more difficult than they actually need to be.\n\n*And.*\n\nThere’s music, more or less throughout, at least two funny voices and upwards of three jokes.",
+                "month": "May",
+                "year": 2026
+            },
+            {
                 "text": "Daniel Kitson is working on a new show.\n\nHe’s hoping, as per usual, to make something funny, maybe a bit sad, intermittently thought provoking, slightly audacious and, if at all possible, largely unfathomable.\n\nHe started properly thinking about it in the middle of January and it needs to be properly finished by August. So. That should give you a sense of how far through the process these particular shows are likely to be in terms of the lump of stone to finished sculpture ratio.\n\nOn the upside, they’ve been priced accordingly and will last no more than 90 minutes.",
                 "month": "February",
-                "year": 2026
+                "year": "2026"
             },
             {
                 "text": "I’m going to start the year by waddling over the hill to Stanley Halls and doing a bunch of very (very) early stage work in progress towards something that feels like it might, potentially, become some sort of stand up comedy show, at some point, possibly.\n\nIt’ll just be me trying out things and blathering on, working out what I think, how much of what I think I want to say and how I want to say whatever amount of what I think, I decide I want to say. There’s also some lovely tiled walls to look at if you get bored.\nIt’ll cost five pounds and last somewhere between 60 and 90 minutes.",
@@ -4259,18 +4289,18 @@
                 "country": "UK"
             },
             {
-                "start": "2026-07-22",
-                "end": "2026-07-23",
-                "venue": "New Hexagon, Midlands Arts Centre",
-                "city": "Birmingham",
-                "country": "UK",
                 "wip": true,
                 "recording": false,
                 "screening": false,
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
-                "wipNote": ""
+                "wipNote": "",
+                "start": "2026-07-22",
+                "end": "2026-07-23",
+                "venue": "New Hexagon, Midlands Arts Centre",
+                "city": "Birmingham",
+                "country": "UK"
             },
             {
                 "wip": true,
@@ -4285,9 +4315,24 @@
                 "venue": "The Old Market",
                 "city": "Hove",
                 "country": "UK"
+            },
+            {
+                "wip": false,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2026-08-17",
+                "end": "2026-08-21",
+                "venue": "The Queen's Hall",
+                "city": "Edinburgh",
+                "country": "UK"
             }
         ],
-        "poster": "https://placehold.co/400x600/161b22/a5d6ff?text=Untitled 2026 Standup"
+        "poster": "https://placehold.co/400x600/161b22/a5d6ff?text=Untitled 2026 Standup",
+        "development": "Title, blurb and poster were announced on Kitson's site on the 13th May.\n\nThe blurb is very, *very* similar to Pith's blurb.\n\nBoth blurbs rely on anaphora, switching between \"There might be\" and \"There’s\". They share imagery of holding hands in bed, alongside an exact phrase match with \"the sound of somewhere else\" popping up in both. Both weave in observations about trains, and both end with a tentative promise of jokes.\n\nA short list of just five Edinburgh Fringe dates was announced 15th May. They would go on sale 18th May to be followed with \"a UK tour with something in the region of 35 dates throughout the autumn.\"\n"
     },
     {
         "id": "belle-sebastian-tour-support",
@@ -4298,109 +4343,109 @@
             "gavin_osborn"
         ],
         "synopsis": "Not much about this story is known. In a review of the Bristol show, it was described as an \"enchantingly detailed tale of a schoolboy's love ... ending in a to-be-continued-style resolution.\"",
-        "development": "Following their performance at Latitude, Kitson announced in mid-November that he and Gavin Osborn had been tapped to support Belle and Sebastian on their UK tour. To kick off the nights, the pair wrote a special 35-minute opening set combining their signature mix of story and music.[1]",
+        "development": "Following their performance at Latitude Festival in 2010, Kitson announced in mid-November that he and Gavin Osborn had been tapped to support Belle and Sebastian on their UK tour. To kick off the nights, the pair wrote a special 35-minute opening set combining their signature mix of story and music.[1]",
         "footnotes": [
             "https://www.belleandsebastian.com/latest-news/daniel-kitson-gavin-osborn-to-support-us-in-england"
         ],
         "blurbs": [],
         "dates": [
             {
+                "wip": false,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2010-12-05",
                 "end": "",
                 "venue": "Sage",
                 "city": "Gateshead",
-                "country": "UK",
+                "country": "UK"
+            },
+            {
                 "wip": false,
                 "recording": false,
                 "screening": false,
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
-                "wipNote": ""
-            },
-            {
+                "wipNote": "",
                 "start": "2010-12-06",
                 "end": "",
                 "venue": "Symphony Hall",
                 "city": "Birmingham",
-                "country": "UK",
+                "country": "UK"
+            },
+            {
                 "wip": false,
                 "recording": false,
                 "screening": false,
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
-                "wipNote": ""
-            },
-            {
+                "wipNote": "",
                 "start": "2010-12-07",
                 "end": "",
                 "venue": "Apollo",
                 "city": "Manchester",
-                "country": "UK",
+                "country": "UK"
+            },
+            {
                 "wip": false,
                 "recording": false,
                 "screening": false,
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
-                "wipNote": ""
-            },
-            {
+                "wipNote": "",
                 "start": "2010-12-09",
                 "end": "",
                 "venue": "O2 Academy",
                 "city": "Bournemouth",
-                "country": "UK",
+                "country": "UK"
+            },
+            {
                 "wip": false,
                 "recording": false,
                 "screening": false,
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
-                "wipNote": ""
-            },
-            {
+                "wipNote": "",
                 "start": "2010-12-10",
                 "end": "",
                 "venue": "Butlins",
                 "city": "Minehead",
-                "country": "UK",
+                "country": "UK"
+            },
+            {
                 "wip": false,
                 "recording": false,
                 "screening": false,
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
-                "wipNote": ""
-            },
-            {
+                "wipNote": "",
                 "start": "2010-12-14",
                 "end": "",
                 "venue": "De Montfort Hall",
                 "city": "Leicester",
-                "country": "UK",
+                "country": "UK"
+            },
+            {
                 "wip": false,
                 "recording": false,
                 "screening": false,
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
-                "wipNote": ""
-            },
-            {
+                "wipNote": "",
                 "start": "2010-12-16",
                 "end": "",
                 "venue": "Colston",
                 "city": "Bristol",
-                "country": "UK",
-                "wip": false,
-                "recording": false,
-                "screening": false,
-                "streamed": false,
-                "preview": false,
-                "rescheduled": false,
-                "wipNote": ""
+                "country": "UK"
             }
         ]
     }
