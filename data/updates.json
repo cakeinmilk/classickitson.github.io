@@ -1,5 +1,23 @@
 [
     {
+        "id": 1779997904654,
+        "date": "2026-05-28",
+        "text": "Updated show: Thrum",
+        "link": "/show/thrum"
+    },
+    {
+        "id": 1779997172633,
+        "date": "2026-05-28",
+        "text": "Updated show: Thrum",
+        "link": "/show/thrum"
+    },
+    {
+        "id": 1779835977006,
+        "date": "2026-05-26",
+        "text": "Updated show: Thrum",
+        "link": "/show/thrum"
+    },
+    {
         "id": 1779819420282,
         "date": "2026-05-26",
         "text": "Updated show: Stories for the Starlit Sky",
@@ -34,11 +52,5 @@
         "date": "2026-05-10",
         "text": "Updated show: Outside. Again.",
         "link": "/show/outside-again"
-    },
-    {
-        "id": 1775997154668,
-        "date": "2026-04-12",
-        "text": "Updated show: The Honourable Men of Art",
-        "link": "/show/the-honourable-men-of-art"
     }
 ]
