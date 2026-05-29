@@ -1,21 +1,21 @@
 [
     {
-        "id": 1779997904654,
-        "date": "2026-05-28",
-        "text": "Updated show: Thrum",
+        "id": 1780057156625,
+        "date": "2026-05-29",
+        "text": "Added print item: Desperate dan",
+        "link": "/print/desperate-dan"
+    },
+    {
+        "id": 1780054489924,
+        "date": "2026-05-29",
+        "text": "Updated show: Thrum -\nadded Autumn tour dates",
         "link": "/show/thrum"
     },
     {
-        "id": 1779997172633,
+        "id": 1780005651105,
         "date": "2026-05-28",
-        "text": "Updated show: Thrum",
-        "link": "/show/thrum"
-    },
-    {
-        "id": 1779835977006,
-        "date": "2026-05-26",
-        "text": "Updated show: Thrum",
-        "link": "/show/thrum"
+        "text": "Added print item: Reading The Room: The Inside Story of UK Stand-Up in the 21st Century",
+        "link": "/print/reading-the-room-the-inside-story-of-uk-stand-up-in-the-21st-century"
     },
     {
         "id": 1779819420282,
@@ -46,11 +46,5 @@
         "date": "2026-05-10",
         "text": "Updated show: Belle & Sebastian Tour Support",
         "link": "/show/belle-sebastian-tour-support"
-    },
-    {
-        "id": 1778445655510,
-        "date": "2026-05-10",
-        "text": "Updated show: Outside. Again.",
-        "link": "/show/outside-again"
     }
 ]
