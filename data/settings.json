@@ -9,7 +9,11 @@
     "featured": {
         "enabled": true,
         "type": "radio",
-        "id": "february-22-2026"
+        "id": "resonance-fm-the-art-of-listening"
+    },
+    "featuredEvent": {
+        "enabled": false,
+        "id": ""
     },
     "navigation": {
         "showPrint": true,

@@ -394,7 +394,7 @@
         "series": "Other",
         "station": "Resonance FM",
         "date": "2021-02-12",
-        "description": "A special on-off broadcast by Daniel Kitson - \"it's just going to be an hour of blather and bangers\" - as part of our Annual Fundraiser. If you enjoy, do please donate!",
+        "description": "A special one-off broadcast by Daniel Kitson - \"it's just going to be an hour of blather and bangers\" - as part of our Annual Fundraiser. If you enjoy, do please donate!",
         "audio_full": "https://archive.org/download/daniel-kitson-misc-radio/2021-02-12_-_Clear_Spot_Resonance_FM_fundraiser.mp3",
         "audio_edited": "https://archive.org/download/daniel-kitson-misc-radio-edited/2021-02-12_-_Clear_Spot_Resonance_FM_fundraiser-cut.mp3",
         "spotify": "https://open.spotify.com/playlist/5x8uwrkl1ROMXN8izpuX45?si=92ef325baa294384",
@@ -10869,5 +10869,20 @@
         ],
         "audio_full": "https://archive.org/download/daniel-kitson-a-reason-to-wake-up/A_Reason_to_Wake_Up_-_2026-02-22.full.mp3",
         "audio_edited": "https://archive.org/download/a-reason-to-wake-up-edited/A_Reason_to_Wake_Up_-_2026-02-22.edit.mp3"
+    },
+    {
+        "id": "resonance-fm-the-art-of-listening",
+        "title": "Resonance FM: The Art of Listening",
+        "station": "BBC Radio 4",
+        "series": "Other",
+        "date": "2026-06-20",
+        "description": "Features a short ~2 minute interview with Daniel and some audio from the Resofit benefit held at Bloomsbury Theatre on 11 May 2026.\n\n\"Comedian and writer Stewart Lee explores the founding ideas and extraordinary archive of Resonance FM, the UK’s greatest radio art station.\nThe summer of 1998 - a new guerrilla radio station, broadcast from an attic on London’s South Bank, with a tiny crew and an unsteady aerial, mixed improvised music, endless birdsong and angry pensioners demanding their rights with experimental comedy, polyglot children’s programming, circuit bending and the heady whiff of full broadcasting freedom.\n\nNearly thirty years and several precarious office spaces later it is still broadcasting and now reaches the entire world – a beacon of brilliance and an ongoing work of radio art in its own right.\n\nResonance platforms the unplatformed. Broadcasts the unbroadcastable. An audio outgrowth of a radical creative underground, it also pioneered the idea of community radio in the UK as a space where outside voices could find a platform - from devotees of Congolese dance music to Calling All Pensioners, where a reformed bank robber yelled angrily about senior citizen rights. From the beginning it’s been committed to the idea of what its founders called ‘radical hospitality’ – that anyone with a good idea can have a spot. Resonance is an ongoing invitation.\n\nHaving fronted several shows for the station over the years, Stewart meets Resonance broadcasters past and present, its founders and current visionaries; its constituency of artists, musicians and comedians; its brilliant volunteers and engineers, and dives into the station’s extraordinary archive.\n\nPresented by Stewart Lee\nProduced by Simon Hollis\n\nA Brook Lapping Production for BBC Radio 4\"",
+        "hosts": [
+            "daniel_kitson",
+            "stewart_lee"
+        ],
+        "mentions_people": [],
+        "tracklist": [],
+        "audio_edited": "https://archive.org/download/daniel-kitson-misc-radio-edited/2026-06-20_-_Resonance_FM_The_Art_of_Listening_-_BBC_Radio_4-cut.mp3"
     }
 ]

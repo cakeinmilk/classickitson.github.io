@@ -1,5 +1,35 @@
 [
     {
+        "id": 1786214578673,
+        "date": "2026-08-08",
+        "text": "Added radio episode: Resonance FM: The Art of Listening (2026-06-20)",
+        "link": "/radio/resonance-fm-the-art-of-listening"
+    },
+    {
+        "id": 1786213360169,
+        "date": "2026-08-08",
+        "text": "Updated show: The Ballad of Roger and Grace",
+        "link": "/show/the-ballad-of-roger-and-grace"
+    },
+    {
+        "id": 1786213133553,
+        "date": "2026-08-08",
+        "text": "Updated show: Belle & Sebastian Tour Support",
+        "link": "/show/belle-sebastian-tour-support"
+    },
+    {
+        "id": 1786212794525,
+        "date": "2026-08-08",
+        "text": "Updated show: Thrum",
+        "link": "/show/thrum"
+    },
+    {
+        "id": 1781862896890,
+        "date": "2026-06-19",
+        "text": "Updated show: Thrum",
+        "link": "/show/thrum"
+    },
+    {
         "id": 1780057156625,
         "date": "2026-05-29",
         "text": "Added print item: Desperate dan",
@@ -10,41 +40,5 @@
         "date": "2026-05-29",
         "text": "Updated show: Thrum -\nadded Autumn tour dates",
         "link": "/show/thrum"
-    },
-    {
-        "id": 1780005651105,
-        "date": "2026-05-28",
-        "text": "Added print item: Reading The Room: The Inside Story of UK Stand-Up in the 21st Century",
-        "link": "/print/reading-the-room-the-inside-story-of-uk-stand-up-in-the-21st-century"
-    },
-    {
-        "id": 1779819420282,
-        "date": "2026-05-26",
-        "text": "Updated show: Stories for the Starlit Sky",
-        "link": "/show/stories-for-the-starlit-sky"
-    },
-    {
-        "id": 1779818667381,
-        "date": "2026-05-26",
-        "text": "Added print item: Life & Laughing: My Story",
-        "link": "/print/life-laughing-my-story"
-    },
-    {
-        "id": 1779052841239,
-        "date": "2026-05-17",
-        "text": "Added print item: Thirst: Twelve Drinks that Changed My Life",
-        "link": "/print/thirst-twelve-drinks-that-changed-my-life"
-    },
-    {
-        "id": 1778884862087,
-        "date": "2026-05-15",
-        "text": "Updated show: Thrum",
-        "link": "/show/thrum"
-    },
-    {
-        "id": 1778445817060,
-        "date": "2026-05-10",
-        "text": "Updated show: Belle & Sebastian Tour Support",
-        "link": "/show/belle-sebastian-tour-support"
     }
 ]

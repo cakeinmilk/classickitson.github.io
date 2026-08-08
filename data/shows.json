@@ -703,6 +703,8 @@
                 "screening": false,
                 "streamed": false,
                 "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2008-01-14",
                 "end": "",
                 "venue": "St. Ann's Warehouse",
@@ -715,6 +717,8 @@
                 "screening": false,
                 "streamed": false,
                 "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2008-05-12",
                 "end": "",
                 "venue": "Traverse Theatre",
@@ -727,6 +731,8 @@
                 "screening": false,
                 "streamed": false,
                 "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
                 "start": "2008-08-01",
                 "end": "",
                 "venue": "The Stand",
@@ -734,9 +740,8 @@
                 "country": "UK"
             }
         ],
-        "characters": [],
         "themes": [],
-        "development": "with Gavin Osborn",
+        "development": "Although it shares a title and a profession with one of the main characters, Gavin’s 2015 song \"Roger's Inventing Again\" (from Share Your Toys) was not cut from this story.",
         "restagings": [
             {
                 "year": 2015,
@@ -4061,6 +4066,11 @@
                 "text": "I’m going to start the year by waddling over the hill to Stanley Halls and doing a bunch of very (very) early stage work in progress towards something that feels like it might, potentially, become some sort of stand up comedy show, at some point, possibly.\n\nIt’ll just be me trying out things and blathering on, working out what I think, how much of what I think I want to say and how I want to say whatever amount of what I think, I decide I want to say. There’s also some lovely tiled walls to look at if you get bored.\nIt’ll cost five pounds and last somewhere between 60 and 90 minutes.",
                 "month": "November",
                 "year": "2025"
+            },
+            {
+                "text": "Daniel Kitson has been working on a new show and it’s nearly ready: –\n\nThere’s the sound of somewhere else and the permanence of a plant pot and the ubiquity of a phrase and the heartbreaking brevity of a very long time. There’s figs and worms and an old dog rejecting a blanket. There’s a woman, on a train, wearing a badge. There’s the first beep of a smoke alarm and there’s a daffodil in December and there’s the condition of fruit.\n\n*And.*\n\nThere should be music, more or less throughout, at least two funny voices and upwards of three jokes.",
+                "month": "June",
+                "year": 2026
             }
         ],
         "dates": [
@@ -4323,11 +4333,39 @@
                 "streamed": false,
                 "preview": false,
                 "rescheduled": false,
+                "wipNote": "Stand Up at Stanley",
+                "start": "2026-07-25",
+                "end": "2026-07-26",
+                "venue": "Stanley Arts",
+                "city": "London",
+                "country": "UK"
+            },
+            {
+                "wip": true,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
                 "wipNote": "",
                 "start": "2026-07-27",
                 "end": "2026-07-29",
                 "venue": "The Old Market",
                 "city": "Hove",
+                "country": "UK"
+            },
+            {
+                "wip": true,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2026-08-11",
+                "end": "2026-08-13",
+                "venue": "The Stand",
+                "city": "Edinburgh",
                 "country": "UK"
             },
             {
@@ -4780,7 +4818,7 @@
             }
         ],
         "poster": "https://placehold.co/400x600/161b22/a5d6ff?text=Untitled 2026 Standup",
-        "development": "Title, blurb and poster were announced on Kitson's site on the 13th May.\n\nThe blurb is very, *very* similar to Pith's.\n\nBoth blurbs rely on anaphora, switching between \"There might be\" and \"There’s\". They share imagery of holding hands in bed, alongside an exact phrase match with \"the sound of somewhere else\" popping up in both. Both weave in observations about trains, and both end with a tentative promise of jokes.\n\nA short list of just five Edinburgh Fringe dates was announced 15th May. They would go on sale 18th May to be followed with \"a UK tour with something in the region of 35 dates throughout the autumn.\" These dates, throughout September to November, were announced on the 29th May. Daniel mentioned a desire to add Belfast and London dates at a future time, as well as the possibility of overseas touring."
+        "development": "Title, blurb and poster were announced on Kitson's site on the 13th May.\n\nThe blurb is very, *very* similar to Pith's.\n\nBoth blurbs rely on anaphora, switching between \"There might be\" and \"There’s\". They share imagery of holding hands in bed, alongside an exact phrase match with \"the sound of somewhere else\" popping up in both. Both weave in observations about trains, and both end with a tentative promise of jokes.\n\nA short list of just five Edinburgh Fringe dates was announced 15th May. They would go on sale 18th May to be followed with \"a UK tour with something in the region of 35 dates throughout the autumn.\" These dates, throughout September to November, were announced on the 29th May. Daniel mentioned a desire to add Belfast and London dates at a future time, as well as the possibility of overseas touring. An update on 11th June mentioned that due to sell-outs, additional dates for Manchester, Birmingham, Bristol, Brighton, Leeds etc would be coming  in February of next year. London run is pretty certain for early 2027.\n\nThree additional WIP dates were added on the 8th of August at tThe Stand with the note that \"Daniel's new show is nearly there but it's not quite finished and he needs to practice it. So that's what this is. Likely to be a kerfuffle.\""
     },
     {
         "id": "belle-sebastian-tour-support",
@@ -4791,7 +4829,7 @@
             "gavin_osborn"
         ],
         "synopsis": "Not much about this story is known. In a review of the Bristol show, it was described as an \"enchantingly detailed tale of a schoolboy's love ... ending in a to-be-continued-style resolution.\"",
-        "development": "Following their performance at Latitude Festival in 2010, Kitson announced in mid-November that he and Gavin Osborn had been tapped to support Belle and Sebastian on their UK tour. To kick off the nights, the pair wrote a special 35-minute opening set combining their signature mix of story and music.[1]",
+        "development": "Following their performance at Latitude Festival in 2010, Kitson announced in mid-November that he and Gavin Osborn had been tapped to support Belle and Sebastian on their UK tour. To kick off the nights, the pair wrote a special 35-minute opening set combining their signature mix of story and music.[1]\n\nA couple of the tour dates were cancelled due to illness. One night of Gavin and Daniel's performances was recorded.",
         "footnotes": [
             "https://www.belleandsebastian.com/latest-news/daniel-kitson-gavin-osborn-to-support-us-in-england"
         ],
