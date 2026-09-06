@@ -1,5 +1,11 @@
 [
     {
+        "id": 1788651469969,
+        "date": "2026-09-05",
+        "text": "Updated show: Thrum",
+        "link": "/show/thrum"
+    },
+    {
         "id": 1786214578673,
         "date": "2026-08-08",
         "text": "Added radio episode: Resonance FM: The Art of Listening (2026-06-20)",
@@ -27,18 +33,6 @@
         "id": 1781862896890,
         "date": "2026-06-19",
         "text": "Updated show: Thrum",
-        "link": "/show/thrum"
-    },
-    {
-        "id": 1780057156625,
-        "date": "2026-05-29",
-        "text": "Added print item: Desperate dan",
-        "link": "/print/desperate-dan"
-    },
-    {
-        "id": 1780054489924,
-        "date": "2026-05-29",
-        "text": "Updated show: Thrum -\nadded Autumn tour dates",
         "link": "/show/thrum"
     }
 ]

@@ -4387,6 +4387,20 @@
                 "recording": false,
                 "screening": false,
                 "streamed": false,
+                "preview": true,
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2026-09-03",
+                "end": "2026-09-04",
+                "venue": "Stanley Arts",
+                "city": "London",
+                "country": "UK"
+            },
+            {
+                "wip": false,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
                 "preview": false,
                 "rescheduled": false,
                 "wipNote": "",
@@ -4815,10 +4829,24 @@
                 "venue": "Albert Hall",
                 "city": "Manchester",
                 "country": "UK"
+            },
+            {
+                "wip": false,
+                "recording": false,
+                "screening": false,
+                "streamed": false,
+                "preview": false,
+                "rescheduled": false,
+                "wipNote": "",
+                "start": "2027-02-06",
+                "end": "",
+                "venue": "Playhouse",
+                "city": "Liverpool",
+                "country": "UK"
             }
         ],
         "poster": "https://placehold.co/400x600/161b22/a5d6ff?text=Untitled 2026 Standup",
-        "development": "Title, blurb and poster were announced on Kitson's site on the 13th May.\n\nThe blurb is very, *very* similar to Pith's.\n\nBoth blurbs rely on anaphora, switching between \"There might be\" and \"There’s\". They share imagery of holding hands in bed, alongside an exact phrase match with \"the sound of somewhere else\" popping up in both. Both weave in observations about trains, and both end with a tentative promise of jokes.\n\nA short list of just five Edinburgh Fringe dates was announced 15th May. They would go on sale 18th May to be followed with \"a UK tour with something in the region of 35 dates throughout the autumn.\" These dates, throughout September to November, were announced on the 29th May. Daniel mentioned a desire to add Belfast and London dates at a future time, as well as the possibility of overseas touring. An update on 11th June mentioned that due to sell-outs, additional dates for Manchester, Birmingham, Bristol, Brighton, Leeds etc would be coming  in February of next year. London run is pretty certain for early 2027.\n\nThree additional WIP dates were added on the 8th of August at tThe Stand with the note that \"Daniel's new show is nearly there but it's not quite finished and he needs to practice it. So that's what this is. Likely to be a kerfuffle.\""
+        "development": "Title, blurb and poster were announced on Kitson's site on the 13th May.\n\nThe blurb is very, *very* similar to Pith's.\n\nBoth blurbs rely on anaphora, switching between \"There might be\" and \"There’s\". They share imagery of holding hands in bed, alongside an exact phrase match with \"the sound of somewhere else\" popping up in both. Both weave in observations about trains, and both end with a tentative promise of jokes.\n\nA short list of just five Edinburgh Fringe dates was announced 15th May. They would go on sale 18th May to be followed with \"a UK tour with something in the region of 35 dates throughout the autumn.\" These dates, throughout September to November, were announced on the 29th May. Daniel mentioned a desire to add Belfast and London dates at a future time, as well as the possibility of overseas touring. An update on 11th June mentioned that due to sell-outs, additional dates for Manchester, Birmingham, Bristol, Brighton, Leeds etc would be coming  in February of next year. London run is pretty certain for early 2027.\n\nThree additional WIP dates were added on the 8th of August at tThe Stand with the note that \"Daniel's new show is nearly there but it's not quite finished and he needs to practice it. So that's what this is. Likely to be a kerfuffle.\"\n\nIn early September 2026, the first 2027 date was announced (for a second Liverpool performance) along with two last minute tour warm-ups at Stanley Arts."
     },
     {
         "id": "belle-sebastian-tour-support",
